@@ -1,0 +1,109 @@
+.dashboard-wrapper {
+  padding: 16px;
+  font-family: sans-serif;
+}
+
+.tabs-bar {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #ccc;
+  overflow-x: auto;
+
+  button {
+    padding: 8px 16px;
+    background: #eee;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    border-radius: 4px 4px 0 0;
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: 14px;
+
+    &.active {
+      background: white;
+      font-weight: bold;
+      position: relative;
+      top: 1px;
+    }
+  }
+}
+
+.search-bar {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+
+  .input-wrapper {
+    flex: 1;
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    input {
+      width: 100%;
+      padding: 8px;
+      padding-right: 28px; /* Make space so text doesn't hide behind the cross */
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    .clear-btn {
+      position: absolute;
+      right: 8px;
+      background: none;
+      border: none;
+      padding: 0;
+      font-size: 18px;
+      color: #999;
+      cursor: pointer;
+      line-height: 1;
+
+      &:hover {
+        color: #333;
+        background: none;
+      }
+    }
+  }
+}
+
+.simple-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  th {
+    background-color: #f9f9f9;
+    font-weight: bold;
+  }
+}
+
+.college-header-cell {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+.w-seats { width: 100px; }
+.w-action { width: 120px; }
+.text-center { text-align: center !important; }
+
+button {
+  padding: 6px 12px;
+  cursor: pointer;
+  background: white;
+  border: 1px solid #999;
+  border-radius: 3px;
+  
+  &:hover {
+    background: #eee;
+  }
+}

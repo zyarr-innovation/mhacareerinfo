@@ -1,0 +1,194 @@
+[
+    {
+        "name": "1101 Sir J. J. School of Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 30,
+        "choice_code": "1101",
+        "course_name": "B.F.A. Painting",
+        "page_no": "0"
+    },
+    {
+        "name": "1103 Sir J. J. School of Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 15,
+        "choice_code": "1103",
+        "course_name": "B.F.A. Textile Design",
+        "page_no": "0"
+    },
+    {
+        "name": "1104 Sir J. J. School of Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 15,
+        "choice_code": "1104",
+        "course_name": "B.F.A. Interior Decoration",
+        "page_no": "0"
+    },
+    {
+        "name": "1105 Sir J. J. School of Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 5,
+        "choice_code": "1105",
+        "course_name": "B.F.A. Sculpture",
+        "page_no": "1"
+    },
+    {
+        "name": "1106 Sir J. J. School of Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 5,
+        "choice_code": "1106",
+        "course_name": "B.F.A. Metal Work",
+        "page_no": "1"
+    },
+    {
+        "name": "1107 Sir J. J. School of Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 5,
+        "choice_code": "1107",
+        "course_name": "B.F.A. Ceramic",
+        "page_no": "1"
+    },
+    {
+        "name": "1202 Sir J. J. Institute of Applied Art, Mumbai",
+        "status": "Government Institute",
+        "cap_seats": 100,
+        "choice_code": "1202",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "2"
+    },
+    {
+        "name": "2101 Government College of Art & Design, Nagpur",
+        "status": "Government Institute",
+        "cap_seats": 30,
+        "choice_code": "2101",
+        "course_name": "B.F.A. Painting",
+        "page_no": "2"
+    },
+    {
+        "name": "2102 Government College of Art & Design, Nagpur",
+        "status": "Government Institute",
+        "cap_seats": 30,
+        "choice_code": "2102",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "2"
+    },
+    {
+        "name": "2201 Government College of Art & Design, Chhatrapati Sambhajinagar",
+        "status": "Government Institute",
+        "cap_seats": 15,
+        "choice_code": "2201",
+        "course_name": "B.F.A. Painting",
+        "page_no": "3"
+    },
+    {
+        "name": "2202 Government College of Art & Design, Chhatrapati Sambhajinagar",
+        "status": "Government Institute",
+        "cap_seats": 35,
+        "choice_code": "2202",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "3"
+    },
+    {
+        "name": "2203 Government College of Art & Design, Chatrapati Sambhajinagar",
+        "status": "Government Institute",
+        "cap_seats": 15,
+        "choice_code": "2203",
+        "course_name": "B.F.A. Textile Design",
+        "page_no": "3"
+    },
+    {
+        "name": "1302 Rachana Sansad College of Applied Art & CraŌ, Mumbai",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 48,
+        "choice_code": "1302",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "4"
+    },
+    {
+        "name": "1402 B. S. Bandekar College of Fine Art (Applied Art), Sawantwadi",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 27,
+        "choice_code": "1402",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "4"
+    },
+    {
+        "name": "1601 Bharati Vidyapeeth’s College of Fine Art, Pune",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 24,
+        "choice_code": "1601",
+        "course_name": "B.F.A. Painting",
+        "page_no": "4"
+    },
+    {
+        "name": "1602 Bharati Vidyapeeth’s College of Fine Art, Pune",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 48,
+        "choice_code": "1602",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "5"
+    },
+    {
+        "name": "1701 Viva Institute of Applied Art, Virar",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 24,
+        "choice_code": "1701",
+        "course_name": "B.F.A. Painting",
+        "page_no": "5"
+    },
+    {
+        "name": "1702 Viva Institute of Applied Art, Virar",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 48,
+        "choice_code": "1702",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "5"
+    },
+    {
+        "name": "1802 Vasantdada Patil Pratishthan’s College of Engineering & Visual Art, Sion, Mumbai",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 48,
+        "choice_code": "1802",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "6"
+    },
+    {
+        "name": "1902 Sanjeevan Group of Institutions, panhala, Kolhapur",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 24,
+        "choice_code": "1902",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "6"
+    },
+    {
+        "name": "2002 Aditya College of Architecture, Borivali West",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 24,
+        "choice_code": "2002",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "6"
+    },
+    {
+        "name": "2301 KCE`S Moolji Jaitha College, Jalgaon",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 24,
+        "choice_code": "2301",
+        "course_name": "B.F.A. Painting",
+        "page_no": "7"
+    },
+    {
+        "name": "2302 KCE`S Moolji Jaitha College, Jalgaon",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 24,
+        "choice_code": "2302",
+        "course_name": "B.F.A. Applied Art",
+        "page_no": "7"
+    },
+    {
+        "name": "2305 KCE`S Moolji Jaitha College, Jalgaon",
+        "status": "Private Un-Aided Institute",
+        "cap_seats": 4,
+        "choice_code": "2305",
+        "course_name": "B.F.A. Sculpture",
+        "page_no": "7"
+    }
+]

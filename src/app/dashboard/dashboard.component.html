@@ -1,0 +1,54 @@
+<div class="dashboard-wrapper">
+  
+  <!-- File Selection Tabs -->
+  <div class="tabs-bar">
+    <button 
+      *ngFor="let tab of fileTabs" 
+      [class.active]="tab.name === activeFileName"
+      (click)="selectTab(tab.name)">
+      {{ tab.label }}
+    </button>
+  </div>
+  
+  <div class="search-bar">
+    <div class="input-wrapper">
+      <input type="text" [(ngModel)]="collegeSearch" (input)="applyFilters()" placeholder="Search College">
+      <button *ngIf="collegeSearch" class="clear-btn" (click)="collegeSearch = ''; applyFilters()">&times;</button>
+    </div>
+
+    <div class="input-wrapper">
+      <input type="text" [(ngModel)]="courseSearch" (input)="applyFilters()" placeholder="Search Course">
+      <button *ngIf="courseSearch" class="clear-btn" (click)="courseSearch = ''; applyFilters()">&times;</button>
+    </div>
+  </div>
+
+  <table class="simple-table">
+    <thead>
+      <tr>
+        <th>Course Details</th>
+        <th class="w-seats">Seats</th>
+        <th class="w-action">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <ng-container *ngFor="let row of displayRows">
+        
+        <tr *ngIf="row.isHeader">
+          <td colspan="3" class="college-header-cell">
+            {{ row.collegeName }}
+          </td>
+        </tr>
+        
+        <tr *ngIf="!row.isHeader">
+          <td>{{ row.courseName }}</td>
+          <td class="text-center">{{ row.seats }}</td>
+          <td class="text-center">
+            <button (click)="openPdf(row.pageNo)">Explore</button>
+          </td>
+        </tr>
+
+      </ng-container>
+    </tbody>
+  </table>
+
+</div>

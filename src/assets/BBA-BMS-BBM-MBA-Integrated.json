@@ -1,0 +1,3906 @@
+[
+    {
+        "name": "02113 - G. S. Mandal's Maharashtra Institute of Technology, Aurangabad",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0211310110",
+        "course_name": "BBA",
+        "page_no": "0"
+    },
+    {
+        "name": "02256 - Foster Development School of Management, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0225610110",
+        "course_name": "BBA",
+        "page_no": "1"
+    },
+    {
+        "name": "02622 - Jay Bhavani Institute of Management, Badnapur, Jalna",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0262210110",
+        "course_name": "BBA",
+        "page_no": "2"
+    },
+    {
+        "name": "02664 - Deogiri College, Chh. Sambhaji Nagar",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0266410110",
+        "course_name": "BBA",
+        "page_no": "3"
+    },
+    {
+        "name": "02671 - MAULANA AZAD COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Relogious Minority Muslim & Linguistic Minority Urdu",
+        "cap_seats": 48,
+        "choice_code": "0267110170U",
+        "course_name": "BBA",
+        "page_no": "4"
+    },
+    {
+        "name": "02672 - ARTS SCIENCE AND COMMERCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0267210170U",
+        "course_name": "BBA",
+        "page_no": "5"
+    },
+    {
+        "name": "02673 - ASHTI TALUKA SHIKSHAN PRASARAK MANDAL'S ADV.B.D. HAMBARDE MAHAVIDYALAYA ASHTI",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0267310170U",
+        "course_name": "BBA",
+        "page_no": "6"
+    },
+    {
+        "name": "02683 - JALNA COLLEGE OF SOCIAL WORK",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0268310170U",
+        "course_name": "BBA",
+        "page_no": "7"
+    },
+    {
+        "name": "02702 - BILL GATES INSTITUTE OF COMPUTER SCIENCE AND MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0270210110",
+        "course_name": "BBA",
+        "page_no": "8"
+    },
+    {
+        "name": "02704 - HITECH COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0270410110",
+        "course_name": "BBA",
+        "page_no": "9"
+    },
+    {
+        "name": "02711 - SUPRIYATAI SULE COLLEGE OF MANAGEMENT SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0271110110",
+        "course_name": "BBA",
+        "page_no": "10"
+    },
+    {
+        "name": "02712 - KALAVATI INSTITUTE OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0271210110",
+        "course_name": "BBA",
+        "page_no": "11"
+    },
+    {
+        "name": "02733 - AASAWA BROTHERS BUSINESS SCHOOL ARTS SCIENCE COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0273310110",
+        "course_name": "BBA",
+        "page_no": "12"
+    },
+    {
+        "name": "02752 - RAJE SHAHAJI SENIOR COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0275210110",
+        "course_name": "BBA",
+        "page_no": "13"
+    },
+    {
+        "name": "04111 - Sarvodaya Shikshan Mandal's Sau Leena Kishor Mamidvar Institute of Management Studies & Research, Chandrapur",
+        "status": "Un-Aided",
+        "cap_seats": 220,
+        "choice_code": "0411110110",
+        "course_name": "BBA",
+        "page_no": "14"
+    },
+    {
+        "name": "04722 - RAJMAL PUGLIA INSTITUTE OF MANAGEMENT AND TECHNOLOGY, CHANDRAPUR",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0472210110",
+        "course_name": "BBA",
+        "page_no": "15"
+    },
+    {
+        "name": "06037 - KARMAVEER BHAURAO PATIL UNIVERSITY SATARA",
+        "status": "University Managed -Autonomous",
+        "cap_seats": 60,
+        "choice_code": "0603712410",
+        "course_name": "BBA (Aviation Management)",
+        "page_no": "16"
+    },
+    {
+        "name": "05017 - SHRI KAKASAHEB HEERALAL MAGANLAL CHAUDHARI ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 48,
+        "choice_code": "0501710110",
+        "course_name": "BBA",
+        "page_no": "17"
+    },
+    {
+        "name": "05101 - Khandesh College Education Society's Institute of Management & Research, Jalgaon",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 180,
+        "choice_code": "0510110110",
+        "course_name": "BBA",
+        "page_no": "18"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "19"
+    },
+    {
+        "name": "05102 - Godavari Institute of Management & Research, Jalgaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0510210110",
+        "course_name": "BBA",
+        "page_no": "20"
+    },
+    {
+        "name": "05150 - R.C. Patel Educational Trust, Institute of Management Reasearch & Development, Shirpur",
+        "status": "Un-Aided -Linguistic Minority - Gujarathi",
+        "cap_seats": 96,
+        "choice_code": "0515010110",
+        "course_name": "BBA",
+        "page_no": "21"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Gujarathi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "22"
+    },
+    {
+        "name": "05152 - G H Raisoni College of Engineering and Management, Jalgaon",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 180,
+        "choice_code": "0515210110 #",
+        "course_name": "BBA",
+        "page_no": "23"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "24"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "25"
+    },
+    {
+        "name": "05169 - Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0516910110",
+        "course_name": "BBA",
+        "page_no": "26"
+    },
+    {
+        "name": "05321 - Institute of Management and Science, Sakegaon",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0532110110",
+        "course_name": "BBA",
+        "page_no": "27"
+    },
+    {
+        "name": "05546 - DHANAJI NANA MAHAVIDYALYA",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0554610170U",
+        "course_name": "BBA",
+        "page_no": "28"
+    },
+    {
+        "name": "05548 - KCES MOOLJI JAITHA COLLEGE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0554810170U",
+        "course_name": "BBA",
+        "page_no": "29"
+    },
+    {
+        "name": "05549 - DHULE EDUCATION SOCIETY'S M. D. PALESHA COMMERCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0554910170U",
+        "course_name": "BBA",
+        "page_no": "30"
+    },
+    {
+        "name": "05550 - BHUSAWAL ARTS SCIENCE AND P O NAHATA COMMERCE COLLEGE BHUSAWAL",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0555010170U",
+        "course_name": "BBA",
+        "page_no": "31"
+    },
+    {
+        "name": "05552 - NANASAHEB YASHWANTRAO NARAYANRAO CHAVAN ARTS SCIENCE AND COMMERCE COLLEGE CHALISGAON",
+        "status": "Un-Aided",
+        "cap_seats": 32,
+        "choice_code": "0555210170U",
+        "course_name": "BBA",
+        "page_no": "32"
+    },
+    {
+        "name": "05554 - ZULAL BHILAJIRAO PATIL COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0555410170U",
+        "course_name": "BBA",
+        "page_no": "33"
+    },
+    {
+        "name": "05556 - DADASAHEB DR.SURESH G.PATIL COLLEGE CHOPDA",
+        "status": "Un-Aided",
+        "cap_seats": 40,
+        "choice_code": "0555610170U",
+        "course_name": "BBA",
+        "page_no": "34"
+    },
+    {
+        "name": "05560 - R C PATEL ARTS COMMERCE AND SCIENCE COLLEGE SHIRPUR",
+        "status": "Un-Aided -Linguistic Minority - Gujarathi",
+        "cap_seats": 32,
+        "choice_code": "0556010270U",
+        "course_name": "BMS",
+        "page_no": "35"
+    },
+    {
+        "name": "05579 - THE KANDESH EDUCATION SOCIETYS PRATAP COLLEGE AMALNER",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0557910170U",
+        "course_name": "BBA",
+        "page_no": "36"
+    },
+    {
+        "name": "05592 - SYSTEL TECHNICAL EDUCATION SOCIETYS SYSTEL INSTITUTE OF MANAGEMENT AND RESEARCH",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0559210110",
+        "course_name": "BBA",
+        "page_no": "37"
+    },
+    {
+        "name": "05599 - MKD ARTS COMMERCE SCIENCE AND FASHION DESIGNING COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0559910110",
+        "course_name": "BBA",
+        "page_no": "38"
+    },
+    {
+        "name": "05603 - KRIDA RASIK EDUCATION SOCIETY INSTITUTE OF MANAGEMENT AND RESEARCH JALGAON SANCHALIT ADV SITARAM BABANBHAU ANANDRAMJI BAHETI ARTS COMMERCE AND SCIENCE COLLEGE JALGAON",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0560310110",
+        "course_name": "BBA",
+        "page_no": "39"
+    },
+    {
+        "name": "05608 - INSTITUTE OF MANAGEMENT AN RESEARCH JAMNER",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0560810110",
+        "course_name": "BBA",
+        "page_no": "40"
+    },
+    {
+        "name": "05615 - SSBTS ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0561510110",
+        "course_name": "BBA",
+        "page_no": "41"
+    },
+    {
+        "name": "05629 - SMT SITABAI MANGILAL AGRAWAL INSTITUTE OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 108,
+        "choice_code": "0562910110",
+        "course_name": "BBA",
+        "page_no": "42"
+    },
+    {
+        "name": "03615 - BAKLIWAL FOUNDATION",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 192,
+        "choice_code": "0361510110",
+        "course_name": "BBA",
+        "page_no": "43"
+    },
+    {
+        "name": "03709 - SAHYOG COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0370910110",
+        "course_name": "BBA",
+        "page_no": "44"
+    },
+    {
+        "name": "04017 - KAVIKULAGURU KALIDAS SANSKRIT UNIVERSITY RAMTEK",
+        "status": "Un-Aided",
+        "cap_seats": 32,
+        "choice_code": "0401710110U",
+        "course_name": "BBA",
+        "page_no": "45"
+    },
+    {
+        "name": "04747 - JANAPRABHA COLLEGE, RAMTEK",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0474710110",
+        "course_name": "BBA",
+        "page_no": "46"
+    },
+    {
+        "name": "03003 - Alkesh Dinesh Modi Institute for Financial & Management Studies, Mumbai",
+        "status": "University Department",
+        "cap_seats": 60,
+        "choice_code": "0300301110",
+        "course_name": "BMS-MMS (Integrated)",
+        "page_no": "47"
+    },
+    {
+        "name": "University Department",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "48"
+    },
+    {
+        "name": "03043 - SINDHU EDUCATION SOCIETY'S INSTITUTE OF TECHNOLOGY AND MANAGEMENT",
+        "status": "Un-Aided -Linguistic Minority - Sindhi",
+        "cap_seats": 55,
+        "choice_code": "0304310210",
+        "course_name": "BMS",
+        "page_no": "49"
+    },
+    {
+        "name": "03048 - NATIONAL KANNADA EDUCATION SOCIETY'S N K E S COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided -Linguistic Minority - Kannada",
+        "cap_seats": 52,
+        "choice_code": "0304810210",
+        "course_name": "BMS",
+        "page_no": "50"
+    },
+    {
+        "name": "03050 - School of Management Studies, Thane Sub-Campus, Mumbai University, Thane",
+        "status": "University Department",
+        "cap_seats": 60,
+        "choice_code": "0305001110",
+        "course_name": "BMS-MMS (Integrated)",
+        "page_no": "51"
+    },
+    {
+        "name": "03113 - Maratha Mandir's Babasaheb Gawde Institute of Management Studies, Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0311310210",
+        "course_name": "BMS",
+        "page_no": "52"
+    },
+    {
+        "name": "03118 - Zagdu Singh Chartitable Trust's Thakur Institute of Management Studies & Research, Mumbai",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 48,
+        "choice_code": "0311810210",
+        "course_name": "BMS",
+        "page_no": "53"
+    },
+    {
+        "name": "03119 - St. Francis Institute of Management & Research, Mumbai",
+        "status": "Un-Aided -Autonomous -Religious Minority - Christian",
+        "cap_seats": 48,
+        "choice_code": "0311910210",
+        "course_name": "BMS",
+        "page_no": "54"
+    },
+    {
+        "name": "03127 - NCRD's Sterling Institute of Management Studies, Navi Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0312710210",
+        "course_name": "BMS",
+        "page_no": "55"
+    },
+    {
+        "name": "03146 - Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0314610210",
+        "course_name": "BMS",
+        "page_no": "56"
+    },
+    {
+        "name": "03176 - Thakur College of Engineering and Technology, Kandivali, Mumbai",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 96,
+        "choice_code": "0317610110",
+        "course_name": "BBA",
+        "page_no": "57"
+    },
+    {
+        "name": "03438 - Aditya Institute of Management Studies & Research, Borivali",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 48,
+        "choice_code": "0343810210",
+        "course_name": "BMS",
+        "page_no": "58"
+    },
+    {
+        "name": "03503 - Indala College Of Engineering, Bapsai Tal.Kalyan",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0350310210",
+        "course_name": "BMS",
+        "page_no": "59"
+    },
+    {
+        "name": "03548 - SHRIMATI INDIRA MAHADEV BEHARAY COLLEGE OF ARTS SHRIMAN CHANDULAL SHETH COLLEGE OF COMMERCE AND SHRIMATI SHOBHANATAI CHANDULAL SHETH COLLEGE OF SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0354810270U",
+        "course_name": "BMS",
+        "page_no": "60"
+    },
+    {
+        "name": "03549 - BHARATIYA VIDYA BHAVANS M M COLLEGE OF ARTS N M INSTITUTE OF SCINCE H R J COLLEGE OF COMMERCE BHAVANS AUTONOMUS COLLEGE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0354910270U",
+        "course_name": "BMS",
+        "page_no": "61"
+    },
+    {
+        "name": "03553 - R.P GOGATE COLLEGE OF ARTS AND SCIENCE AND R.V JOGALEKAR COLLEGE OF COMMERCE AUTONOMOUS RATNAGIRI",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0355310170U",
+        "course_name": "BBA",
+        "page_no": "62"
+    },
+    {
+        "name": "03555 - PRAHLADRAI DALMIA COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 180,
+        "choice_code": "0355510270U",
+        "course_name": "BMS",
+        "page_no": "63"
+    },
+    {
+        "name": "03556 - MALAD KANDIVLI EDUCATION SOCIETYS NAGINDAS KHANDWALA COLLEGE OF COMMERCE ARTS AND MANAGEMENT STUDIES AND SHANTABEN NAGINDAS KHANDWALA COLLEGE OF SCIENCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 432,
+        "choice_code": "0355610170U",
+        "course_name": "BBA",
+        "page_no": "64"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "65"
+    },
+    {
+        "name": "03557 - SATISH PRADHAN DNYANASADHANA COLLEGE THANE",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "0355710270U",
+        "course_name": "BMS",
+        "page_no": "66"
+    },
+    {
+        "name": "03561 - VPMS K G JOSHI COLLEGE OF ARTS AND N G BEDEKAR COLLEGE OF COMMERCE AUTONOMOUS",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0356110170U",
+        "course_name": "BBA",
+        "page_no": "67"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "68"
+    },
+    {
+        "name": "03562 - CHETANAS HAZARIMAL SOMANI COLLEGE OF COMMERCE AND ECONOMICS BANDRA EAST",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0356210170U",
+        "course_name": "BBA",
+        "page_no": "69"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "70"
+    },
+    {
+        "name": "03563 - PILLAI COLLEGE OF ARTS COMMERCE & SCIENCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Malyalam",
+        "cap_seats": 240,
+        "choice_code": "0356310170",
+        "course_name": "BBA",
+        "page_no": "71"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Malyalam",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "72"
+    },
+    {
+        "name": "03564 - RISHI DAYARAM AND SETH HASSARAM NATIONAL COLLEGE AND SETH WASSIAMULL ASSOMULL SCIENCE COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Sindhi",
+        "cap_seats": 144,
+        "choice_code": "0356410270U",
+        "course_name": "BMS",
+        "page_no": "73"
+    },
+    {
+        "name": "03567 - DES'S KIRTI M. DOONGURSEE COLLEGE OF ARTS SCIENCE AND COMMERCE (AUTONOMOUS)",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0356710270U",
+        "course_name": "BMS",
+        "page_no": "74"
+    },
+    {
+        "name": "03568 - R.A.PODAR COLLEGE OF COMMERCE AND ECONOMICS AUTONOMOUS",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0356810170U",
+        "course_name": "BBA",
+        "page_no": "75"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "76"
+    },
+    {
+        "name": "03569 - ANJUMAN I ISLAM'S AKBAR PEERBHOY COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Religious Minority - Muslim",
+        "cap_seats": 48,
+        "choice_code": "0356910270U",
+        "course_name": "BMS",
+        "page_no": "77"
+    },
+    {
+        "name": "03570 - MITHIBAI COLLEGE OF ARTS CHAUHAN INSTITUTE OF SCIENCE AND AMRUTBEN JIVANLAL COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 96,
+        "choice_code": "0357010270U",
+        "course_name": "BMS",
+        "page_no": "78"
+    },
+    {
+        "name": "03571 - SVKM'S NARSEE MONJEE COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 96,
+        "choice_code": "0357110270U",
+        "course_name": "BMS",
+        "page_no": "79"
+    },
+    {
+        "name": "03572 - SOUTH INDIAN EDUCATION SOCIETY'S COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Tamil",
+        "cap_seats": 96,
+        "choice_code": "0357210270U",
+        "course_name": "BMS",
+        "page_no": "80"
+    },
+    {
+        "name": "03574 - SIES COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Tamil",
+        "cap_seats": 144,
+        "choice_code": "0357410270U",
+        "course_name": "BMS",
+        "page_no": "81"
+    },
+    {
+        "name": "03576 - GURU NANAK KHALSA COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Religious Minority - Sikh",
+        "cap_seats": 96,
+        "choice_code": "0357610270U",
+        "course_name": "BMS",
+        "page_no": "82"
+    },
+    {
+        "name": "03579 - JAI HIND COLLEGE AUTONOMOUS",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Sindhi",
+        "cap_seats": 48,
+        "choice_code": "0357910170U",
+        "course_name": "BBA",
+        "page_no": "83"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Sindhi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "84"
+    },
+    {
+        "name": "03580 - B K BIRALA COLLEDGE KALAYAN",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0358010270U",
+        "course_name": "BMS",
+        "page_no": "85"
+    },
+    {
+        "name": "03581 - HINDI VIDYA PRACHAR SAMITIS RAMNIRANJAN JHUNJHUNWALA COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 48,
+        "choice_code": "0358110170U",
+        "course_name": "BBA",
+        "page_no": "86"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "87"
+    },
+    {
+        "name": "03588 - LALA LAJPATRAI COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Punjabi",
+        "cap_seats": 96,
+        "choice_code": "0358810270U",
+        "course_name": "BMS",
+        "page_no": "88"
+    },
+    {
+        "name": "03589 - S.I.W.S. N. R. SWAMY COLLEGE OF COMMERCE AND ECONOMICS AND SMT. THIRUMALAI COLLEGE OF SCIENCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Tamil",
+        "cap_seats": 48,
+        "choice_code": "0358910270U",
+        "course_name": "BMS",
+        "page_no": "89"
+    },
+    {
+        "name": "03593 - DTSS COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 48,
+        "choice_code": "0359310170U",
+        "course_name": "BBA",
+        "page_no": "90"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "91"
+    },
+    {
+        "name": "03600 - SHRI VILE PARLE KELAVANI MANDAL'S USHA PRAVIN GANDHI COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 96,
+        "choice_code": "0360010210",
+        "course_name": "BMS",
+        "page_no": "92"
+    },
+    {
+        "name": "03603 - SIES COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Tamil",
+        "cap_seats": 288,
+        "choice_code": "0360310210",
+        "course_name": "BMS",
+        "page_no": "93"
+    },
+    {
+        "name": "03611 - THAKUR SPECIALIZED DEGREE COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 48,
+        "choice_code": "0361110210",
+        "course_name": "BMS",
+        "page_no": "94"
+    },
+    {
+        "name": "03613 - SEVA SADAN COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Linguistic Minority - Sindhi",
+        "cap_seats": 48,
+        "choice_code": "0361310210",
+        "course_name": "BMS",
+        "page_no": "95"
+    },
+    {
+        "name": "03614 - MAHATMA EDUCATION SOCIETY PILLAI HOC COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Linguistic Minority - Malyalam",
+        "cap_seats": 144,
+        "choice_code": "0361410210",
+        "course_name": "BMS",
+        "page_no": "96"
+    },
+    {
+        "name": "03617 - SHRI D D VISPUTE COLLEGE OF SCIENCE COMMERCE AND MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0361710210",
+        "course_name": "BMS",
+        "page_no": "97"
+    },
+    {
+        "name": "03623 - THE EAST KALYAN WELFARE SOCIETYS MODEL COLLEGE OF SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0362310210",
+        "course_name": "BMS",
+        "page_no": "98"
+    },
+    {
+        "name": "03624 - SAHYADRI SHIKSHAN SANSTHA ARTS AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0362410210",
+        "course_name": "BMS",
+        "page_no": "99"
+    },
+    {
+        "name": "03631 - BUNTS SANGHA MUMBAI ANNA LEELA COLLEGE OF COMMERCE AND ECONOMICS SHOBHA JAYARAM SHETTY COLLEGE FOR BMS",
+        "status": "Un-Aided -Linguistic Minority - Kannada",
+        "cap_seats": 144,
+        "choice_code": "0363110210",
+        "course_name": "BMS",
+        "page_no": "100"
+    },
+    {
+        "name": "03632 - SMT MITHIBAI MOTIRAM KUNDNANI COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Linguistic Minority - Sindhi",
+        "cap_seats": 96,
+        "choice_code": "0363210210",
+        "course_name": "BMS",
+        "page_no": "101"
+    },
+    {
+        "name": "03633 - K L E SOCIETY'S SCIENCE AND COMMERCE COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Kannada",
+        "cap_seats": 48,
+        "choice_code": "0363310210",
+        "course_name": "BMS",
+        "page_no": "102"
+    },
+    {
+        "name": "03635 - D.G.RUPAREL COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0363510210U",
+        "course_name": "BMS",
+        "page_no": "103"
+    },
+    {
+        "name": "03639 - VIDYALANKAR SCHOOL OF INFORMATION TECHNOLOGY",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "0363910210",
+        "course_name": "BMS",
+        "page_no": "104"
+    },
+    {
+        "name": "03644 - VIVEKANAND EDUCATION SOCIETY COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Sindhi",
+        "cap_seats": 96,
+        "choice_code": "0364410110",
+        "course_name": "BBA",
+        "page_no": "105"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Sindhi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "106"
+    },
+    {
+        "name": "03647 - BHASKAR WAMAN THAKUR COLLEGE OF SCIENCE YASHVANT KESHAV PATIL COLLEGE OF COMMERCE VIDHYA DAYANAND PATIL COLLEGE OF ARTS",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0364710210",
+        "course_name": "BMS",
+        "page_no": "107"
+    },
+    {
+        "name": "03651 - KANDIVLI EDUCATION SOCIETY'S B K SHROFF COLLEGE OF ARTS AND M H SHROFF COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 96,
+        "choice_code": "0365110110",
+        "course_name": "BBA",
+        "page_no": "108"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "109"
+    },
+    {
+        "name": "03654 - ST WILFREDS COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0365410210",
+        "course_name": "BMS",
+        "page_no": "110"
+    },
+    {
+        "name": "03655 - DEVIPRASAD GOENKA MANAGEMENT COLLEGE OF MEDIA STUDIES",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 57,
+        "choice_code": "0365510210",
+        "course_name": "BMS",
+        "page_no": "111"
+    },
+    {
+        "name": "03658 - ST WILFREDS COLLEGE OF ARTS COMMERCE AND SCIENCE MIRA ROAD",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0365810210",
+        "course_name": "BMS",
+        "page_no": "112"
+    },
+    {
+        "name": "03661 - BUNTS SANGHA'S S M SHETTY COLLEGE OF SCIENCE, COMMERCE AND MANAGEMENT STUDIES",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Kannada",
+        "cap_seats": 115,
+        "choice_code": "0366110210",
+        "course_name": "BMS",
+        "page_no": "113"
+    },
+    {
+        "name": "03671 - WILSON COLLEGE AUTONOMOUS",
+        "status": "Un-Aided -Autonomous -Religious Minority - Christian",
+        "cap_seats": 144,
+        "choice_code": "0367110210",
+        "course_name": "BMS",
+        "page_no": "114"
+    },
+    {
+        "name": "03672 - SASMIRA'S INSTITUTE OF COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0367210210",
+        "course_name": "BMS",
+        "page_no": "115"
+    },
+    {
+        "name": "03673 - IDEAL COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0367310210",
+        "course_name": "BMS",
+        "page_no": "116"
+    },
+    {
+        "name": "03674 - PSSVMS SAILEE DEGREE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0367410210",
+        "course_name": "BMS",
+        "page_no": "117"
+    },
+    {
+        "name": "03677 - MALINI KISHOR SANGHVI COLLEGE OF COMMERCE AND ECONOMICS",
+        "status": "Un-Aided -Linguistic Minority - Gujarathi",
+        "cap_seats": 192,
+        "choice_code": "0367710210",
+        "course_name": "BMS",
+        "page_no": "118"
+    },
+    {
+        "name": "03678 - PILLAI COLLEGE OF EDUCATION AND RESEARCH",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Malyalam",
+        "cap_seats": 48,
+        "choice_code": "0367810110",
+        "course_name": "BBA",
+        "page_no": "119"
+    },
+    {
+        "name": "03682 - JEEVANDEEP INSTITUTE OF TECHNOLOGY AND MANAGEMENT STUDIES",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0368210210",
+        "course_name": "BMS",
+        "page_no": "120"
+    },
+    {
+        "name": "03699 - VINAYAK GANESH VAZE COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0369910170U",
+        "course_name": "BBA",
+        "page_no": "121"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "122"
+    },
+    {
+        "name": "03700 - GURU NANAK VIDYAK SOCIETY'S GURU NANAK COLLEGE OF ARTS SCIENCE AND COMMERCE (AUTONOMOUS)",
+        "status": "Un-Aided -Autonomous -Religious Minority - Sikh",
+        "cap_seats": 48,
+        "choice_code": "0370010270U",
+        "course_name": "BMS",
+        "page_no": "123"
+    },
+    {
+        "name": "03703 - SMT. P. D. HINDUJA TRUST'S K. P. B. HINDUJA COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Sindhi",
+        "cap_seats": 96,
+        "choice_code": "0370310170U",
+        "course_name": "BBA",
+        "page_no": "124"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Sindhi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "125"
+    },
+    {
+        "name": "06211 - S.A.P.D.J. Pathshala's Hirachand Nemchand College of Commerce Department of Management Studies, Solapur",
+        "status": "Un-Aided -Autonomous -Religious Minority - Jain",
+        "cap_seats": 120,
+        "choice_code": "0621110110",
+        "course_name": "BBA",
+        "page_no": "126"
+    },
+    {
+        "name": "06737 - Prin. K.P. Mangalvedhekar Institute Of Management Career Development And Research, Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0673710110",
+        "course_name": "BBA",
+        "page_no": "127"
+    },
+    {
+        "name": "16150 - SANGAMESHWAR COLLEGE SOLAPUR",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 120,
+        "choice_code": "1615010170U",
+        "course_name": "BBA",
+        "page_no": "128"
+    },
+    {
+        "name": "16201 - SHRIMAN BHAUSAHEB ZADBUKE MAHAVIDYALAYA BARSHI",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1620110110",
+        "course_name": "BBA",
+        "page_no": "129"
+    },
+    {
+        "name": "16258 - SHIVRATNA INSTITUTE OF MANAGEMENT STUDIES SHANKARNAGAR AKLUJ",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1625810110",
+        "course_name": "BBA",
+        "page_no": "130"
+    },
+    {
+        "name": "04007 - Lady Amritbai Daga College for Women of Arts, Com & Sci. & Smt. Ratnidevi Purohit College of H.Sci & H. Sc. Technology, Nagpur",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 120,
+        "choice_code": "0400710150FU",
+        "course_name": "BBA",
+        "page_no": "131"
+    },
+    {
+        "name": "04102 - Param Poojya Dr. Babasaheb Ambedkar Smarak Samiti Dr. Ambedkar Department of Management Studies & Research, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 320,
+        "choice_code": "0410210110",
+        "course_name": "BBA",
+        "page_no": "132"
+    },
+    {
+        "name": "04103 - Department of Managament Science & Research J.M.Patel College, Bhandara",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0410310110",
+        "course_name": "BBA",
+        "page_no": "133"
+    },
+    {
+        "name": "04107 - Yugantar Education Society's Tirpude Institute of Management Education, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 336,
+        "choice_code": "0410710110",
+        "course_name": "BBA",
+        "page_no": "134"
+    },
+    {
+        "name": "04110 - Vidya Shikhan Prasarak Mandal's Central institute of Business Management Research & Development, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0411010110",
+        "course_name": "BBA",
+        "page_no": "135"
+    },
+    {
+        "name": "04112 - Priyadarshini Lokmanya Tilak Institute of Management Studies & Research, Nagpur",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 96,
+        "choice_code": "0411210110",
+        "course_name": "BBA",
+        "page_no": "136"
+    },
+    {
+        "name": "04124 - Amar Seva Mandal's Kamla Nehru Mahavidyalaya, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0412410110",
+        "course_name": "BBA",
+        "page_no": "137"
+    },
+    {
+        "name": "04128 - Ranibai Agnihotri Institute of Computer Information Technology, Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0412810110",
+        "course_name": "BBA",
+        "page_no": "138"
+    },
+    {
+        "name": "04138 - Jaidev Education Society, J D College of Engineering and Management, Nagpur",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 120,
+        "choice_code": "0413810110",
+        "course_name": "BBA",
+        "page_no": "139"
+    },
+    {
+        "name": "04142 - G H Raisoni College of Engineering & Management, Nagpur",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 120,
+        "choice_code": "0414210110",
+        "course_name": "BBA",
+        "page_no": "140"
+    },
+    {
+        "name": "04157 - V. M. Vasant Commerce, J.M. Thakar Arts & J.J. Patel Science College,Nagpur",
+        "status": "Un-Aided -Linguistic Minority - Gujarathi",
+        "cap_seats": 120,
+        "choice_code": "0415710110",
+        "course_name": "BBA",
+        "page_no": "141"
+    },
+    {
+        "name": "04614 - Shantiniketan Business School, Nagpur",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 120,
+        "choice_code": "0461410110",
+        "course_name": "BBA",
+        "page_no": "142"
+    },
+    {
+        "name": "04700 - Tulaskar Institute of Science and Technology, Hinganghat, Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0470010110",
+        "course_name": "BBA",
+        "page_no": "143"
+    },
+    {
+        "name": "04709 - SHRI BINZANI CITY COLLEGE, NAGPUR",
+        "status": "Government-Aided",
+        "cap_seats": 120,
+        "choice_code": "0470910110",
+        "course_name": "BBA",
+        "page_no": "144"
+    },
+    {
+        "name": "04711 - DADA RAMCHAND BAKHRU SINDHU MAHAVIDYALAYA, NAGPUR",
+        "status": "Un-Aided -Linguistic Minority - Sindhi",
+        "cap_seats": 240,
+        "choice_code": "0471110110",
+        "course_name": "BBA",
+        "page_no": "145"
+    },
+    {
+        "name": "04712 - HISLOP COLLEGE, NAGPUR",
+        "status": "Un-Aided -Religious Minority - Christian",
+        "cap_seats": 96,
+        "choice_code": "0471210170U",
+        "course_name": "BBA",
+        "page_no": "146"
+    },
+    {
+        "name": "04714 - SHRI NIKETAN ARTS COMMERCE COLLEGE, NAGPUR",
+        "status": "Government-Aided",
+        "cap_seats": 60,
+        "choice_code": "0471411210",
+        "course_name": "BBA (Business Administration)",
+        "page_no": "147"
+    },
+    {
+        "name": "04717 - NABIRA MAHAVIDYALAYA, KATOL",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0471710110",
+        "course_name": "BBA",
+        "page_no": "148"
+    },
+    {
+        "name": "04718 - SMT. KAUSHALYADEVI MAHESHWARI MAHILA MAHAVIDYALAYA, NAGPUR",
+        "status": "Un-Aided -Linguistic Minority - Hindi (Female)",
+        "cap_seats": 60,
+        "choice_code": "0471810110F",
+        "course_name": "BBA",
+        "page_no": "149"
+    },
+    {
+        "name": "04719 - ST. FRANCIS DE SALES COLLEGE, NAGPUR",
+        "status": "Un-Aided -Religious Minority - Christian",
+        "cap_seats": 120,
+        "choice_code": "0471910110",
+        "course_name": "BBA",
+        "page_no": "150"
+    },
+    {
+        "name": "04721 - REVNATH CHOURE COLLEGE, SAONER",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0472110110",
+        "course_name": "BBA",
+        "page_no": "151"
+    },
+    {
+        "name": "04724 - DHANWATE NATIONAL COLLEGE NAGPUR RUN BY SHRI SHIVAJI EDUCATION SOCIETY AMRAVATI",
+        "status": "Un-Aided",
+        "cap_seats": 187,
+        "choice_code": "0472410110",
+        "course_name": "BBA",
+        "page_no": "152"
+    },
+    {
+        "name": "04725 - DR. S.C. GULHANE PRERNA COLLEGE OF COMMERCE SCIENCE AND ARTS, NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 288,
+        "choice_code": "0472510110",
+        "course_name": "BBA",
+        "page_no": "153"
+    },
+    {
+        "name": "04726 - RANDHIRSINGH BHADORIYA MAHAVIDYLAYA, UMRED",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0472610110",
+        "course_name": "BBA",
+        "page_no": "154"
+    },
+    {
+        "name": "04727 - DIAMOND COLLEGE OF COMMERCE AND SCIENCE, NAGPUR",
+        "status": "Un-Aided -Religious Minority - Muslim",
+        "cap_seats": 96,
+        "choice_code": "0472710110",
+        "course_name": "BBA",
+        "page_no": "155"
+    },
+    {
+        "name": "04730 - NMD COLLEGE OF ARTS AND COMMERCE, GONDIA",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0473010110",
+        "course_name": "BBA",
+        "page_no": "156"
+    },
+    {
+        "name": "04731 - TULSIRAMJI GAIKWAD PATIL COLLEGE OF ENGINEERING AND TECHNOLOGY, NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0473110110",
+        "course_name": "BBA",
+        "page_no": "157"
+    },
+    {
+        "name": "04733 - SHANKARLAL AGRAWAL COLLEGE OF MANAGEMENT STUDIES SURYATOLA GONDIA",
+        "status": "Un-Aided -Linguistic Minority - Marwadi",
+        "cap_seats": 96,
+        "choice_code": "0473310110",
+        "course_name": "BBA",
+        "page_no": "158"
+    },
+    {
+        "name": "04734 - RAMKRISHNA WAGH COLLEGE OF ARTS AND COMMERCE, NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0473410110",
+        "course_name": "BBA",
+        "page_no": "159"
+    },
+    {
+        "name": "04735 - G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE NAGPUR",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 256,
+        "choice_code": "0473510110",
+        "course_name": "BBA",
+        "page_no": "160"
+    },
+    {
+        "name": "04738 - CITY PRIDE COLLEGE, NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "0473810110",
+        "course_name": "BBA",
+        "page_no": "161"
+    },
+    {
+        "name": "04739 - CITY PREMIER COLLEGE, NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 256,
+        "choice_code": "0473910110",
+        "course_name": "BBA",
+        "page_no": "162"
+    },
+    {
+        "name": "04740 - ATLANTA COLLEGE, NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0474010110",
+        "course_name": "BBA",
+        "page_no": "163"
+    },
+    {
+        "name": "04742 - GANDHIGRAM COLLEGE, WARDHA",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0474210110",
+        "course_name": "BBA",
+        "page_no": "164"
+    },
+    {
+        "name": "04745 - SANTAJI MAHAVIDYALAYA NAGPUR",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0474510110",
+        "course_name": "BBA",
+        "page_no": "165"
+    },
+    {
+        "name": "01102 - Vidya Bharati Mahavidyalaya Department of Research and PG Studies in Science & Management, Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0110210110",
+        "course_name": "BBA",
+        "page_no": "166"
+    },
+    {
+        "name": "01106 - Hari Kishan Jaju Education Sanstha's,College of Management & Computer Science, Yavatmal",
+        "status": "Un-Aided -Linguistic Minority - Marwadi",
+        "cap_seats": 192,
+        "choice_code": "0110610110",
+        "course_name": "BBA",
+        "page_no": "167"
+    },
+    {
+        "name": "01111 - P.G. Department of Computer Science & Technology, D.C.P.E., H.V.P. Mandal, Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 108,
+        "choice_code": "0111110110 #",
+        "course_name": "BBA",
+        "page_no": "168"
+    },
+    {
+        "name": "01113 - Sadhana Shikshan Mandal, Saraswati College, Shegaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0111310110",
+        "course_name": "BBA",
+        "page_no": "169"
+    },
+    {
+        "name": "01314 - SMT RADHADEVI GOENKA COLLEGE FOR WOMEN",
+        "status": "Un-Aided -Linguistic Minority - Marwadi (Female)",
+        "cap_seats": 96,
+        "choice_code": "0131410150FU",
+        "course_name": "BBA",
+        "page_no": "170"
+    },
+    {
+        "name": "01315 - GOPIKABAI SITARAM GAWANDE MAHAVIDYALAYA UMARKHED",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0131510170U",
+        "course_name": "BBA",
+        "page_no": "171"
+    },
+    {
+        "name": "01317 - SWATANTRYA SAINIK SHRI KANHAIYALALJI RAMCHANDRA INNANI MAHAVIDYALAYA KARANJA LAD",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0131710170U",
+        "course_name": "BBA",
+        "page_no": "172"
+    },
+    {
+        "name": "01318 - SMT. KESHARBAI LAHOTI MAHAVIDYALAYA",
+        "status": "Un-Aided -Linguistic Minority - Marwadi",
+        "cap_seats": 144,
+        "choice_code": "0131810170",
+        "course_name": "BBA",
+        "page_no": "173"
+    },
+    {
+        "name": "01321 - INSTITUTE OF MANAGEMENT STUDIES MAHAVIDYALAYA WARUD",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0132110110",
+        "course_name": "BBA",
+        "page_no": "174"
+    },
+    {
+        "name": "01322 - SMT.MAHERBANU COLLEGE OF SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "0132210110",
+        "course_name": "BBA",
+        "page_no": "175"
+    },
+    {
+        "name": "01324 - SHRI SHIVAJI SCIENCE COLLEGE AMRAVATI",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0132410110",
+        "course_name": "BBA",
+        "page_no": "176"
+    },
+    {
+        "name": "01325 - COLLEGE OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "0132510110",
+        "course_name": "BBA",
+        "page_no": "177"
+    },
+    {
+        "name": "01326 - VIDYA BHAVAN COLLEGE OF MANAGEMENT AND RESEARCH",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0132610110",
+        "course_name": "BBA",
+        "page_no": "178"
+    },
+    {
+        "name": "01327 - BRIJLAL BIYANI SCIENCE COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 96,
+        "choice_code": "0132710110",
+        "course_name": "BBA",
+        "page_no": "179"
+    },
+    {
+        "name": "01328 - SHRI SWAMI VIVEKANAND COLLEGE OF SCIENCE TECHNOLOGY AND MANAGEMENT WASHIM",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0132810110",
+        "course_name": "BBA",
+        "page_no": "180"
+    },
+    {
+        "name": "01331 - ADARSH COLLEGE OF COMPUTER AND MANAGMENT",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0133110110",
+        "course_name": "BBA",
+        "page_no": "181"
+    },
+    {
+        "name": "01332 - UTKARSH ART, COMMERCE AND SCIENCE COLLEGE, SINDKHED RAJA.",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0133210110",
+        "course_name": "BBA",
+        "page_no": "182"
+    },
+    {
+        "name": "01333 - SHRI KANIFNATH SCIENCE COLLEGE KARANJA KHERDA",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0133310110",
+        "course_name": "BBA",
+        "page_no": "183"
+    },
+    {
+        "name": "01334 - TAKSHASHILA MAHAVIDYALAYA",
+        "status": "Un-Aided -Religious Minority - Buddhist",
+        "cap_seats": 96,
+        "choice_code": "0133410110",
+        "course_name": "BBA",
+        "page_no": "184"
+    },
+    {
+        "name": "01339 - SUSHGANGA INSTITUTE OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0133910110",
+        "course_name": "BBA",
+        "page_no": "185"
+    },
+    {
+        "name": "05015 - Savitribai Phule Pune University Sub Centre, Nashik",
+        "status": "University Managed (Un-Aided)",
+        "cap_seats": 60,
+        "choice_code": "0501510110",
+        "course_name": "BBA",
+        "page_no": "186"
+    },
+    {
+        "name": "05016 - ARTS COMMERCE AND SCIENCE COLLEGE ASHOKNAGAR",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0501610310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "187"
+    },
+    {
+        "name": "05112 - Padmashree Dr. Vithalrao Vikhe Patil Foundation's Institute of Business Management & Rural Development, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0511210110",
+        "course_name": "BBA",
+        "page_no": "188"
+    },
+    {
+        "name": "05119 - C.H.M.E. Society's Dr. Moonje Institute for Management & Computer Studies, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0511910110",
+        "course_name": "BBA",
+        "page_no": "189"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "190"
+    },
+    {
+        "name": "05120 - MET's Institute of Management, Adgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0512010110",
+        "course_name": "BBA",
+        "page_no": "191"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "192"
+    },
+    {
+        "name": "05122 - Matoshri College of Management and Research Centre, Eklahare, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0512210110",
+        "course_name": "BBA",
+        "page_no": "193"
+    },
+    {
+        "name": "05123 - Nashik Gramin Shikshan Prasarak Mandal, Brahma Valley Institute of Management, Anjaneri, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0512310110",
+        "course_name": "BBA",
+        "page_no": "194"
+    },
+    {
+        "name": "05124 - Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0512410110",
+        "course_name": "BBA",
+        "page_no": "195"
+    },
+    {
+        "name": "05331 - Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0533110110",
+        "course_name": "BBA",
+        "page_no": "196"
+    },
+    {
+        "name": "05418 - Guru Gobind Singh College of Engineering & Research Centre, Nashik.",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0541810110",
+        "course_name": "BBA",
+        "page_no": "197"
+    },
+    {
+        "name": "05509 - Shri Swami Samarth Institute of Management and Technology, Malwadi-Bota",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0550910110",
+        "course_name": "BBA",
+        "page_no": "198"
+    },
+    {
+        "name": "05561 - RAYAT SHIKSHAN SANSTHAS DADA PATIL MAHAVIDYALAYA KARJAT",
+        "status": "Un-Aided",
+        "cap_seats": 128,
+        "choice_code": "0556110370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "199"
+    },
+    {
+        "name": "05562 - SAHAKAR MAHARSHI BHAUSAHEB SANTUJI THORAT ARTS SCIENCE AND COMMERCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0556210170U",
+        "course_name": "BBA",
+        "page_no": "200"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "201"
+    },
+    {
+        "name": "05564 - SHRI CHHATRAPATI SHIVAJI MAHAVIDYALAYA SHRIGONDA DIST AHMEDNAGAR",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0556410370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "202"
+    },
+    {
+        "name": "05565 - RAYAT SHIKSHAN SANSTHAS CHANDRAROOP DAKLE JAIN COLLEGE OF COMMERCE SHRIRAMPUR",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0556510370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "203"
+    },
+    {
+        "name": "05566 - AKOLE TALUKA EDUCATION SOCIETY'S AGASTI ARTS COMMERCE AND DADASAHEB RUPWATE SCIENCE COLLEGE AKOLE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0556610170U",
+        "course_name": "BBA",
+        "page_no": "204"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "205"
+    },
+    {
+        "name": "05567 - SHIKSHAN PRASARAK SANSTHAS SANGAMNER NAGARPALIKA ARTS D J MALPANI COMMERCE AND B N SARDA SCIENCE COLLEGE AUTONOMOUS SANGAMNER",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 80,
+        "choice_code": "0556710170U",
+        "course_name": "BBA",
+        "page_no": "206"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "207"
+    },
+    {
+        "name": "05568 - KVN NAIK ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0556810170U",
+        "course_name": "BBA",
+        "page_no": "208"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "209"
+    },
+    {
+        "name": "05572 - NEW ARTS COMMERCE AND SCIENCE COLLEGE AHMEDNAGAR",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 128,
+        "choice_code": "0557210170U",
+        "course_name": "BBA",
+        "page_no": "210"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "211"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "212"
+    },
+    {
+        "name": "05573 - MULA EDUCATION SOCIETYS ARTS COMMERCE AND SCIENCE COLLEGE SONAI",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0557310170U",
+        "course_name": "BBA",
+        "page_no": "213"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "214"
+    },
+    {
+        "name": "05574 - MARATHA VIDHYA PRASARAK SAMAJ NASHIK GMD ARTS BW COMMERCE AND SCIENCE COLLEGE SINNAR",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0557410170U",
+        "course_name": "BBA",
+        "page_no": "215"
+    },
+    {
+        "name": "05576 - ARTS AND COMMERCE COLLEGE BELAPUR",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0557610310U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "216"
+    },
+    {
+        "name": "05580 - BHONSALA MILITARY COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0558010170U",
+        "course_name": "BBA",
+        "page_no": "217"
+    },
+    {
+        "name": "05582 - RAYAT SHIKSHAN SANSTHA'S MAHARAJA JIVAJIRAO SHINDE MAHAVIDYALAYA SHRIGONDA",
+        "status": "Un-Aided",
+        "cap_seats": 75,
+        "choice_code": "0558210370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "218"
+    },
+    {
+        "name": "05583 - RAYAT SHIKSHAN SANSTHA'S SHRI SADGURU GANGAGEER MAHARAJ SCIENCE GAUTAM ARTS AND SANJIVANI COMMERCE COLLEGE KOPARGAON",
+        "status": "Un-Aided",
+        "cap_seats": 75,
+        "choice_code": "0558310170U",
+        "course_name": "BBA",
+        "page_no": "219"
+    },
+    {
+        "name": "05584 - NEW ARTS COMMERCE AND SCIENCE COLLEGE PARNER",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0558410170U",
+        "course_name": "BBA",
+        "page_no": "220"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "221"
+    },
+    {
+        "name": "05586 - ARTS COMMERCE AND SCIENCE COLLEGE NANDGAON",
+        "status": "Un-Aided",
+        "cap_seats": 32,
+        "choice_code": "0558610170U",
+        "course_name": "BBA",
+        "page_no": "222"
+    },
+    {
+        "name": "05590 - RNC ARTS JDB COMMERCE AND NSC SCIENCE COLLEGE NASHIK ROAD NASHIK 422101",
+        "status": "Un-Aided",
+        "cap_seats": 72,
+        "choice_code": "0559010170U",
+        "course_name": "BBA",
+        "page_no": "223"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "224"
+    },
+    {
+        "name": "05593 - SANTOSH COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0559310110",
+        "course_name": "BBA",
+        "page_no": "225"
+    },
+    {
+        "name": "05595 - A L D ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0559510110",
+        "course_name": "BBA",
+        "page_no": "226"
+    },
+    {
+        "name": "05597 - VAMANRAO ITHAPE INSTITUTE OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0559710110",
+        "course_name": "BBA",
+        "page_no": "227"
+    },
+    {
+        "name": "05600 - JAGDAMBA EDUCATION SOCIETY S.N.D. ARTS COMMERCE SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0560010110",
+        "course_name": "BBA",
+        "page_no": "228"
+    },
+    {
+        "name": "05601 - ASHOKA CENTER FOR BUSINESS AND COMPUTER STUDIES",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 171,
+        "choice_code": "0560110110",
+        "course_name": "BBA",
+        "page_no": "229"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "230"
+    },
+    {
+        "name": "05606 - AHMEDNAGAR JILHA MARATHA VIDYA PRASARAK SAMAJ RAJARSHI SHAHU MAHAVIDYALAYA",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0560610310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "231"
+    },
+    {
+        "name": "05607 - ADSUL COMPUTER AND MANAGEMENT INSTITUTE",
+        "status": "Un-Aided",
+        "cap_seats": 300,
+        "choice_code": "0560710110",
+        "course_name": "BBA",
+        "page_no": "232"
+    },
+    {
+        "name": "05609 - NATIONAL SENIOR COLLEGE",
+        "status": "Un-Aided -Relogious Minority Muslim & Linguistic Minority Urdu",
+        "cap_seats": 48,
+        "choice_code": "0560910110",
+        "course_name": "BBA",
+        "page_no": "233"
+    },
+    {
+        "name": "Un-Aided -Relogious Minority Muslim & Linguistic Minority Urdu",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "234"
+    },
+    {
+        "name": "05613 - PARIKRAMA ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0561310110",
+        "course_name": "BBA",
+        "page_no": "235"
+    },
+    {
+        "name": "05616 - VISHWABHARATI ACADEMY'S COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0561610110",
+        "course_name": "BBA",
+        "page_no": "236"
+    },
+    {
+        "name": "05618 - SHARDA COLLEGE SINNAR",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0561810110",
+        "course_name": "BBA",
+        "page_no": "237"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "238"
+    },
+    {
+        "name": "05619 - COMMERCE MANAGEMENT AND COMPUTER SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0561910110",
+        "course_name": "BBA",
+        "page_no": "239"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "240"
+    },
+    {
+        "name": "05620 - KRT ARTS BH COMMERCE AND AM SCIENCE COLLEGE NASHIK",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0562010110",
+        "course_name": "BBA",
+        "page_no": "241"
+    },
+    {
+        "name": "05622 - K.A.A..N.M.SONAWANE ARTS COMMERCE AND SCIENCE COLLEGE SATANA TAL BAGLAN DIST. NASHIK",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0562210110",
+        "course_name": "BBA",
+        "page_no": "242"
+    },
+    {
+        "name": "05633 - MARATHA VIDYA PRASARAK SAMAJ ARTS AND COMMERCE COLLEGE MAKHAMALABAD",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0563310310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "243"
+    },
+    {
+        "name": "05634 - SNJB K K H A ARTS SMGL COMMERCE AND SPHJ SCIENCE COLLEGE CHANDWAD",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 40,
+        "choice_code": "0563410110",
+        "course_name": "BBA",
+        "page_no": "244"
+    },
+    {
+        "name": "05636 - KARMAVEER KAKASAHEB WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE CHANDORI",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0563610110",
+        "course_name": "BBA",
+        "page_no": "245"
+    },
+    {
+        "name": "05637 - VISHWALATA ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0563710110",
+        "course_name": "BBA",
+        "page_no": "246"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "247"
+    },
+    {
+        "name": "05640 - K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE KAKASAHEBNAGAR",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0564010110",
+        "course_name": "BBA",
+        "page_no": "248"
+    },
+    {
+        "name": "05647 - MAHATMA GANDHI VIDHYAMANDIR'S PANCHAVATI COLLEGE OF MANAGEMENT AND COMPUTER SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0564710110",
+        "course_name": "BBA",
+        "page_no": "249"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "250"
+    },
+    {
+        "name": "05648 - GOKHALE EDUCATION SOCIETY'S B. Y. K. COLLEGE OF COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "0564810110U",
+        "course_name": "BBA",
+        "page_no": "251"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "252"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "253"
+    },
+    {
+        "name": "05649 - PRINCIPAL NEW ARTS COMM AND SCIENCE COLLEGE SHEVGAON",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0564910310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "254"
+    },
+    {
+        "name": "05650 - K K WAGH ARTS COMMERCE SCIENCE AND COMPUTER SCIENCE COLLEGE NASHIK",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0565010110",
+        "course_name": "BBA",
+        "page_no": "255"
+    },
+    {
+        "name": "06001 - Department of Management Sciences (PUMBA), University of Pune",
+        "status": "University Managed (Un-Aided) -Autonomous",
+        "cap_seats": 40,
+        "choice_code": "0600110510",
+        "course_name": "Bachelor of Business Administration in Hospitality and Facilities Management",
+        "page_no": "256"
+    },
+    {
+        "name": "06103 - Shree C. E. Society's Indira Institute of Management, Pune",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 384,
+        "choice_code": "0610310110",
+        "course_name": "BBA",
+        "page_no": "257"
+    },
+    {
+        "name": "06110 - Modern Education Society's Neville Wadia Institute of Management Studies & Research, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 180,
+        "choice_code": "0611010110",
+        "course_name": "BBA",
+        "page_no": "258"
+    },
+    {
+        "name": "06117 - Shri Shivaji Maratha Societys Institute of Management & Research, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0611710110",
+        "course_name": "BBA",
+        "page_no": "259"
+    },
+    {
+        "name": "06137 - Vidya Pratishthan Institute of Information Technology, Baramati, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0613710110",
+        "course_name": "BBA",
+        "page_no": "260"
+    },
+    {
+        "name": "06150 - Sharad Chandra Pawar Institute of Management, Otur, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0615010110",
+        "course_name": "BBA",
+        "page_no": "261"
+    },
+    {
+        "name": "06158 - Rajmata Jijau Shikshan Prasarak Mandal's Institute of Computer and Management Research, Dudulgaon, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0615810110",
+        "course_name": "BBA",
+        "page_no": "262"
+    },
+    {
+        "name": "06169 - Swargeeya Sanjibhai Rupjibhai Memorial Trust, Institute of Management & Research, Silvassa",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0616910110",
+        "course_name": "BBA",
+        "page_no": "263"
+    },
+    {
+        "name": "06179 - Indira College of Engineering & Management, Pune",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0617901010",
+        "course_name": "BBA/MBA (Integrated)",
+        "page_no": "264"
+    },
+    {
+        "name": "06186 - Indsearch Institute Of Management Studies & Research, Pune",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 54,
+        "choice_code": "0618610210",
+        "course_name": "BMS",
+        "page_no": "265"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "266"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "267"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "268"
+    },
+    {
+        "name": "06547 - Suryadatta Educational Foundation, Suryadatta Institute of Management and Mass Communication, Pune",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 120,
+        "choice_code": "0654710110",
+        "course_name": "BBA",
+        "page_no": "269"
+    },
+    {
+        "name": "06548 - Suryadatta Educational Foundation, Suryadatta Institute of Business Management and Technology, Pune",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 120,
+        "choice_code": "0654810110",
+        "course_name": "BBA",
+        "page_no": "270"
+    },
+    {
+        "name": "06622 - ISBM College Of Engineering Pune",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 96,
+        "choice_code": "0662210110",
+        "course_name": "BBA",
+        "page_no": "271"
+    },
+    {
+        "name": "06628 - Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0662800810",
+        "course_name": "BBA/MBA",
+        "page_no": "272"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "273"
+    },
+    {
+        "name": "06631 - Modern Institute of Business Management, Pune",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0663110110",
+        "course_name": "BBA",
+        "page_no": "274"
+    },
+    {
+        "name": "06632 - Navsahyadri Education Society's Group of Institutions",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0663210110",
+        "course_name": "BBA",
+        "page_no": "275"
+    },
+    {
+        "name": "06758 - Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0675810110",
+        "course_name": "BBA",
+        "page_no": "276"
+    },
+    {
+        "name": "06773 - Akemi Business School, Mulsi, Pune.",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0677310110",
+        "course_name": "BBA",
+        "page_no": "277"
+    },
+    {
+        "name": "06775 - Yashaswi Education Society's International Institute of Management Science, Chinchwad, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0677510110",
+        "course_name": "BBA",
+        "page_no": "278"
+    },
+    {
+        "name": "06783 - Saibalaji Education Society, Saibalaji International Institute of Management Sciences,Nere Marunje, Hinjewadi, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0678310110",
+        "course_name": "BBA",
+        "page_no": "279"
+    },
+    {
+        "name": "06822 - Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0682210110",
+        "course_name": "BBA",
+        "page_no": "280"
+    },
+    {
+        "name": "06992 - Pune Cambridge Institute of Management and Computer Application, Ambegaon Pathar, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0699210110",
+        "course_name": "BBA",
+        "page_no": "281"
+    },
+    {
+        "name": "16122 - Pharate Patil Management Institutes",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1612210110",
+        "course_name": "BBA",
+        "page_no": "282"
+    },
+    {
+        "name": "16132 - ANNASAHEB AWATE ARTS COMMERCE AND HUTATMA BABU GENU SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1613210370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "283"
+    },
+    {
+        "name": "16159 - BRIHAN MAHARASHTRA COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 144,
+        "choice_code": "1615910170U",
+        "course_name": "BBA",
+        "page_no": "284"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "285"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "286"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "287"
+    },
+    {
+        "name": "16160 - JUNNAR TALUKA SHIVNER SHIKSHAN PRASARAK MANDAL SHRI SHIV CHHATRAPATI COLLEGE JUNNAR",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "1616010170U",
+        "course_name": "BBA",
+        "page_no": "288"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "289"
+    },
+    {
+        "name": "16161 - KHED TALUKA SHIKSHAN PRASARAK MANDAL HUTATMA RAJGURU MAHAVIDYALAYA TAL KHED DIST PUNE 410505",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1616110170U",
+        "course_name": "BBA",
+        "page_no": "290"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "291"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "292"
+    },
+    {
+        "name": "16167 - ANANTRAO PAWAR COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1616710370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "293"
+    },
+    {
+        "name": "16170 - MAMASAHEB MOHOL COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1617010370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "294"
+    },
+    {
+        "name": "16172 - GRAMONNATI MANDAL'S ARTS COMMERCE SCIENCE COLLEGE NARAYANGAON",
+        "status": "Un-Aided",
+        "cap_seats": 144,
+        "choice_code": "1617210170U",
+        "course_name": "BBA",
+        "page_no": "295"
+    },
+    {
+        "name": "16173 - INDRAYANI MAHAVIDYALAYA",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "1617310170U",
+        "course_name": "BBA",
+        "page_no": "296"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "297"
+    },
+    {
+        "name": "16178 - PDEAS SHANKARRAO BHELKE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1617810370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "298"
+    },
+    {
+        "name": "16179 - MES GARWARE COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 128,
+        "choice_code": "1617910170U",
+        "course_name": "BBA",
+        "page_no": "299"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "300"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "301"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "302"
+    },
+    {
+        "name": "16180 - B D KALE MAHAVIDYALAYA",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1618010370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "303"
+    },
+    {
+        "name": "16182 - SHARDABAI PAWAR MAHILA ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1618210370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "304"
+    },
+    {
+        "name": "16190 - EKNATH SITARAM DIVEKAR COLLEGE VARVAND",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1619010170U",
+        "course_name": "BBA",
+        "page_no": "305"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "306"
+    },
+    {
+        "name": "16193 - BHARATIYA JAIN SANGHATANAS ARTS SCIENCE AND COMMERCE COLLEGE",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 54,
+        "choice_code": "1619310370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "307"
+    },
+    {
+        "name": "16195 - TULJARAM CHATURCHAND COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Religious Minority - Jain",
+        "cap_seats": 96,
+        "choice_code": "1619510170U",
+        "course_name": "BBA",
+        "page_no": "308"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Religious Minority - Jain",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "309"
+    },
+    {
+        "name": "16196 - ARTS SCIENCE AND COMMERCE COLLEGE INDPAUR",
+        "status": "Un-Aided",
+        "cap_seats": 128,
+        "choice_code": "1619610370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "310"
+    },
+    {
+        "name": "16197 - THE POONA DIOCESAN EDUCATIONAL SOCIETY'S VIDYA BHAVAN COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Religious Minority - Christian",
+        "cap_seats": 64,
+        "choice_code": "1619710170U",
+        "course_name": "BBA",
+        "page_no": "311"
+    },
+    {
+        "name": "16199 - PDEA BABURAOJI GHOLAP COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1619910370U",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "312"
+    },
+    {
+        "name": "16202 - MES SENIOR COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1620210110",
+        "course_name": "BBA",
+        "page_no": "313"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "314"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "315"
+    },
+    {
+        "name": "16204 - ISB AND M COLLEGE OF COMMERCE",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 144,
+        "choice_code": "1620410110",
+        "course_name": "BBA",
+        "page_no": "316"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "317"
+    },
+    {
+        "name": "16208 - P.JOG COLLEGE OF SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "1620810110",
+        "course_name": "BBA",
+        "page_no": "318"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "319"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "320"
+    },
+    {
+        "name": "16219 - MODERN EDUCATION SOCIETY'S NESS WADIA COLLEGE OF COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 180,
+        "choice_code": "1621910110",
+        "course_name": "BBA",
+        "page_no": "321"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "322"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "323"
+    },
+    {
+        "name": "16221 - CHAUDHARI ATTARSING YADAV MEMORIAL EDUCATION TRUST'S SIDDHANT COLLEGE OF MANAGEMENT STUDIES",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 160,
+        "choice_code": "1622110110",
+        "course_name": "BBA",
+        "page_no": "324"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "325"
+    },
+    {
+        "name": "16222 - MODERN COLLEGE OF COMMERCE AND COMPUTER STUDIES",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1622210110",
+        "course_name": "BBA",
+        "page_no": "326"
+    },
+    {
+        "name": "16226 - MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 192,
+        "choice_code": "1622610110",
+        "course_name": "BBA",
+        "page_no": "327"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "328"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "329"
+    },
+    {
+        "name": "16232 - MAEER'S MIT ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 128,
+        "choice_code": "1623210110",
+        "course_name": "BBA",
+        "page_no": "330"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "331"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "332"
+    },
+    {
+        "name": "16233 - MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE WARJE PUNE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1623310110",
+        "course_name": "BBA",
+        "page_no": "333"
+    },
+    {
+        "name": "16234 - WAGHIRE COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "1623410110",
+        "course_name": "BBA",
+        "page_no": "334"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "335"
+    },
+    {
+        "name": "16235 - INDIRA COLLEGE OF COMMERCE AND SCIENCE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 128,
+        "choice_code": "1623510110",
+        "course_name": "BBA",
+        "page_no": "336"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "337"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "338"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "339"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "340"
+    },
+    {
+        "name": "16237 - RAJMATA JIJAU SHIKSHAN PRASARAK MANDALS ARTS COMMERCE AND SCIENCE COLLEGE BHOSARI PUNE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1623710110",
+        "course_name": "BBA",
+        "page_no": "341"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "342"
+    },
+    {
+        "name": "16239 - MAHARSHI KARVE STREE SHIKSHAN SAMSTHA'S SHRI SIDDHIVINAYAK MAHILA MAHAVIDYALAYA",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 60,
+        "choice_code": "1623910150F",
+        "course_name": "BBA",
+        "page_no": "343"
+    },
+    {
+        "name": "16240 - KAVERI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE",
+        "status": "Un-Aided -Linguistic Minority - Kannada",
+        "cap_seats": 120,
+        "choice_code": "1624010110",
+        "course_name": "BBA",
+        "page_no": "344"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Kannada",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "345"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Kannada",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "346"
+    },
+    {
+        "name": "16241 - VPS COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1624110310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "347"
+    },
+    {
+        "name": "16243 - MAHATMA GANDHI SARVODAYA SANGH SANCHALIT PADMASHRI MANIBHAI DESAI MAHAVIDYALAYA",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1624310110",
+        "course_name": "BBA",
+        "page_no": "348"
+    },
+    {
+        "name": "16244 - MGE SOCIETY'S HUZURPAGA SMT. DURGABAI MUKUNDDAS LOHIA MAHILA VANIJYA MAHAVIDYALAYA",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 48,
+        "choice_code": "1624410150F",
+        "course_name": "BBA",
+        "page_no": "349"
+    },
+    {
+        "name": "Un-Aided (Female)",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "350"
+    },
+    {
+        "name": "16245 - SYNERGY SCHOOL OF COMMERCE",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 64,
+        "choice_code": "1624510110",
+        "course_name": "BBA",
+        "page_no": "351"
+    },
+    {
+        "name": "Un-Aided -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "352"
+    },
+    {
+        "name": "16246 - SAMARTH COLLEGE OF COMPUTER SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1624610410",
+        "course_name": "Bachelor of Business Administration in International Business",
+        "page_no": "353"
+    },
+    {
+        "name": "16250 - SERI'S SCHOOL OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1625010110",
+        "course_name": "BBA",
+        "page_no": "354"
+    },
+    {
+        "name": "16252 - PROGRESSIVE EDUCATION SOCIETY'S MODERN COLLEGE OF ARTS SCIENCE AND COMMERCE GANESHKHIND PUNE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 128,
+        "choice_code": "1625210310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "355"
+    },
+    {
+        "name": "16253 - COLLEGE OF COMMERCE SCIENCE AND COMPUTER EDUCATION",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1625310110",
+        "course_name": "BBA",
+        "page_no": "356"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "357"
+    },
+    {
+        "name": "16254 - SIR PARASHURAMBHAU COLLEGE PUNE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 114,
+        "choice_code": "1625410110",
+        "course_name": "BBA",
+        "page_no": "358"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "359"
+    },
+    {
+        "name": "16255 - ALL INDIA SHRI SHIVAJI MEMORIAL SOCIETY'S COLLEGE OF BUSINESS ADMINISTRATION",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1625510110",
+        "course_name": "BBA",
+        "page_no": "360"
+    },
+    {
+        "name": "16257 - VIDYA PRATISHTHAN SUPE ARTS SCIENCE AND COMMERCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1625710410",
+        "course_name": "Bachelor of Business Administration in International Business",
+        "page_no": "361"
+    },
+    {
+        "name": "16259 - FRIENDS UNION FOR ENERGISING LIVES FUEL COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 75,
+        "choice_code": "1625910310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "362"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "363"
+    },
+    {
+        "name": "16260 - MANDKE HUMAN HAPPINESS FOUNDATION SMT SUDHATAI MANDKE COLLEGE PUNE 411038",
+        "status": "Un-Aided",
+        "cap_seats": 72,
+        "choice_code": "1626010110",
+        "course_name": "BBA",
+        "page_no": "364"
+    },
+    {
+        "name": "16263 - PRAGNYA COLLEGE OF MANAGEMENT AND COMPUTER STUDIES",
+        "status": "Un-Aided -Linguistic Minority - Hindi",
+        "cap_seats": 96,
+        "choice_code": "1626310110",
+        "course_name": "BBA",
+        "page_no": "365"
+    },
+    {
+        "name": "16264 - HARIBHAI V DESAI COLLEGE OF ARTS SCIENCE AND COMMERCE PUNE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "cap_seats": 96,
+        "choice_code": "1626410110",
+        "course_name": "BBA",
+        "page_no": "366"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "367"
+    },
+    {
+        "name": "16265 - VIDYA PRATISHTHAN'S COMMERCE AND SCIENCE COLLEGE INDAPUR",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1626510110",
+        "course_name": "BBA",
+        "page_no": "368"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "369"
+    },
+    {
+        "name": "16268 - ST MIRA'S COLLEGE FOR GIRLS",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Sindhi (Female)",
+        "cap_seats": 76,
+        "choice_code": "1626810150F",
+        "course_name": "BBA",
+        "page_no": "370"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Sindhi (Female)",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "371"
+    },
+    {
+        "name": "16269 - G H RAISONI COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "cap_seats": 160,
+        "choice_code": "1626910110",
+        "course_name": "BBA",
+        "page_no": "372"
+    },
+    {
+        "name": "Un-Aided -Autonomous -Linguistic Minority - Hindi",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "373"
+    },
+    {
+        "name": "16271 - AAER'S ASIAN COLLEGE OF SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1627110110",
+        "course_name": "BBA",
+        "page_no": "374"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "375"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "376"
+    },
+    {
+        "name": "16272 - SKYLARK FOUNDATION",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1627210110",
+        "course_name": "BBA",
+        "page_no": "377"
+    },
+    {
+        "name": "16273 - DNYANSAGAR ARTS AND COMMERCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1627310110",
+        "course_name": "BBA",
+        "page_no": "378"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "379"
+    },
+    {
+        "name": "16274 - SANKALP COLLEGE OF BBA AND BCA",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1627410110",
+        "course_name": "BBA",
+        "page_no": "380"
+    },
+    {
+        "name": "16275 - COLLEGE OF COMPUTER SCIENCES",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1627510110",
+        "course_name": "BBA",
+        "page_no": "381"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "382"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "383"
+    },
+    {
+        "name": "16280 - MARATHWADA MITRA MANDAL'S COLLEGE OF COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 128,
+        "choice_code": "1628010110",
+        "course_name": "BBA",
+        "page_no": "384"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "385"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "386"
+    },
+    {
+        "name": "16281 - SIDDHI COLLEGE OF MANAGEMENT AND BUSINESS STUDIES DAPODI",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1628110110",
+        "course_name": "BBA",
+        "page_no": "387"
+    },
+    {
+        "name": "16282 - ARIHANT COLLEGE OF ARTS COMMERCE AND SCIENCE ,BAVDHAN BK",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 72,
+        "choice_code": "1628210110",
+        "course_name": "BBA",
+        "page_no": "388"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Jain",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "389"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Jain",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "390"
+    },
+    {
+        "name": "16283 - GENBA SOPANRAO MOZE ARTS COMMERCE AND SCIENCE BCS COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "1628310110",
+        "course_name": "BBA",
+        "page_no": "391"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "392"
+    },
+    {
+        "name": "16284 - ARIHANT COLLEGE OF ARTS COMMERCE AND SCIENCE ,CAMP PUNE",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 64,
+        "choice_code": "1628410110",
+        "course_name": "BBA",
+        "page_no": "393"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Jain",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "394"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Jain",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "395"
+    },
+    {
+        "name": "16285 - BALAJI COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1628510110",
+        "course_name": "BBA",
+        "page_no": "396"
+    },
+    {
+        "name": "16286 - PVG'S COLLEGE OF SCIENCE AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1628610110",
+        "course_name": "BBA",
+        "page_no": "397"
+    },
+    {
+        "name": "16287 - SINHGAD COLLEGE OF SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1628710110",
+        "course_name": "BBA",
+        "page_no": "398"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "399"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "400"
+    },
+    {
+        "name": "16288 - SMT. KASHIBAI NAVALE COLLEGE OF COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1628810110",
+        "course_name": "BBA",
+        "page_no": "401"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "402"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "403"
+    },
+    {
+        "name": "16289 - SINHGAD TECHNICAL EDUCATION SOCIETY'S SINHGAD COLLEGE OF ARTS AND COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1628910110",
+        "course_name": "BBA",
+        "page_no": "404"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "405"
+    },
+    {
+        "name": "16290 - SINHGAD COLLEGE OF COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1629010110",
+        "course_name": "BBA",
+        "page_no": "406"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "407"
+    },
+    {
+        "name": "16291 - NIVRUTTI BABAJI NAVALE COLLEGE OF COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 180,
+        "choice_code": "1629110110",
+        "course_name": "BBA",
+        "page_no": "408"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "409"
+    },
+    {
+        "name": "16293 - CHRIST COLLEGE PUNE",
+        "status": "Un-Aided -Religious Minority - Christian",
+        "cap_seats": 64,
+        "choice_code": "1629310110",
+        "course_name": "BBA",
+        "page_no": "410"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Christian",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "411"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Christian",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "412"
+    },
+    {
+        "name": "16295 - SNBP COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1629510110",
+        "course_name": "BBA",
+        "page_no": "413"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "414"
+    },
+    {
+        "name": "16299 - PRIN DR SUDHAKARRAO JADHAVAR ARTS COMMERCE AND SCIENCE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1629910110",
+        "course_name": "BBA",
+        "page_no": "415"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "416"
+    },
+    {
+        "name": "16300 - VISHWAKARMA COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1630010110",
+        "course_name": "BBA",
+        "page_no": "417"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "418"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "419"
+    },
+    {
+        "name": "16301 - INTERNATIONAL SCHOOL OF MANAGEMENT AND RESEARCH",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1630110110",
+        "course_name": "BBA",
+        "page_no": "420"
+    },
+    {
+        "name": "16302 - G S PATIL COLLEGE OF MANAGEMENT AND BUSINESS STUDIES CHIKHALI",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1630210110",
+        "course_name": "BBA",
+        "page_no": "421"
+    },
+    {
+        "name": "16303 - SUBHARDRA EDUCATIONAL SOCIETY SNBP COLLEGE OF ARTS COMMERCE SCIENCE AND MANAGEMENT STUDIES",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1630310110",
+        "course_name": "BBA",
+        "page_no": "422"
+    },
+    {
+        "name": "16304 - SNBP'S INSTITUTE OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1630410110",
+        "course_name": "BBA",
+        "page_no": "423"
+    },
+    {
+        "name": "16305 - SHREE GURUDATTA GRAMVIKAS PRATISHTHAN'S JIJAMATA SENIOR COLLEGE JATEGAON BK",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1630510310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "424"
+    },
+    {
+        "name": "16308 - AUDYOGIK SHIKSHAN MANDAL COLLEGE OF COMMERCE SCIENCE AND INFORMATION TECHNOLOGY",
+        "status": "Un-Aided",
+        "cap_seats": 160,
+        "choice_code": "1630810110",
+        "course_name": "BBA",
+        "page_no": "425"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "426"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "427"
+    },
+    {
+        "name": "16325 - BHARAT SHIKSHAN PRASARAK MANDAL JAIKRANTI COLLEGE OF COMPUTER SCIENCE AND MANAGEMENT STUDIES",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "1632510110",
+        "course_name": "BBA",
+        "page_no": "428"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "429"
+    },
+    {
+        "name": "16327 - PROF RAMKRISHNA MORE ARTS COMMERCE AND SCIENCE COLLEGE AKURDI PUNE",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "1632710110U",
+        "course_name": "BBA",
+        "page_no": "430"
+    },
+    {
+        "name": "Un-Aided -Autonomous",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "431"
+    },
+    {
+        "name": "16328 - RAJGAD DNYANPEETH'S ANANTRAO THOPTE COLLEGE BHOR",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "1632810110U",
+        "course_name": "BBA",
+        "page_no": "432"
+    },
+    {
+        "name": "16329 - SWARAJ COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1632910310",
+        "course_name": "Bachelor of Business Administration in Computer Application",
+        "page_no": "433"
+    },
+    {
+        "name": "16330 - SWARGEEYA SANJIBHAI RUPJIBHAI MEMORIAL TRUST'S SSR COLLEGE OF ARTS COMMERCE AND SCIENCE",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1633010110",
+        "course_name": "BBA",
+        "page_no": "434"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "435"
+    },
+    {
+        "name": "16332 - PDEAS ANNASAHEB MAGAR MAHAVIDYALAYA HADAPSAR",
+        "status": "Un-Aided",
+        "cap_seats": 72,
+        "choice_code": "1633210110",
+        "course_name": "BBA",
+        "page_no": "436"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "437"
+    },
+    {
+        "name": "Un-Aided",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "438"
+    },
+    {
+        "name": "16334 - POONA COLLEGE OF ARTS SCIENCE AND COMMERCE",
+        "status": "Un-Aided -Religious Minority - Muslim",
+        "cap_seats": 60,
+        "choice_code": "1633410110U",
+        "course_name": "BBA",
+        "page_no": "439"
+    },
+    {
+        "name": "Un-Aided -Religious Minority - Muslim",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "440"
+    },
+    {
+        "name": "06002 - Department of Commerce & Management, Shivaji University, Kolhapur",
+        "status": "University Managed (Un-Aided) -Autonomous",
+        "cap_seats": 60,
+        "choice_code": "0600201010",
+        "course_name": "BBA/MBA (Integrated)",
+        "page_no": "441"
+    },
+    {
+        "name": "06208 - Deccan Education Society's Chintamanrao Institute of Management Development & Research, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0620810110",
+        "course_name": "BBA",
+        "page_no": "442"
+    },
+    {
+        "name": "06210 - Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil Institute of Management Studies & Research, Satara",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0621010110",
+        "course_name": "BBA",
+        "page_no": "443"
+    },
+    {
+        "name": "06213 - Chh. Shahu Institute Of Business Edu And Res Vasantraodada Patil Institute Of Management Studies & Research, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0621310110",
+        "course_name": "BBA",
+        "page_no": "444"
+    },
+    {
+        "name": "06214 - K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0621410110",
+        "course_name": "BBA",
+        "page_no": "445"
+    },
+    {
+        "name": "06216 - Krishna Foundation Malkapur-Karad's Jaywant Institute of Management, Wathar",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0621610110",
+        "course_name": "BBA",
+        "page_no": "446"
+    },
+    {
+        "name": "06283 - Annasaheb Dange College of Engineering and Technology, Ashta, Sangli",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 48,
+        "choice_code": "0628310110",
+        "course_name": "BBA",
+        "page_no": "447"
+    },
+    {
+        "name": "06315 - Sanjeevan Group of Institutions",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0631510110",
+        "course_name": "BBA",
+        "page_no": "448"
+    },
+    {
+        "name": "06757 - Yashoda Technical Campus, Wadhe, Satara.",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0675710110",
+        "course_name": "BBA",
+        "page_no": "449"
+    },
+    {
+        "name": "06899 - Chhatrapati Shahu Institute of Business Education & Research, Kolhapur",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 57,
+        "choice_code": "0689910110",
+        "course_name": "BBA",
+        "page_no": "450"
+    },
+    {
+        "name": "16125 - Vivekanand College, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "1612510110",
+        "course_name": "BBA",
+        "page_no": "451"
+    },
+    {
+        "name": "16131 - HON SHRI ANNASAHEB DANGE ARTS COMMERCE AND SCIENCE COLLEGE HATKANANGALE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1613110170U",
+        "course_name": "BBA",
+        "page_no": "452"
+    },
+    {
+        "name": "16133 - DR GHALI COLLEGE GADHINGLAJ",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "1613310170U",
+        "course_name": "BBA",
+        "page_no": "453"
+    },
+    {
+        "name": "16135 - DEVCHAND COLLEGE ARJUNNAGAR",
+        "status": "Un-Aided -Religious Minority - Jain",
+        "cap_seats": 60,
+        "choice_code": "1613510170U",
+        "course_name": "BBA",
+        "page_no": "454"
+    },
+    {
+        "name": "16136 - SHIVRAJ COLLEGE OF ARTS COMMERCE AND D S KADAM SCIENCE COLLEGE GADHINGLAJ",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "1613610170U",
+        "course_name": "BBA",
+        "page_no": "455"
+    },
+    {
+        "name": "16139 - DECCAN EDUCATION SOCIETYS CHINTAMANRAO COLLEGE OF COMMERCE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1613910170U",
+        "course_name": "BBA",
+        "page_no": "456"
+    },
+    {
+        "name": "16153 - MUDHOJI COLLEGE PHALTAN",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "1615310170U",
+        "course_name": "BBA",
+        "page_no": "457"
+    },
+    {
+        "name": "16155 - YASHWANTRAO CHAVAN WARANA MAHAVIDYALAYA",
+        "status": "Un-Aided",
+        "cap_seats": 58,
+        "choice_code": "1615510170U",
+        "course_name": "BBA",
+        "page_no": "458"
+    },
+    {
+        "name": "16166 - ARTS COMMERCE AND SCIENCE COLLEGE PALUS",
+        "status": "Un-Aided",
+        "cap_seats": 55,
+        "choice_code": "1616610170U",
+        "course_name": "BBA",
+        "page_no": "459"
+    },
+    {
+        "name": "16175 - SARDAR BABASAHEB MANE MAHAVIDYALAYA RAHIMATPUR",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1617510170U",
+        "course_name": "BBA",
+        "page_no": "460"
+    },
+    {
+        "name": "16200 - YASHWANTRAO CHAVAN MAHAVIDYALAYA, ISLAMPUR",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1620010110",
+        "course_name": "BBA",
+        "page_no": "461"
+    },
+    {
+        "name": "16207 - SADGURU GADGE MAHARAJ COLLEGE KARAD",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 96,
+        "choice_code": "1620710110U",
+        "course_name": "BBA",
+        "page_no": "462"
+    },
+    {
+        "name": "16209 - SMT. KUSUMTAI RAJARAMBAPU PATIL KANYA MAHAVIDYALAYA",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 48,
+        "choice_code": "1620910150F",
+        "course_name": "BBA",
+        "page_no": "463"
+    },
+    {
+        "name": "16211 - DESHBHAKTA RATNAPPA KUMBHAR COLLEGE OF COMMERCE KOLHAPUR",
+        "status": "Un-Aided -Autonomous",
+        "cap_seats": 120,
+        "choice_code": "1621110110",
+        "course_name": "BBA",
+        "page_no": "464"
+    },
+    {
+        "name": "16217 - SMT MATHUBAI GARWARE KANYA MAHAVIDYALYA SANGLI",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 60,
+        "choice_code": "1621710150F",
+        "course_name": "BBA",
+        "page_no": "465"
+    },
+    {
+        "name": "16225 - SHRI PRINCE SHIVAJI MARATHA BOARDING HOUSE'S THE NEW COLLEGE KOLHAPUR",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1622510110",
+        "course_name": "BBA",
+        "page_no": "466"
+    },
+    {
+        "name": "16251 - BALWANT COLLEGE VITA",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1625110110",
+        "course_name": "BBA",
+        "page_no": "467"
+    },
+    {
+        "name": "03004 - Jankidevi Bajaj Institute of Management Studies, Santacruz, Mumbai",
+        "status": "University Managed (Female)",
+        "cap_seats": 60,
+        "choice_code": "0300410150F",
+        "course_name": "BBA",
+        "page_no": "468"
+    },
+    {
+        "name": "03047 - MAHARSHI KARVE MODEL COLLEGE FOR WOMEN",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 60,
+        "choice_code": "0304710250FU",
+        "course_name": "BMS",
+        "page_no": "469"
+    },
+    {
+        "name": "03049 - SNDT COLLEGE OF ARTS AND SCB COLLEGE OF COMMERCE AND SCIENCE FOR WOMEN MUMBAI",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 48,
+        "choice_code": "0304910250FU",
+        "course_name": "BMS",
+        "page_no": "470"
+    },
+    {
+        "name": "03547 - MANIBEN NANAVATI WOMEN'S COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Gujarathi (Female)",
+        "cap_seats": 48,
+        "choice_code": "0354710250FU",
+        "course_name": "BMS",
+        "page_no": "471"
+    },
+    {
+        "name": "03554 - SMT. P. N. DOSHI WOMEN'S COLLEGE",
+        "status": "Un-Aided -Linguistic Minority - Gujarathi (Female)",
+        "cap_seats": 48,
+        "choice_code": "0355410250FU",
+        "course_name": "BMS",
+        "page_no": "472"
+    },
+    {
+        "name": "03582 - SMT. MANIBEN M.P. SHAH WOMENS COLLEGE OF ARTS AND COMMERCE",
+        "status": "Un-Aided -Autonomous -Linguistic Minority - Gujarathi (Female)",
+        "cap_seats": 57,
+        "choice_code": "0358210250FU",
+        "course_name": "BMS",
+        "page_no": "473"
+    },
+    {
+        "name": "03626 - LATE PARVATIBAI JONDHALE WOMENS LAW COLLEGE BMS",
+        "status": "Un-Aided (Female)",
+        "cap_seats": 96,
+        "choice_code": "0362610250F",
+        "course_name": "BMS",
+        "page_no": "474"
+    },
+    {
+        "name": "04016 - SNDT WOMENS UNIVERSITY MUMBAI BALLARPUR CAMPUS MAHARSHI KARVE MAHILA SAKSHAMIKARAN DYNAN SANKUL",
+        "status": "University Managed (Female)",
+        "cap_seats": 60,
+        "choice_code": "0401611850F",
+        "course_name": "BMS (Hospital Administration)",
+        "page_no": "475"
+    },
+    {
+        "name": "University Managed (Female)",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "476"
+    },
+    {
+        "name": "University Managed (Female)",
+        "status": "Choice Code",
+        "cap_seats": null,
+        "choice_code": "Category",
+        "course_name": "OPEN",
+        "page_no": "477"
+    },
+    {
+        "name": "02034 - NEW MODEL DEGREE COLLEGE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0203410110U",
+        "course_name": "BBA",
+        "page_no": "478"
+    },
+    {
+        "name": "02035 - SCHOOL OF MANAGEMENT SCIENCES SRTMUN SUBCENTRE LATUR",
+        "status": "University Managed",
+        "cap_seats": 40,
+        "choice_code": "0203510110",
+        "course_name": "BBA",
+        "page_no": "479"
+    },
+    {
+        "name": "02119 - Shree Sharda Bhavan Education Society's Institute of Technology & Management, Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 240,
+        "choice_code": "0211910110",
+        "course_name": "BBA",
+        "page_no": "480"
+    },
+    {
+        "name": "02508 - GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.",
+        "status": "Un-Aided",
+        "cap_seats": 64,
+        "choice_code": "0250810110",
+        "course_name": "BBA",
+        "page_no": "481"
+    },
+    {
+        "name": "02667 - DAYANAND COLLEGE OF COMMERCE LATUR",
+        "status": "Un-Aided",
+        "cap_seats": 120,
+        "choice_code": "0266710170U",
+        "course_name": "BBA",
+        "page_no": "482"
+    },
+    {
+        "name": "02677 - SHRI SHIVAJI COLLEGE PARBHANI",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0267710170U",
+        "course_name": "BBA",
+        "page_no": "483"
+    },
+    {
+        "name": "02692 - COLLEGE OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY",
+        "status": "Un-Aided",
+        "cap_seats": 96,
+        "choice_code": "0269210110",
+        "course_name": "BBA",
+        "page_no": "484"
+    },
+    {
+        "name": "02700 - UTKARSH VOCATIONAL TRAINING BBA ABM COLLEGE SAGROLI.NANDED.",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0270010110",
+        "course_name": "BBA",
+        "page_no": "485"
+    },
+    {
+        "name": "02723 - MATOSHRI PRATISHTHAN GROUP OF INSTITUTIONS SCHOOL OF ENGINEERING AND SCHOOL OF MANAGEMENT",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0272310110",
+        "course_name": "BBA",
+        "page_no": "486"
+    },
+    {
+        "name": "02759 - MDA INSTITUTE OF HIGHER EDUCATION SCIENCES AND RESEARCH",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0275910110",
+        "course_name": "BBA",
+        "page_no": "487"
+    }
+]

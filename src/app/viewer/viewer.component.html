@@ -1,0 +1,6 @@
+<div class="viewer-container">
+    <button mat-stroked-button color="warn" class="back-btn" onclick="history.back()">
+        <mat-icon>arrow_back</mat-icon> Back
+    </button>
+    <iframe *ngIf="url" [src]="url" class="pdf-frame"></iframe>
+</div>

@@ -1,0 +1,4226 @@
+[
+    {
+        "name": "03016 - Bombay College of Pharmacy, Santacruz(E), Mumbai",
+        "status": "Government-Aided Autonomous",
+        "cap_seats": 60,
+        "choice_code": "0301682310",
+        "course_name": "Pharmacy",
+        "page_no": "0"
+    },
+    {
+        "name": "03016 - Bombay College of Pharmacy, Santacruz(E), Mumbai",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 40,
+        "choice_code": "0301682370U",
+        "course_name": "Pharmacy",
+        "page_no": "1"
+    },
+    {
+        "name": "03036 - Institute of Chemical Technology, Matunga, Mumbai",
+        "status": "Government Autonomous",
+        "cap_seats": 30,
+        "choice_code": "0303682310",
+        "course_name": "Pharmacy",
+        "page_no": "2"
+    },
+    {
+        "name": "03228 - Shri Vile Parle Kelavani Mandal's Dr. Bhanuben Nanavati College of Pharmacy, Mumbai",
+        "status": "Un-Aided Autonomous Linguistic Minority - Gujarathi",
+        "cap_seats": 80,
+        "choice_code": "0322882310",
+        "course_name": "Pharmacy",
+        "page_no": "3"
+    },
+    {
+        "name": "03237 - Vivekanand Education Society's College of Pharmacy, Chembur, Mumbai",
+        "status": "Un-Aided Autonomous Linguistic Minority - Sindhi",
+        "cap_seats": 100,
+        "choice_code": "0323782310",
+        "course_name": "Pharmacy",
+        "page_no": "4"
+    },
+    {
+        "name": "03240 - Aldel Education Trust's St. John Institute of Pharmacy and Research, Vevoor, Palghar",
+        "status": "Un-Aided Autonomous Religious Minority - Christian",
+        "cap_seats": 80,
+        "choice_code": "0324082310",
+        "course_name": "Pharmacy",
+        "page_no": "5"
+    },
+    {
+        "name": "03439 - Anjuman-I-Islam's Kalsekar Technical Campus, Panvel",
+        "status": "Un-Aided Autonomous Religious Minority - Muslim",
+        "cap_seats": 80,
+        "choice_code": "0343982310",
+        "course_name": "Pharmacy",
+        "page_no": "6"
+    },
+    {
+        "name": "04199 - S.Patil Shikshan Sanstha's Smt. Kishoritai Bhoyar College of Pharmacy,Kamptee",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 80,
+        "choice_code": "0419982310",
+        "course_name": "Pharmacy",
+        "page_no": "7"
+    },
+    {
+        "name": "04265 - Lokmanya Tilak Jankalyan Shikshan Sanstha's Priyadarshini J. L. college of pharmacy, Nagpur",
+        "status": "Un-Aided Autonomous Linguistic Minority - Hindi",
+        "cap_seats": 90,
+        "choice_code": "0426582310",
+        "course_name": "Pharmacy",
+        "page_no": "8"
+    },
+    {
+        "name": "05154 - Mahatma Gandhi Vidya Mandir's Pharmacy College, Panchavati, Nashik",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 100,
+        "choice_code": "0515482310",
+        "course_name": "Pharmacy",
+        "page_no": "9"
+    },
+    {
+        "name": "05154 - Mahatma Gandhi Vidya Mandir's Pharmacy College, Panchavati, Nashik",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 27,
+        "choice_code": "0515410010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "10"
+    },
+    {
+        "name": "05186 - R. C. Patel Institute of Pharmaceutical Education and Research, Shirpur",
+        "status": "Un-Aided Autonomous Linguistic Minority - Gujarathi",
+        "cap_seats": 100,
+        "choice_code": "0518682310",
+        "course_name": "Pharmacy",
+        "page_no": "11"
+    },
+    {
+        "name": "05186 - R. C. Patel Institute of Pharmaceutical Education and Research, Shirpur",
+        "status": "Un-Aided Autonomous Linguistic Minority - Gujarathi",
+        "cap_seats": 24,
+        "choice_code": "0518610010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "12"
+    },
+    {
+        "name": "05194 - Amrutvahini College of Pharmacy, Sangamner",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 95,
+        "choice_code": "0519482310",
+        "course_name": "Pharmacy",
+        "page_no": "13"
+    },
+    {
+        "name": "05195 - Sanjivani Rural Education Society's Sanjivani College of Pharmaceutical & Research, Kopargaon",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 96,
+        "choice_code": "0519582310",
+        "course_name": "Pharmacy",
+        "page_no": "14"
+    },
+    {
+        "name": "06370 - Progressive Education Society's Modern College of Pharmacy, Nigdi, Pune",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 80,
+        "choice_code": "0637082310",
+        "course_name": "Pharmacy",
+        "page_no": "15"
+    },
+    {
+        "name": "06370 - Progressive Education Society's Modern College of Pharmacy, Nigdi, Pune",
+        "status": "Un-Aided Autonomous",
+        "cap_seats": 24,
+        "choice_code": "0637010010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "16"
+    },
+    {
+        "name": "06652 - Poona College Of Pharmacy, Erandwane, Pune",
+        "status": "Government-Aided",
+        "cap_seats": 60,
+        "choice_code": "0665282310",
+        "course_name": "Pharmacy",
+        "page_no": "17"
+    },
+    {
+        "name": "02009 - Government College of Pharmacy, Aurangabad",
+        "status": "Government",
+        "cap_seats": 60,
+        "choice_code": "0200982310",
+        "course_name": "Pharmacy",
+        "page_no": "18"
+    },
+    {
+        "name": "02009 - Government College of Pharmacy, Aurangabad",
+        "status": "Government",
+        "cap_seats": 30,
+        "choice_code": "0200910010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "19"
+    },
+    {
+        "name": "02148 - Maulana Azad Education Trust's Y.B.Chavan College of Pharmacy, Aurangabad",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 100,
+        "choice_code": "0214882310",
+        "course_name": "Pharmacy",
+        "page_no": "20"
+    },
+    {
+        "name": "02151 - Adarsha Shikshan Prasarak Mandal's K.T. Patil College of Pharmacy, Osmanabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0215182310",
+        "course_name": "Pharmacy",
+        "page_no": "21"
+    },
+    {
+        "name": "02151 - Adarsha Shikshan Prasarak Mandal's K.T. Patil College of Pharmacy, Osmanabad",
+        "status": "Un-Aided",
+        "cap_seats": 27,
+        "choice_code": "0215110010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "22"
+    },
+    {
+        "name": "02153 - Yash Institute of Pharmacy, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0215382310",
+        "course_name": "Pharmacy",
+        "page_no": "23"
+    },
+    {
+        "name": "02158 - Ramchandra Sanskritik Krida Mandal's R.D. Bhakt College of Pharmacy, Jalna",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0215882310",
+        "course_name": "Pharmacy",
+        "page_no": "24"
+    },
+    {
+        "name": "02251 - Shri Balaji Shikshan Prasarak Mamdal's , B.Pharmacy College, Ambajogai",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0225182310",
+        "course_name": "Pharmacy",
+        "page_no": "25"
+    },
+    {
+        "name": "02542 - Aditya Diploma Institute of Pharmacy, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0254282310",
+        "course_name": "Pharmacy",
+        "page_no": "26"
+    },
+    {
+        "name": "02560 - Anand Charitable Sanstha's College of Pharmaceutical Science & Research, Ashti",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0256082310",
+        "course_name": "Pharmacy",
+        "page_no": "27"
+    },
+    {
+        "name": "02561 - Rajesh Bhaiyya Tope College of B Pharmacy, Nipani, Aurangbad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0256182310",
+        "course_name": "Pharmacy",
+        "page_no": "28"
+    },
+    {
+        "name": "02586 - Shri. Goraksha College of Pharmacy & Research Centre, Khamgaon, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 92,
+        "choice_code": "0258682310",
+        "course_name": "Pharmacy",
+        "page_no": "29"
+    },
+    {
+        "name": "02608 - Shri Sai Institute Of Pharmacy And Research, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0260882310",
+        "course_name": "Pharmacy",
+        "page_no": "30"
+    },
+    {
+        "name": "01157 - Shri Chhatrapati Shahumaharaj Shikshan Santha's Institute Of Pharmacy, Maregaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0115782310",
+        "course_name": "Pharmacy",
+        "page_no": "31"
+    },
+    {
+        "name": "01159 - Navsanjivan Shikshan Mandal's College of Pharmacy, Dharwa",
+        "status": "Un-Aided",
+        "cap_seats": 56,
+        "choice_code": "0115982310",
+        "course_name": "Pharmacy",
+        "page_no": "32"
+    },
+    {
+        "name": "01161 - Matoshri Education Society's Satyajeet College of Pharmacy, Khandala, Akola Road Mehkar, Tq. Mehkar, Dist. Buldhana",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0116182310",
+        "course_name": "Pharmacy",
+        "page_no": "33"
+    },
+    {
+        "name": "01164 - Shree, Swami Samarth Institute of Pharmacy, at parsodi, Dhamangaon Rly, Dist.Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0116482310",
+        "course_name": "Pharmacy",
+        "page_no": "34"
+    },
+    {
+        "name": "01171 - Pataldhamal Wadhwani College of Pharmacy, Yavatmal",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0117182310",
+        "course_name": "Pharmacy",
+        "page_no": "35"
+    },
+    {
+        "name": "01264 - Vidarbha Institute of Pharmacy, Washim",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0126482310",
+        "course_name": "Pharmacy",
+        "page_no": "36"
+    },
+    {
+        "name": "01281 - Takshashila Institute of Pharmaceutical Education And Research",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0128182310",
+        "course_name": "Pharmacy",
+        "page_no": "37"
+    },
+    {
+        "name": "01290 - Jagadambha Institute Of Pharmacy And Research, Kalamb",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0129082310",
+        "course_name": "Pharmacy",
+        "page_no": "38"
+    },
+    {
+        "name": "01296 - Dr. Rajendra Gode College Of Pharmacy, Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0129682310",
+        "course_name": "Pharmacy",
+        "page_no": "39"
+    },
+    {
+        "name": "01297 - Vidyaniketan College Of Pharmacy, Anjangaon Surji",
+        "status": "Un-Aided Religious Minority - Buddhist",
+        "cap_seats": 54,
+        "choice_code": "0129782310",
+        "course_name": "Pharmacy",
+        "page_no": "40"
+    },
+    {
+        "name": "01305 - Cambridge College of Pharmacy, Yelgaon Dist. Buldhana",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0130582310",
+        "course_name": "Pharmacy",
+        "page_no": "41"
+    },
+    {
+        "name": "02027 - Adarsh Shikshan Prasarak Mandal's Diploma In Pharmacy Institute, Osmanabad",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0202782370U",
+        "course_name": "Pharmacy",
+        "page_no": "42"
+    },
+    {
+        "name": "02118 - Shree Bhairavnath Nisarg Mandal.'S Diploma In Pharmacy Institute, Hatta, Tal.Basmat",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0211882310",
+        "course_name": "Pharmacy",
+        "page_no": "43"
+    },
+    {
+        "name": "02130 - Terna Public Charitable Trust's College of Engineering, Osmanabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0213082310",
+        "course_name": "Pharmacy",
+        "page_no": "44"
+    },
+    {
+        "name": "02154 - Shri. Dhaneshwari Manav Vikas Mandal's Dr. Vedprakash Patil Pharmacy, College, Gevrai, Aurangabad.",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0215482310",
+        "course_name": "Pharmacy",
+        "page_no": "45"
+    },
+    {
+        "name": "02201 - Umer Bin Khattab Welfare Trust Vastanvi College of Pharmacy",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 60,
+        "choice_code": "0220182310",
+        "course_name": "Pharmacy",
+        "page_no": "46"
+    },
+    {
+        "name": "02202 - Sayli Charitable Trust's College Of Pharmacy, Mitmita, Aurangabad.",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0220282310",
+        "course_name": "Pharmacy",
+        "page_no": "47"
+    },
+    {
+        "name": "02219 - Shree Bhairavnath Nisarga Mandal's D. Pharmacy College, Aalani",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0221982310",
+        "course_name": "Pharmacy",
+        "page_no": "48"
+    },
+    {
+        "name": "02220 - Anandgram Krushi Vikas Mandals Late Maharudra Bappa Mote College of Pharmacy, Girwali Tal. Bhoom",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0222082310",
+        "course_name": "Pharmacy",
+        "page_no": "49"
+    },
+    {
+        "name": "02223 - Vivekvardhini Sevabhavi Sanstha's Diploma Pharmacy College, Pingali",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0222382310",
+        "course_name": "Pharmacy",
+        "page_no": "50"
+    },
+    {
+        "name": "02254 - Vilasrao Deshmukh Foundation Group of Institutions, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0225482310",
+        "course_name": "Pharmacy",
+        "page_no": "51"
+    },
+    {
+        "name": "02514 - Oyster Institute of Pharmacy, Aurangabad.",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0251482310",
+        "course_name": "Pharmacy",
+        "page_no": "52"
+    },
+    {
+        "name": "02514 - Oyster Institute of Pharmacy, Aurangabad.",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0251410010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "53"
+    },
+    {
+        "name": "02539 - Rajesh Bhaiyya Tope College of Pharmacy, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0253982310",
+        "course_name": "Pharmacy",
+        "page_no": "54"
+    },
+    {
+        "name": "02543 - Aditya Pharmacy College, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0254382310",
+        "course_name": "Pharmacy",
+        "page_no": "55"
+    },
+    {
+        "name": "02543 - Aditya Pharmacy College, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0254310010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "56"
+    },
+    {
+        "name": "02545 - Shriganesh Ramchandra Katruwar College of Pharmacy, Manwath",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0254582310",
+        "course_name": "Pharmacy",
+        "page_no": "57"
+    },
+    {
+        "name": "02547 - Late Bhagirathi Yashwantrao Pathrikar College of D.Pharmacy, Pathri",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0254782310",
+        "course_name": "Pharmacy",
+        "page_no": "58"
+    },
+    {
+        "name": "02554 - Mauli College of Pharmacy(B.Pharm), Tondar, Udgir",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0255482310",
+        "course_name": "Pharmacy",
+        "page_no": "59"
+    },
+    {
+        "name": "02555 - Aditya Institute of Pharmacutical, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0255582310",
+        "course_name": "Pharmacy",
+        "page_no": "60"
+    },
+    {
+        "name": "02559 - Kandhar College of Pharmacy, Kandhar",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0255982310",
+        "course_name": "Pharmacy",
+        "page_no": "61"
+    },
+    {
+        "name": "02563 - Shri Sai Janvikas Pratisthan's R.P. College of Pharmacy, Osmanabad",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0256382310",
+        "course_name": "Pharmacy",
+        "page_no": "62"
+    },
+    {
+        "name": "02564 - Shri. Dhaneshwari Manav Vikas Mandal's S.V.P. College of Pharmacy, Hingoli",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0256482310",
+        "course_name": "Pharmacy",
+        "page_no": "63"
+    },
+    {
+        "name": "02565 - Usha Dwarkadas Pathrikar Institute of Pharmacy, Dongargaon Kawad",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0256582310",
+        "course_name": "Pharmacy",
+        "page_no": "64"
+    },
+    {
+        "name": "02567 - Yashodeep Institute of Pharmacy, Pimpalgaon Pandhari, Aurangabad.",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0256782310",
+        "course_name": "Pharmacy",
+        "page_no": "65"
+    },
+    {
+        "name": "02572 - Shreeyash Institute of Pharmaceutical Education & Research, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0257282310",
+        "course_name": "Pharmacy",
+        "page_no": "66"
+    },
+    {
+        "name": "02575 - Gurukrupa Sevabhavi Sanstha's Gurukrupa Institute of Pharmacy(B.Pharm), Majalegaon, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0257582310",
+        "course_name": "Pharmacy",
+        "page_no": "67"
+    },
+    {
+        "name": "02576 - VSS Institute of Pharmacy, Badnapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0257682310",
+        "course_name": "Pharmacy",
+        "page_no": "68"
+    },
+    {
+        "name": "02578 - Godavari Institute of Pharmacy, Kolpa, Tal. & Dist. Latur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0257882310",
+        "course_name": "Pharmacy",
+        "page_no": "69"
+    },
+    {
+        "name": "02580 - Shri.Ramkrishna Paramhans college of Pharmacy, (D.Pharm), Hasnapur, Parbhani",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0258082310",
+        "course_name": "Pharmacy",
+        "page_no": "70"
+    },
+    {
+        "name": "02581 - Radheya Charitable Trusts D B College of Pharmacy And Research, Mahalangra, Taluka Chakur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0258182310",
+        "course_name": "Pharmacy",
+        "page_no": "71"
+    },
+    {
+        "name": "02584 - Srinath College of Pharmacy, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0258482310",
+        "course_name": "Pharmacy",
+        "page_no": "72"
+    },
+    {
+        "name": "02587 - Nandkumar Shinde College of Pharmacy, Vaijapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0258782310",
+        "course_name": "Pharmacy",
+        "page_no": "73"
+    },
+    {
+        "name": "02588 - Shri Sai College of Pharmacy, Khandala, Vaijapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0258882310",
+        "course_name": "Pharmacy",
+        "page_no": "74"
+    },
+    {
+        "name": "02589 - Shri. Sai Janvikas Pratishthan's OJAS College of Pharmacy, Jalna",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0258982310",
+        "course_name": "Pharmacy",
+        "page_no": "75"
+    },
+    {
+        "name": "02590 - DJP's College of Pharmacy, Pohetakli",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0259082310",
+        "course_name": "Pharmacy",
+        "page_no": "76"
+    },
+    {
+        "name": "02591 - DNYANSADHANA COLLEGE OF PHARMACY, DHARMAPURI PATI, PARBHANI",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0259182310",
+        "course_name": "Pharmacy",
+        "page_no": "77"
+    },
+    {
+        "name": "02592 - GAJANAN MAHARAJ COLLEGE OF PHARMACY, NIPANI, AURANGABAD",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0259282310",
+        "course_name": "Pharmacy",
+        "page_no": "78"
+    },
+    {
+        "name": "02594 - Tatyaraoji More College of Pharmacy, Umerga",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0259482310",
+        "course_name": "Pharmacy",
+        "page_no": "79"
+    },
+    {
+        "name": "02596 - Institute of Pharmacy, Badnapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0259682310",
+        "course_name": "Pharmacy",
+        "page_no": "80"
+    },
+    {
+        "name": "02597 - MDA School of Pharmacy, Kolpa",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0259782310",
+        "course_name": "Pharmacy",
+        "page_no": "81"
+    },
+    {
+        "name": "02598 - Shivai Charitable Trust's College of Pharmacy, Koregaonwadi, Umerga",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0259882310",
+        "course_name": "Pharmacy",
+        "page_no": "82"
+    },
+    {
+        "name": "02601 - Raosaheb Patil Danve College Of Pharmacy, Badnapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0260182310",
+        "course_name": "Pharmacy",
+        "page_no": "83"
+    },
+    {
+        "name": "02602 - Kishori College Of Pharmacy, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0260282310",
+        "course_name": "Pharmacy",
+        "page_no": "84"
+    },
+    {
+        "name": "02603 - Mangaldeep Institute Of Pharmacy, Aurangabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0260382310",
+        "course_name": "Pharmacy",
+        "page_no": "85"
+    },
+    {
+        "name": "02604 - Nbs Institute Of Pharmacy, Ausa",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0260482310",
+        "course_name": "Pharmacy",
+        "page_no": "86"
+    },
+    {
+        "name": "02605 - JGVVS's Suyash College Of Pharmacy, Warud, Jafrabad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0260582310",
+        "course_name": "Pharmacy",
+        "page_no": "87"
+    },
+    {
+        "name": "02609 - Vasant Pharmacy College Kaij",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0260982310",
+        "course_name": "Pharmacy",
+        "page_no": "88"
+    },
+    {
+        "name": "02613 - Valmik Naik College Of Pharmacy, Telwadi, Kannad",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0261382310",
+        "course_name": "Pharmacy",
+        "page_no": "89"
+    },
+    {
+        "name": "02614 - Aurangabad Pharmacy College, Mitmita",
+        "status": "Un-Aided Relogious Minority Muslim & Linguistic Minority Urdu",
+        "cap_seats": 100,
+        "choice_code": "0261482310",
+        "course_name": "Pharmacy",
+        "page_no": "90"
+    },
+    {
+        "name": "02616 - Shri Amolak Jain Vidya Prasarak Mandal's College Of Pharmaceutical Science & Research Center, At Post Kada, Ashti",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 60,
+        "choice_code": "0261682310",
+        "course_name": "Pharmacy",
+        "page_no": "91"
+    },
+    {
+        "name": "02617 - Ismail Mehta College Of Pharmacy, Ambad",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 60,
+        "choice_code": "0261782310",
+        "course_name": "Pharmacy",
+        "page_no": "92"
+    },
+    {
+        "name": "02619 - Shramjivi Shikshan Prasarak Mandals Shramjivi College Of Pharmacy, Umerga",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0261982310",
+        "course_name": "Pharmacy",
+        "page_no": "93"
+    },
+    {
+        "name": "02620 - Rashtriya College of Pharmacy, Hatnoor, Kannad",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0262082310",
+        "course_name": "Pharmacy",
+        "page_no": "94"
+    },
+    {
+        "name": "02627 - Madhavrao Patil College of Pharmacy, Murum",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0262782310",
+        "course_name": "Pharmacy",
+        "page_no": "95"
+    },
+    {
+        "name": "02629 - Supriya College of Pharmacy, Tembhurni, Taluka Jafrabad, Jalna",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0262982310",
+        "course_name": "Pharmacy",
+        "page_no": "96"
+    },
+    {
+        "name": "02647 - Bordikar College of Pharmacy, Mathala, Jintur, Dist.Parbhani",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0264782310",
+        "course_name": "Pharmacy",
+        "page_no": "97"
+    },
+    {
+        "name": "02653 - Vithai D.Pharmacy College, Beed",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0265382310",
+        "course_name": "Pharmacy",
+        "page_no": "98"
+    },
+    {
+        "name": "02655 - Shri. Chhatrapati Shivaji College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0265582310",
+        "course_name": "Pharmacy",
+        "page_no": "99"
+    },
+    {
+        "name": "02656 - Jagdamba Shikshan Prasark Mandal's College of B.Pharmacy & Research Centre",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0265682310",
+        "course_name": "Pharmacy",
+        "page_no": "100"
+    },
+    {
+        "name": "02658 - R.G. Institute of Pharmacy, Aurala",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0265882310",
+        "course_name": "Pharmacy",
+        "page_no": "101"
+    },
+    {
+        "name": "02762 - Mishri Shikshan Prasarak Mandal's Navkar D and B Pharmacy College and Research Center",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 100,
+        "choice_code": "0276282310",
+        "course_name": "Pharmacy",
+        "page_no": "102"
+    },
+    {
+        "name": "02764 - Gurukul Institute of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0276482310",
+        "course_name": "Pharmacy",
+        "page_no": "103"
+    },
+    {
+        "name": "02786 - Moreshwar Institute of Pharmaceutical Science and Research",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0278682310",
+        "course_name": "Pharmacy",
+        "page_no": "104"
+    },
+    {
+        "name": "03163 - Shri Angarsiddha Shikshan Prasarak Mandal's Diploma In Pharmacy Institute,Sangulwadi,Tal-Vaibhavwadi",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0316382310",
+        "course_name": "Pharmacy",
+        "page_no": "105"
+    },
+    {
+        "name": "03186 - Indrayani Shikshan Prasarak Mandal Shri Pushpasen Sawant College of Pharmacy, Kudal",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0318682310",
+        "course_name": "Pharmacy",
+        "page_no": "106"
+    },
+    {
+        "name": "03486 - Shree Saraswati Institute of Pharmacy, At Post Tondavali, Kankavali",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0348682310",
+        "course_name": "Pharmacy",
+        "page_no": "107"
+    },
+    {
+        "name": "03490 - VP College of Pharmacy, Madkhol, Sawantwadi",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0349082310",
+        "course_name": "Pharmacy",
+        "page_no": "108"
+    },
+    {
+        "name": "03493 - Shri Angarsiddha Shikshan Prasarak Mandal's ASPM College of Pharmacy, Sangulwadi",
+        "status": "Un-Aided",
+        "cap_seats": 94,
+        "choice_code": "0349382310",
+        "course_name": "Pharmacy",
+        "page_no": "109"
+    },
+    {
+        "name": "03500 - Vijayrao Naik College Of Pharmacy, Shirval",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0350082310",
+        "course_name": "Pharmacy",
+        "page_no": "110"
+    },
+    {
+        "name": "03501 - Siddhis Institute Of Pharmacy, Nandgaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0350182310",
+        "course_name": "Pharmacy",
+        "page_no": "111"
+    },
+    {
+        "name": "03504 - Raigad College Of Pharmacy, Mohopre",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0350482310",
+        "course_name": "Pharmacy",
+        "page_no": "112"
+    },
+    {
+        "name": "03510 - Lokmanya Tilak Institute of Pharmacy, Kharghar, Navi Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0351082310",
+        "course_name": "Pharmacy",
+        "page_no": "113"
+    },
+    {
+        "name": "03533 - Y.N.P. College of Pharmacy, At Post Asangaon, Dahanu",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0353382310",
+        "course_name": "Pharmacy",
+        "page_no": "114"
+    },
+    {
+        "name": "03536 - Yashodeep College of Pharmacy, At Post Saralgaon, Taluka Murbad",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0353682310",
+        "course_name": "Pharmacy",
+        "page_no": "115"
+    },
+    {
+        "name": "03545 - Siddharth College of Pharmacy & Research Centre",
+        "status": "Un-Aided Religious Minority - Buddhist",
+        "cap_seats": 60,
+        "choice_code": "0354582310",
+        "course_name": "Pharmacy",
+        "page_no": "116"
+    },
+    {
+        "name": "03712 - Shree Ramraje College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0371282310",
+        "course_name": "Pharmacy",
+        "page_no": "117"
+    },
+    {
+        "name": "03728 - Shiv Niketan Trust's Shri. Jagannath Laxmibai Sakharam Shinde College of Pharmacy, Khadavali(E), Taluka. Kalyan, Dist.Thane",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0372882310",
+        "course_name": "Pharmacy",
+        "page_no": "118"
+    },
+    {
+        "name": "04020 - Shikshan Prasarak Mandal's Smt. Kusumtai Wankhede Institute of Pharmacy, Katol",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0402082370",
+        "course_name": "Pharmacy",
+        "page_no": "119"
+    },
+    {
+        "name": "04261 - Shri Bhawabhuti Shikshan Sanstha's Shri Laxmanrao Mankar Institute Of Pharmacy, Amgoan",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0426182310",
+        "course_name": "Pharmacy",
+        "page_no": "120"
+    },
+    {
+        "name": "04263 - S.K.B.College of Pharmacy, Gada, Kamptee",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0426382310",
+        "course_name": "Pharmacy",
+        "page_no": "121"
+    },
+    {
+        "name": "04270 - Backward Class Youth Relief Committee's KDK College of Pharmacy & Research Institute, Nagpur\n( NO )",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0427082310",
+        "course_name": "Pharmacy",
+        "page_no": "122"
+    },
+    {
+        "name": "04271 - Jai Mahakali Shikshan Sanstha's Agnihotri Institute of Diploma in Pharmacy, Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0427182310",
+        "course_name": "Pharmacy",
+        "page_no": "123"
+    },
+    {
+        "name": "04272 - Bhausaheb Mulak Charitable Trust 'S Bhausaheb Mulak College Of D. Pharmacy, Umred, Nagpur\n( NO )",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0427282310",
+        "course_name": "Pharmacy",
+        "page_no": "124"
+    },
+    {
+        "name": "04274 - Abhinav Bahuuddeshiya's Siddhivinayak College Of Pharmacy, Warora, Dist. Chandrapur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0427482310",
+        "course_name": "Pharmacy",
+        "page_no": "125"
+    },
+    {
+        "name": "04278 - Young Engineers Education Society's Maharashtra Institute Of Pharmacy, Betada, Bramhapuri, Chandrapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0427882310",
+        "course_name": "Pharmacy",
+        "page_no": "126"
+    },
+    {
+        "name": "04279 - Sanmarg Shikshan Sanstha's K.R.Pandav Institute Of Pharmacy, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0427982310",
+        "course_name": "Pharmacy",
+        "page_no": "127"
+    },
+    {
+        "name": "04280 - Krushna Sahyogi Tantra Shikshan Sanstha's Chatrapati Shivaji College Of Pharmacy, Devari, Tal. Devari, Dist.Gondiya",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0428082310",
+        "course_name": "Pharmacy",
+        "page_no": "128"
+    },
+    {
+        "name": "04283 - Swa. Madhukarrao Deshmukh Education Society, Shree Sadguru Datta Institute of Pharmacy, Bhajapur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0428382310",
+        "course_name": "Pharmacy",
+        "page_no": "129"
+    },
+    {
+        "name": "04643 - Maharashtra Institute of Pharmacy (Betada), Brambhapuri",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0464382310",
+        "course_name": "Pharmacy",
+        "page_no": "130"
+    },
+    {
+        "name": "04651 - Central India College of Pharmacy, Nagpur",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 60,
+        "choice_code": "0465182310",
+        "course_name": "Pharmacy",
+        "page_no": "131"
+    },
+    {
+        "name": "04652 - Mouda College of Pharmacy, Mauda Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0465282310",
+        "course_name": "Pharmacy",
+        "page_no": "132"
+    },
+    {
+        "name": "04654 - NEW MONTFORT INSTITUTE OF PHARMACY, ASHTI",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 100,
+        "choice_code": "0465482310",
+        "course_name": "Pharmacy",
+        "page_no": "133"
+    },
+    {
+        "name": "04656 - Nagpur College Of Pharmacy, Hingana",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0465682310",
+        "course_name": "Pharmacy",
+        "page_no": "134"
+    },
+    {
+        "name": "04658 - Dr Arun Motghare College Of Pharmacy, Pauni",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0465882310",
+        "course_name": "Pharmacy",
+        "page_no": "135"
+    },
+    {
+        "name": "04659 - Shri Sai College Of Pharmacy, Mouda",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0465982310",
+        "course_name": "Pharmacy",
+        "page_no": "136"
+    },
+    {
+        "name": "04660 - Gondia College Of Pharmacy, Chulod",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0466082310",
+        "course_name": "Pharmacy",
+        "page_no": "137"
+    },
+    {
+        "name": "04664 - Maharashtra College of Pharmacy, At Khamari, Gondia",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0466482310",
+        "course_name": "Pharmacy",
+        "page_no": "138"
+    },
+    {
+        "name": "04665 - Adarsh Institute of Pharmacy, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0466582310",
+        "course_name": "Pharmacy",
+        "page_no": "139"
+    },
+    {
+        "name": "04669 - J.V.Institute of Pharmacy, Khamona",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0466982310",
+        "course_name": "Pharmacy",
+        "page_no": "140"
+    },
+    {
+        "name": "04673 - Tulsiramji Gaikwad-Patil College of Pharmacy, Mohagaon, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0467382310",
+        "course_name": "Pharmacy",
+        "page_no": "141"
+    },
+    {
+        "name": "04677 - Dnyandeep College of Pharmacy, Ramtek",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0467782310",
+        "course_name": "Pharmacy",
+        "page_no": "142"
+    },
+    {
+        "name": "04680 - The Royal Gondwana College of Pharmacy, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0468082310",
+        "course_name": "Pharmacy",
+        "page_no": "143"
+    },
+    {
+        "name": "04682 - St. Paul College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0468282310",
+        "course_name": "Pharmacy",
+        "page_no": "144"
+    },
+    {
+        "name": "04685 - Dr. K.R. College of Pharmacy & Research",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0468582310",
+        "course_name": "Pharmacy",
+        "page_no": "145"
+    },
+    {
+        "name": "04688 - Manwatkar College of Pharmacy (D.Pharm)",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0468882310",
+        "course_name": "Pharmacy",
+        "page_no": "146"
+    },
+    {
+        "name": "04689 - Sai College of Pharmacy, Tumsar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0468982310",
+        "course_name": "Pharmacy",
+        "page_no": "147"
+    },
+    {
+        "name": "04690 - Dr. Babasaheb Ambedkar College Brambhapuri (D.Pharm)",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0469082310",
+        "course_name": "Pharmacy",
+        "page_no": "148"
+    },
+    {
+        "name": "04692 - Shri. Gurudev Institute of Pharmaceutical Education & Research, Temni Road, Chulod, District Gondia",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0469282310",
+        "course_name": "Pharmacy",
+        "page_no": "149"
+    },
+    {
+        "name": "04693 - K.C. Bajaj College of Pharmacy & Research, Jaripatka, Nagpur",
+        "status": "Un-Aided Linguistic Minority - Sindhi",
+        "cap_seats": 54,
+        "choice_code": "0469382310",
+        "course_name": "Pharmacy",
+        "page_no": "150"
+    },
+    {
+        "name": "04697 - Ramratan School of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0469782310",
+        "course_name": "Pharmacy",
+        "page_no": "151"
+    },
+    {
+        "name": "04749 - Ekdant College of Pharmacy, Umred",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0474982310",
+        "course_name": "Pharmacy",
+        "page_no": "152"
+    },
+    {
+        "name": "04751 - Tulaskar College of Pharmacy, Hinganghat, Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0475182310",
+        "course_name": "Pharmacy",
+        "page_no": "153"
+    },
+    {
+        "name": "04753 - Pearl College of D & B Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0475382310",
+        "course_name": "Pharmacy",
+        "page_no": "154"
+    },
+    {
+        "name": "04756 - Somayya Institute of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0475682310",
+        "course_name": "Pharmacy",
+        "page_no": "155"
+    },
+    {
+        "name": "05209 - Kai Yashodabai Dagadu Saraf Charitable Trust's College of Pharmacy, Sakegaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0520982310",
+        "course_name": "Pharmacy",
+        "page_no": "156"
+    },
+    {
+        "name": "05209 - Kai Yashodabai Dagadu Saraf Charitable Trust's College of Pharmacy, Sakegaon",
+        "status": "Un-Aided",
+        "cap_seats": 28,
+        "choice_code": "0520910010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "157"
+    },
+    {
+        "name": "05264 - Adivasi Seva Samiti's Institute of Industrial & Pharmaceutical Technology, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0526482310",
+        "course_name": "Pharmacy",
+        "page_no": "158"
+    },
+    {
+        "name": "05267 - Kisan Vidya Prasarak Sanstha's Maharani Ahilyabai Holkar College of Pharmacy, Shingave Shivar, Shirpur",
+        "status": "Un-Aided",
+        "cap_seats": 59,
+        "choice_code": "0526782310",
+        "course_name": "Pharmacy",
+        "page_no": "159"
+    },
+    {
+        "name": "05272 - Nandurbar Taluka Vidhayak Sanstha's Institute of Pharmacy,Nandurbar",
+        "status": "Un-Aided Linguistic Minority - Hindi",
+        "cap_seats": 100,
+        "choice_code": "0527282310",
+        "course_name": "Pharmacy",
+        "page_no": "160"
+    },
+    {
+        "name": "05274 - Nashik District Maratha Vidya Prasarak Samaj's Institute Of Pharmaceutical Sciences, Adgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0527482310",
+        "course_name": "Pharmacy",
+        "page_no": "161"
+    },
+    {
+        "name": "05276 - Khandesh Education Society¶s Late Shri Pandharinath Chhagansheth Bhandarkar College of D. Pharmacy and Late Prof R .K. Kele College of B.\nPharmacy, Amalner",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0527682310",
+        "course_name": "Pharmacy",
+        "page_no": "162"
+    },
+    {
+        "name": "05279 - Jagdamba Education Society's S.N.D. Institute of Pharmacy,Yeola",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0527982310",
+        "course_name": "Pharmacy",
+        "page_no": "163"
+    },
+    {
+        "name": "05281 - Mahavir Institute Of Pharmacy, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0528182310",
+        "course_name": "Pharmacy",
+        "page_no": "164"
+    },
+    {
+        "name": "05283 - Jijamata Foundation's Shree. P.E. (Tatya) Patil Institute of Pharmacy, Jalgaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0528382310",
+        "course_name": "Pharmacy",
+        "page_no": "165"
+    },
+    {
+        "name": "05286 - Swami Vivekanand Sanstha's Insttitute Of Pharmacy, Malegaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0528682310",
+        "course_name": "Pharmacy",
+        "page_no": "166"
+    },
+    {
+        "name": "05287 - Amrutvahini Sheti & Shikshan Vikas Sanstha`S Amrutwahini Institute Of Pharmacy, Sangamner",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0528782310",
+        "course_name": "Pharmacy",
+        "page_no": "167"
+    },
+    {
+        "name": "05292 - Matoshri Education Society's M. A. B. D. Institute of Pharmaceutical Education and Research, Babhulgaon, Tal. Yeola, Dist. Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0529282310",
+        "course_name": "Pharmacy",
+        "page_no": "168"
+    },
+    {
+        "name": "05293 - Nagaon Education Soc., Gangamai Institute of Pharmacy, Nagaon, Dist. Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0529382310",
+        "course_name": "Pharmacy",
+        "page_no": "169"
+    },
+    {
+        "name": "05294 - Godavari Shikshan Mandal's Asian Institute of Pharmacy, Nashik.",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0529482310",
+        "course_name": "Pharmacy",
+        "page_no": "170"
+    },
+    {
+        "name": "05295 - Sanjay Education Society's Institute of Pharmacy, Navalnagar, Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0529582310",
+        "course_name": "Pharmacy",
+        "page_no": "171"
+    },
+    {
+        "name": "05300 - Shraddha Rural Medical Social Welfare & Education's Sahakar Maharshi Kisanrao Varal Patil College Of Pharmacy, Nighoj, Tal.Parner, Dist.\nAhmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0530082310",
+        "course_name": "Pharmacy",
+        "page_no": "172"
+    },
+    {
+        "name": "05421 - Pravara Rural Education Society's College of PHarmacy (D.Pharm), Chincholi",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0542182310",
+        "course_name": "Pharmacy",
+        "page_no": "173"
+    },
+    {
+        "name": "05424 - Pratibhatai Pawer College of Pharmacy, Shrirampur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0542482310",
+        "course_name": "Pharmacy",
+        "page_no": "174"
+    },
+    {
+        "name": "05425 - Pravara Rural Education Society's Institute of Pharmacy, Loni Kd",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0542582310",
+        "course_name": "Pharmacy",
+        "page_no": "175"
+    },
+    {
+        "name": "05427 - R.G.Sapkal Institute of Pharmacy, Anjaneri",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0542782310",
+        "course_name": "Pharmacy",
+        "page_no": "176"
+    },
+    {
+        "name": "05428 - Ahinsa Institute of Pharmacy, Dondaicha",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 100,
+        "choice_code": "0542882310",
+        "course_name": "Pharmacy",
+        "page_no": "177"
+    },
+    {
+        "name": "05429 - Nimgaon Gramin Shikshan Prasarak Mandal's Institute of Pharmacy D.Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0542982310",
+        "course_name": "Pharmacy",
+        "page_no": "178"
+    },
+    {
+        "name": "05430 - Swami Institute of Pharmacy, Abhona",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0543082310",
+        "course_name": "Pharmacy",
+        "page_no": "179"
+    },
+    {
+        "name": "05439 - Dr Naikwadi College of D Pharmacy, Jamgaon Sinnar",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0543982310",
+        "course_name": "Pharmacy",
+        "page_no": "180"
+    },
+    {
+        "name": "05440 - Shaineshwar Shikshan Prasarak Mandal's College of D. Pharmacy, Laling, Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0544082310",
+        "course_name": "Pharmacy",
+        "page_no": "181"
+    },
+    {
+        "name": "05442 - MET's Institute of D. Pharmacy, Adgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0544282310",
+        "course_name": "Pharmacy",
+        "page_no": "182"
+    },
+    {
+        "name": "05446 - Matoshri Miratai Aher College of Pharmacy, Karjule Harya Taluka Parner",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0544682310",
+        "course_name": "Pharmacy",
+        "page_no": "183"
+    },
+    {
+        "name": "05450 - K. K. Wagh College of Pharmacy, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0545082310",
+        "course_name": "Pharmacy",
+        "page_no": "184"
+    },
+    {
+        "name": "05452 - Rupesh Badhan Institute of Pharmacy, Pimpalner",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0545282310",
+        "course_name": "Pharmacy",
+        "page_no": "185"
+    },
+    {
+        "name": "05454 - Shantiniketan College of Pharmacy, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0545482310",
+        "course_name": "Pharmacy",
+        "page_no": "186"
+    },
+    {
+        "name": "05455 - Shram Sadhana Bombay Trust's Institute of Pharmacy, Bambhori, Jalgaon",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0545582310",
+        "course_name": "Pharmacy",
+        "page_no": "187"
+    },
+    {
+        "name": "05459 - SHRI GULABRAO DEOKAR COLLEGE OF PHARMACY,SHIRSOLY ROAD, JALGAON",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0545982310",
+        "course_name": "Pharmacy",
+        "page_no": "188"
+    },
+    {
+        "name": "05460 - Dr. Kolpe Institute of Pharmacy, Kolpewadi",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0546082310",
+        "course_name": "Pharmacy",
+        "page_no": "189"
+    },
+    {
+        "name": "05461 - Arihant College of Pharmacy, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0546182310",
+        "course_name": "Pharmacy",
+        "page_no": "190"
+    },
+    {
+        "name": "05462 - Dharmaraj Shaikshanik Pratishthan's College of Pharmacy, Walki, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0546282310",
+        "course_name": "Pharmacy",
+        "page_no": "191"
+    },
+    {
+        "name": "05463 - K. K. Wagh Institute of Pharmacy A/P Chandori Tal. Nifad, Dist Nashik, Village- Pimpalas-422301",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0546382310",
+        "course_name": "Pharmacy",
+        "page_no": "192"
+    },
+    {
+        "name": "05464 - Vidya Niketan Institute of Pharmacy & Research Center, Bota",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0546482310",
+        "course_name": "Pharmacy",
+        "page_no": "193"
+    },
+    {
+        "name": "05466 - Shiva Trust, Shivajirao Pawar College of Pharmacy, At-Pachegaon, Tq.Newsa, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0546682310",
+        "course_name": "Pharmacy",
+        "page_no": "194"
+    },
+    {
+        "name": "05467 - Shastry Institute of Pharmacy, Erandol",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0546782310",
+        "course_name": "Pharmacy",
+        "page_no": "195"
+    },
+    {
+        "name": "05468 - Matoshri Education Society's Matoshri Institute of Pharmacy, Dhanore",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0546882310",
+        "course_name": "Pharmacy",
+        "page_no": "196"
+    },
+    {
+        "name": "05469 - P. G. College Of Pharmaceutical Science And Research, Chaupale",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0546982310",
+        "course_name": "Pharmacy",
+        "page_no": "197"
+    },
+    {
+        "name": "05471 - Saikrupa Institute Of Pharmacy, Ghargaon, Tal.Shrigonda",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0547182310",
+        "course_name": "Pharmacy",
+        "page_no": "198"
+    },
+    {
+        "name": "05472 - Sumantai Institute Of Pharmacy, Bamrud(Kh)",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0547282310",
+        "course_name": "Pharmacy",
+        "page_no": "199"
+    },
+    {
+        "name": "05473 - Dr Uttamrao Mahajan College Of B Pharmacy Chalisgaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0547382310",
+        "course_name": "Pharmacy",
+        "page_no": "200"
+    },
+    {
+        "name": "05474 - Kvn Naik S P Santha's Institute Of Pharmaceutical Education And Research Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0547482310",
+        "course_name": "Pharmacy",
+        "page_no": "201"
+    },
+    {
+        "name": "05476 - Jmct Institute Of Pharmacy, Nashik",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 48,
+        "choice_code": "0547682310",
+        "course_name": "Pharmacy",
+        "page_no": "202"
+    },
+    {
+        "name": "05477 - Rashtrasant Janardhan Swami College Of Pharmacy, Kokamthan",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0547782310",
+        "course_name": "Pharmacy",
+        "page_no": "203"
+    },
+    {
+        "name": "05478 - Rashtriya Shikshan Mandal N N Sattha College Of Pharmacy, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0547882310",
+        "course_name": "Pharmacy",
+        "page_no": "204"
+    },
+    {
+        "name": "05479 - Ashvin College of Pharmacy, Manchi Hill",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0547982310",
+        "course_name": "Pharmacy",
+        "page_no": "205"
+    },
+    {
+        "name": "05480 - Matoshri Radha College Of D.Pharmacy, Virgaon",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0548082310",
+        "course_name": "Pharmacy",
+        "page_no": "206"
+    },
+    {
+        "name": "05481 - Mrs. Saraswati Wani College Of D. Pharmacy, At Ganegaon",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0548182310",
+        "course_name": "Pharmacy",
+        "page_no": "207"
+    },
+    {
+        "name": "05482 - Dr Ithape Institute Of D Pharmacy Sangamner",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0548282310",
+        "course_name": "Pharmacy",
+        "page_no": "208"
+    },
+    {
+        "name": "05484 - Shri Swami Samarth Institute Of Pharmacy, Malwadi, Bota",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0548482310",
+        "course_name": "Pharmacy",
+        "page_no": "209"
+    },
+    {
+        "name": "05486 - Aditya Institute of Pharmacy, Chalisgaon",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0548682310",
+        "course_name": "Pharmacy",
+        "page_no": "210"
+    },
+    {
+        "name": "05488 - Shree Panchavati Education Society's Shrimati Narmadaben Popatlal Thakkar Institute of Pharmacy, Nashik",
+        "status": "Un-Aided Linguistic Minority - Gujarathi",
+        "cap_seats": 57,
+        "choice_code": "0548882310",
+        "course_name": "Pharmacy",
+        "page_no": "211"
+    },
+    {
+        "name": "05489 - Ratnadeep Pharmacy College, Ratnapur, Taluka Jamkhed, Dist. Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0548982310",
+        "course_name": "Pharmacy",
+        "page_no": "212"
+    },
+    {
+        "name": "05491 - Shatabdi Institute of Pharmacy, Bamdod, Nandurbar",
+        "status": "Un-Aided Linguistic Minority - Gujar",
+        "cap_seats": 60,
+        "choice_code": "0549182310",
+        "course_name": "Pharmacy",
+        "page_no": "213"
+    },
+    {
+        "name": "05492 - DK Auti College Of Pharmacy, A/P Taluka Parner, District Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0549282310",
+        "course_name": "Pharmacy",
+        "page_no": "214"
+    },
+    {
+        "name": "05493 - Varad College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0549382310",
+        "course_name": "Pharmacy",
+        "page_no": "215"
+    },
+    {
+        "name": "05494 - Shiva Trust Godavari College of Pharmacy, Manori, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0549482310",
+        "course_name": "Pharmacy",
+        "page_no": "216"
+    },
+    {
+        "name": "05495 - Swaddharak Vidhyarthi Sanstha's Dadasaheb Rawal Pharmacy College, (Mandal) Dondaicha",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0549582310",
+        "course_name": "Pharmacy",
+        "page_no": "217"
+    },
+    {
+        "name": "05500 - D.B. Patil College of Pharmacy, Parola",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0550082310",
+        "course_name": "Pharmacy",
+        "page_no": "218"
+    },
+    {
+        "name": "05501 - Sai Care College of Pharmacy, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0550182310",
+        "course_name": "Pharmacy",
+        "page_no": "219"
+    },
+    {
+        "name": "05503 - Indubai Bhadane Pratishthan's College of Pharmacy, Borkund, Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0550382310",
+        "course_name": "Pharmacy",
+        "page_no": "220"
+    },
+    {
+        "name": "05506 - Vishwabharati Academys, College of Pharmacy, Saroda baddi, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0550682310",
+        "course_name": "Pharmacy",
+        "page_no": "221"
+    },
+    {
+        "name": "05507 - P. V. Belhekar College of Pharmacy, Bhanshiware",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0550782310",
+        "course_name": "Pharmacy",
+        "page_no": "222"
+    },
+    {
+        "name": "05514 - Hon. Tukaramsheth S. Baviskar Institute of Pharmaceutical Education & Research, Dahiwad, Shirpur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0551482310",
+        "course_name": "Pharmacy",
+        "page_no": "223"
+    },
+    {
+        "name": "05515 - Wani College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0551582310",
+        "course_name": "Pharmacy",
+        "page_no": "224"
+    },
+    {
+        "name": "05517 - Sakeshwar College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0551782310",
+        "course_name": "Pharmacy",
+        "page_no": "225"
+    },
+    {
+        "name": "05518 - Shri. Sai Samarth Pharmacy College & Research Centre",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0551882310",
+        "course_name": "Pharmacy",
+        "page_no": "226"
+    },
+    {
+        "name": "05519 - Ashok College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0551982310",
+        "course_name": "Pharmacy",
+        "page_no": "227"
+    },
+    {
+        "name": "05520 - OBVS Nikam College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0552082310",
+        "course_name": "Pharmacy",
+        "page_no": "228"
+    },
+    {
+        "name": "05522 - Adsul College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0552282310",
+        "course_name": "Pharmacy",
+        "page_no": "229"
+    },
+    {
+        "name": "05523 - Loknete Appasaheb Rajale College of Pharmacy, Adinathnagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0552382310",
+        "course_name": "Pharmacy",
+        "page_no": "230"
+    },
+    {
+        "name": "05527 - N.C,Aba Patil Institute of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0552782310",
+        "course_name": "Pharmacy",
+        "page_no": "231"
+    },
+    {
+        "name": "05528 - Santoshimata College of Pharmacy, Panhalsathe",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0552882310",
+        "course_name": "Pharmacy",
+        "page_no": "232"
+    },
+    {
+        "name": "05531 - MKD College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0553182310",
+        "course_name": "Pharmacy",
+        "page_no": "233"
+    },
+    {
+        "name": "05534 - Aarogya Sampada College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0553482310",
+        "course_name": "Pharmacy",
+        "page_no": "234"
+    },
+    {
+        "name": "05536 - Shinde Institute of Pharmacy & Research",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0553682310",
+        "course_name": "Pharmacy",
+        "page_no": "235"
+    },
+    {
+        "name": "05538 - Hon. Shri Shankarrao Takekar Institute of Pharmaceutical Sciences and Research",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0553882310",
+        "course_name": "Pharmacy",
+        "page_no": "236"
+    },
+    {
+        "name": "05540 - Shri. Laxmanrao Tryambakrao Nakade Pharmacy College, Dhorjalgaon-NE",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0554082310",
+        "course_name": "Pharmacy",
+        "page_no": "237"
+    },
+    {
+        "name": "05541 - Trimurti Gramin Pharmacy College, Khadke",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0554182310",
+        "course_name": "Pharmacy",
+        "page_no": "238"
+    },
+    {
+        "name": "05542 - Late Valmikrao Sawant Institute of Pharmacy, Sayane Bk",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0554282310",
+        "course_name": "Pharmacy",
+        "page_no": "239"
+    },
+    {
+        "name": "05653 - Matoshri College of Pharmacy, Mhasrul",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0565382310",
+        "course_name": "Pharmacy",
+        "page_no": "240"
+    },
+    {
+        "name": "05654 - J.M. Kolpe College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0565482310",
+        "course_name": "Pharmacy",
+        "page_no": "241"
+    },
+    {
+        "name": "05657 - Dr.Bhanudas Dere College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0565782310",
+        "course_name": "Pharmacy",
+        "page_no": "242"
+    },
+    {
+        "name": "05658 - G.D. Burkule Institute of Research & Education in Pharmaceutical Sciences",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0565882310",
+        "course_name": "Pharmacy",
+        "page_no": "243"
+    },
+    {
+        "name": "05664 - Shri Vile Parle Kelavani Mandal's College of Pharmacy, Shirpur",
+        "status": "Un-Aided Linguistic Minority - Gujarathi",
+        "cap_seats": 100,
+        "choice_code": "0566482310",
+        "course_name": "Pharmacy",
+        "page_no": "244"
+    },
+    {
+        "name": "05676 - Dr. N.K.R. Shirole College of Pharmacy, Toli, Erandol, Dist.Jalgaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0567682310",
+        "course_name": "Pharmacy",
+        "page_no": "245"
+    },
+    {
+        "name": "05677 - Biyani Pharmacy College, Bhusawal",
+        "status": "Un-Aided",
+        "cap_seats": 56,
+        "choice_code": "0567782310",
+        "course_name": "Pharmacy",
+        "page_no": "246"
+    },
+    {
+        "name": "06381 - Abhinav Education Society, College of Pharmacy, Haveli, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0638182310",
+        "course_name": "Pharmacy",
+        "page_no": "247"
+    },
+    {
+        "name": "06381 - Abhinav Education Society, College of Pharmacy, Haveli, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0638110010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "248"
+    },
+    {
+        "name": "06383 - Kasturi Shikshan Sansthas College of Pharmacy, Shikrapur",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0638382310",
+        "course_name": "Pharmacy",
+        "page_no": "249"
+    },
+    {
+        "name": "06383 - Kasturi Shikshan Sansthas College of Pharmacy, Shikrapur",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0638310010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "250"
+    },
+    {
+        "name": "06390 - Meruling Shikshan Sansthas College of Pharmacy, Jawalwadi",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0639082310",
+        "course_name": "Pharmacy",
+        "page_no": "251"
+    },
+    {
+        "name": "06391 - Gaurishankar Educational and Charitable Trust's Gourishankar Institute of Pharmaceutical & Education Research, Limb, Satara",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0639182310",
+        "course_name": "Pharmacy",
+        "page_no": "252"
+    },
+    {
+        "name": "06392 - Late Narayandas Bhawandas Chhabada Institute of Pharmacy, Satara",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0639282310",
+        "course_name": "Pharmacy",
+        "page_no": "253"
+    },
+    {
+        "name": "06395 - Gourishankar Education Society's Satara College of Pharmacy, Satara",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0639582310",
+        "course_name": "Pharmacy",
+        "page_no": "254"
+    },
+    {
+        "name": "06398 - Shikshan & Krishi Vikas Pratishtan's Sahyadri College of Pharmacy, Methavade, Ta.:Sangola, Dist.: Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0639882310",
+        "course_name": "Pharmacy",
+        "page_no": "255"
+    },
+    {
+        "name": "06483 - Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum Pharmacy College",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0648382310",
+        "course_name": "Pharmacy",
+        "page_no": "256"
+    },
+    {
+        "name": "06501 - Shri Dhanlaxmi Foundation, Karad's Late Adv. Dadasaheb Chavan Memorial Institute of Pharmacy, Malwadi-Masur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0650182310",
+        "course_name": "Pharmacy",
+        "page_no": "257"
+    },
+    {
+        "name": "06503 - Shree Ambabai Talim Sanstha's Diploma In Pharmacy ,Wanlesswadi, Miraj, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0650382310",
+        "course_name": "Pharmacy",
+        "page_no": "258"
+    },
+    {
+        "name": "06504 - Yashoda Shikshan Prasarak mandal's Sojar College of Pharmacy, Khandvi, Barshi, Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0650482310",
+        "course_name": "Pharmacy",
+        "page_no": "259"
+    },
+    {
+        "name": "06509 - Walwa Taluka Education Societys S D Patil Institute of Pharmacy Urun Islampur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0650982310",
+        "course_name": "Pharmacy",
+        "page_no": "260"
+    },
+    {
+        "name": "06510 - Shriram Shikshan Sanstha's College of Pharmacy, Paniv, Malshiras, Dist. Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 58,
+        "choice_code": "0651082310",
+        "course_name": "Pharmacy",
+        "page_no": "261"
+    },
+    {
+        "name": "06516 - Krishna Charitable Trust's Krishna College of Pharmacy, Malkapur, Karad.",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0651682310",
+        "course_name": "Pharmacy",
+        "page_no": "262"
+    },
+    {
+        "name": "06757 - Yashoda Technical Campus, Wadhe, Satara.",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0675782310",
+        "course_name": "Pharmacy",
+        "page_no": "263"
+    },
+    {
+        "name": "06757 - Yashoda Technical Campus, Wadhe, Satara.",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0675710010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "264"
+    },
+    {
+        "name": "06820 - Adarsh College of Pharmacy, Vita Dist. Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0682082310",
+        "course_name": "Pharmacy",
+        "page_no": "265"
+    },
+    {
+        "name": "06827 - Mahadevrao Wandre Institute of Technology, Turkewadi",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0682782310",
+        "course_name": "Pharmacy",
+        "page_no": "266"
+    },
+    {
+        "name": "06829 - Womens College of Pharmacy,Peth Vadgaon, Tq - Hatkanangale",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0682982350F",
+        "course_name": "Pharmacy",
+        "page_no": "267"
+    },
+    {
+        "name": "06835 - Gandhi Natha Rangji College of Diploma Pharmacy, Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0683582310",
+        "course_name": "Pharmacy",
+        "page_no": "268"
+    },
+    {
+        "name": "06886 - Nootan College of Pharmacy, Kavathe-mahankal, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0688682310",
+        "course_name": "Pharmacy",
+        "page_no": "269"
+    },
+    {
+        "name": "06891 - Eklavya College of Pharmacy, Tasgaon , Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0689182310",
+        "course_name": "Pharmacy",
+        "page_no": "270"
+    },
+    {
+        "name": "06900 - Yashwant Redekar College Of Pharmacy B. Pharm. And D. Pharm., Nesari",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0690082310",
+        "course_name": "Pharmacy",
+        "page_no": "271"
+    },
+    {
+        "name": "06902 - Indrayani Vidya Mandir's Krishnarao Bhegade Institute of Pharamaceutical Education & Research",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0690282310",
+        "course_name": "Pharmacy",
+        "page_no": "272"
+    },
+    {
+        "name": "06905 - Navsahyadri Institute of Pharmacy, Naigaon( Nasarapur), Pune",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0690582310",
+        "course_name": "Pharmacy",
+        "page_no": "273"
+    },
+    {
+        "name": "06906 - Delight College of Pharmacy, Koregaon Bhima",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 48,
+        "choice_code": "0690682310",
+        "course_name": "Pharmacy",
+        "page_no": "274"
+    },
+    {
+        "name": "06908 - Ashokrao Mane Institute of Pharmaceutical Science and Research, Save",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0690882310",
+        "course_name": "Pharmacy",
+        "page_no": "275"
+    },
+    {
+        "name": "06909 - Y.D. Mane Institute of Pharmacy, Kagal, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0690982310",
+        "course_name": "Pharmacy",
+        "page_no": "276"
+    },
+    {
+        "name": "06910 - Samarth Institute of Pharmacy, Belhe , Junnar",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0691082310",
+        "course_name": "Pharmacy",
+        "page_no": "277"
+    },
+    {
+        "name": "06914 - Dattakala Institute of Pharmaceutical Science and Research, Swami Chincholi, Daund, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0691482310",
+        "course_name": "Pharmacy",
+        "page_no": "278"
+    },
+    {
+        "name": "06915 - DNYANVILAS COLLEGE OF PHARMACY, DUDULGAON TAl HAVELI DIST PUNE",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0691582310",
+        "course_name": "Pharmacy",
+        "page_no": "279"
+    },
+    {
+        "name": "06923 - Padmini College of Pharmacy, Atpadi, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0692382310",
+        "course_name": "Pharmacy",
+        "page_no": "280"
+    },
+    {
+        "name": "06927 - S.S.P Shikshan Sansthas Siddhi College Of Pharmacy",
+        "status": "Un-Aided Linguistic Minority - Kannada",
+        "cap_seats": 80,
+        "choice_code": "0692782310",
+        "course_name": "Pharmacy",
+        "page_no": "281"
+    },
+    {
+        "name": "06930 - Delonix Society's Baramati College Of Pharmacy, Barhanpur",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0693082310",
+        "course_name": "Pharmacy",
+        "page_no": "282"
+    },
+    {
+        "name": "06931 - Samarth College Of Pharmacy, A/P Belhe, Bangarwadi",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0693182310",
+        "course_name": "Pharmacy",
+        "page_no": "283"
+    },
+    {
+        "name": "06932 - Dr Bapuji Salunkhe Institute Of Pharmacy Miraj",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0693282310",
+        "course_name": "Pharmacy",
+        "page_no": "284"
+    },
+    {
+        "name": "06934 - Pune District Education Associations College Of Pharmacy Hadapsar Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0693482310",
+        "course_name": "Pharmacy",
+        "page_no": "285"
+    },
+    {
+        "name": "06935 - Lokmangal College Of Pharmacy, Wadala",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0693582310",
+        "course_name": "Pharmacy",
+        "page_no": "286"
+    },
+    {
+        "name": "06936 - Krishna Foundations Jaywant Institute Of Pharmacy Wathar Tal Karad.",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0693682310",
+        "course_name": "Pharmacy",
+        "page_no": "287"
+    },
+    {
+        "name": "06937 - Fabtech College Of Pharmacy, Sangola",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0693782310",
+        "course_name": "Pharmacy",
+        "page_no": "288"
+    },
+    {
+        "name": "06942 - School of Pharmacy and Research Centre, Baramati",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0694282310",
+        "course_name": "Pharmacy",
+        "page_no": "289"
+    },
+    {
+        "name": "06942 - School of Pharmacy and Research Centre, Baramati",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0694210010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "290"
+    },
+    {
+        "name": "06943 - Vidya Niketan College Of Pharmacy, Lakhewadi",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0694382310",
+        "course_name": "Pharmacy",
+        "page_no": "291"
+    },
+    {
+        "name": "06951 - Mandesh Institute Of Pharmaceutical Science And Research Centre Mhaswad",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0695182310",
+        "course_name": "Pharmacy",
+        "page_no": "292"
+    },
+    {
+        "name": "06952 - Mahadev Kanchan College Of Pharmaceutical Education And Research",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0695282310",
+        "course_name": "Pharmacy",
+        "page_no": "293"
+    },
+    {
+        "name": "06954 - Shri Ganpati Institute of Pharmaceutical Sciences and Research, Tembhurni",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0695482310",
+        "course_name": "Pharmacy",
+        "page_no": "294"
+    },
+    {
+        "name": "06956 - Trinity College Of Pharmacy Pune",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0695682310",
+        "course_name": "Pharmacy",
+        "page_no": "295"
+    },
+    {
+        "name": "06957 - Ashokrao Mane Institute Of Pharmacy Ambap, Hatkanangle",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0695782310",
+        "course_name": "Pharmacy",
+        "page_no": "296"
+    },
+    {
+        "name": "06958 - Genesis Institute Of Pharmacy, Radhanagari",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0695882310",
+        "course_name": "Pharmacy",
+        "page_no": "297"
+    },
+    {
+        "name": "06961 - Lokmanya Tilak Institute of Pharmaceutical Sciences, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0696182310",
+        "course_name": "Pharmacy",
+        "page_no": "298"
+    },
+    {
+        "name": "06962 - Late Laxmibai Phadtare College of Pharmacy, Kalamb",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0696282310",
+        "course_name": "Pharmacy",
+        "page_no": "299"
+    },
+    {
+        "name": "06963 - Riyajbhai Shamanji College of Pharmacy, Gadhinglaj",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0696382310",
+        "course_name": "Pharmacy",
+        "page_no": "300"
+    },
+    {
+        "name": "06964 - Amepurva Forum's Nirant Institute of Pharmacy. Boramani, Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0696482310",
+        "course_name": "Pharmacy",
+        "page_no": "301"
+    },
+    {
+        "name": "06965 - Shivraj College of Pharmacy, Gadhinglaj",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0696582310",
+        "course_name": "Pharmacy",
+        "page_no": "302"
+    },
+    {
+        "name": "06980 - Jaihind College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0698082310",
+        "course_name": "Pharmacy",
+        "page_no": "303"
+    },
+    {
+        "name": "06981 - Vitthal Pratishthan College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0698182310",
+        "course_name": "Pharmacy",
+        "page_no": "304"
+    },
+    {
+        "name": "06982 - New College of Pharmacy, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0698282310",
+        "course_name": "Pharmacy",
+        "page_no": "305"
+    },
+    {
+        "name": "06985 - VPS College of Pharmacy, Waksai, Lonavala",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0698582310",
+        "course_name": "Pharmacy",
+        "page_no": "306"
+    },
+    {
+        "name": "06988 - Radhabai Shinde College of Pharmacy, Bhadgaon, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0698882310",
+        "course_name": "Pharmacy",
+        "page_no": "307"
+    },
+    {
+        "name": "06989 - SEF¶s Suryadatta College of Pharmacy, Healthcare, & Research (SCPHR), Bavdhan, Pune",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 80,
+        "choice_code": "0698982310",
+        "course_name": "Pharmacy",
+        "page_no": "308"
+    },
+    {
+        "name": "16103 - Chetana College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1610382310",
+        "course_name": "Pharmacy",
+        "page_no": "309"
+    },
+    {
+        "name": "16104 - Bharati Vidyapeeth College of Pharmacy, Palus",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "1610482310",
+        "course_name": "Pharmacy",
+        "page_no": "310"
+    },
+    {
+        "name": "16107 - YSPM's Yashoda College of Pharmacy, Satara",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "1610782310",
+        "course_name": "Pharmacy",
+        "page_no": "311"
+    },
+    {
+        "name": "16109 - Dalit Mitra Kadam Guruji College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "1610982310",
+        "course_name": "Pharmacy",
+        "page_no": "312"
+    },
+    {
+        "name": "16110 - S.B. Patil College of Pharmacy, Indapur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1611082310",
+        "course_name": "Pharmacy",
+        "page_no": "313"
+    },
+    {
+        "name": "16111 - Rajmata Ahilyadevi Charitable Foundation, SVS College of Pharmaceutical Education & Research, Tembhurni, Tal.Mandha District Solapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "1611182310",
+        "course_name": "Pharmacy",
+        "page_no": "314"
+    },
+    {
+        "name": "16112 - Dr. Ashok Gujar Institute of Pharmacy, Vidyanagar Extn. Banawadi, Tal-Karad Dist-Satata",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "1611282310",
+        "course_name": "Pharmacy",
+        "page_no": "315"
+    },
+    {
+        "name": "16113 - Padmabhushan Krantiveer Dr. Nagnath Anna Nayakawadi College of Pharmacy, Walwa",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1611382310",
+        "course_name": "Pharmacy",
+        "page_no": "316"
+    },
+    {
+        "name": "16116 - Late Shree Fakirbhai Pansare Education Foundation College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1611682310",
+        "course_name": "Pharmacy",
+        "page_no": "317"
+    },
+    {
+        "name": "16335 - Dr.B.B.Khaladkar College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1633582310",
+        "course_name": "Pharmacy",
+        "page_no": "318"
+    },
+    {
+        "name": "16336 - Chandrabhaga College of Pharmacy,Katphal,Baramati",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1633682310",
+        "course_name": "Pharmacy",
+        "page_no": "319"
+    },
+    {
+        "name": "16337 - Anekant Education Society's College of Pharmacy, Baramati",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 100,
+        "choice_code": "1633782310",
+        "course_name": "Pharmacy",
+        "page_no": "320"
+    },
+    {
+        "name": "16338 - Priyadarshani Institute of Pharmaceutical Science & Research",
+        "status": "Un-Aided",
+        "cap_seats": 58,
+        "choice_code": "1633882310",
+        "course_name": "Pharmacy",
+        "page_no": "321"
+    },
+    {
+        "name": "16339 - Jayawant Institute of Pharmaceutical Sciences & Research, Bavdhan, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "1633982310",
+        "course_name": "Pharmacy",
+        "page_no": "322"
+    },
+    {
+        "name": "16340 - Phaltan Education Soc.,Pharmacy College & Research Centre, Phaltan",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1634082310",
+        "course_name": "Pharmacy",
+        "page_no": "323"
+    },
+    {
+        "name": "16341 - SNBP College of Pharmacy, Chikhali, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 94,
+        "choice_code": "1634182310",
+        "course_name": "Pharmacy",
+        "page_no": "324"
+    },
+    {
+        "name": "16343 - Shri Dhanaji Shelke College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1634382310",
+        "course_name": "Pharmacy",
+        "page_no": "325"
+    },
+    {
+        "name": "16344 - Shri L. D. Aher College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "1634482310",
+        "course_name": "Pharmacy",
+        "page_no": "326"
+    },
+    {
+        "name": "16347 - Karmayogi Institute of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "1634782310",
+        "course_name": "Pharmacy",
+        "page_no": "327"
+    },
+    {
+        "name": "04210 - Shree Tuljabhavani Sevabhavi Saikshanik & Samajik Sanstha, Hi-Tech College of Pharmacy, Morwa, Chandrapur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0421082310",
+        "course_name": "Pharmacy",
+        "page_no": "328"
+    },
+    {
+        "name": "05155 - Dhulia Charitable Society's Annasaheb Ramesh Ajmera College of Pharmacy, Nagaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0515582310",
+        "course_name": "Pharmacy",
+        "page_no": "329"
+    },
+    {
+        "name": "05187 - MGSM's Smt. Sharadchandrika Suresh Patil College of Pharmacy, Chopda",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0518782310",
+        "course_name": "Pharmacy",
+        "page_no": "330"
+    },
+    {
+        "name": "05189 - P.S.G.V.P.M.'s College of Pharmacy, Shahada",
+        "status": "Un-Aided Linguistic Minority - Gujar",
+        "cap_seats": 92,
+        "choice_code": "0518982310",
+        "course_name": "Pharmacy",
+        "page_no": "331"
+    },
+    {
+        "name": "05190 - Tapi Valley Education Society's Hon'ble Loksevak Madhukarrao Chaudhari College of Pharmacy, Faizpur",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0519082310",
+        "course_name": "Pharmacy",
+        "page_no": "332"
+    },
+    {
+        "name": "05196 - H. R. Patel Institute of Phamaceutical Educatiion & Research ,Shirpur, Dhule",
+        "status": "Un-Aided Linguistic Minority - Gujarathi",
+        "cap_seats": 100,
+        "choice_code": "0519682310",
+        "course_name": "Pharmacy",
+        "page_no": "333"
+    },
+    {
+        "name": "05199 - Shri Sureshdada Jain Institute Of Pharmaceutical Education and Research,Jamner Dist- Jalgaon",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0519982310",
+        "course_name": "Pharmacy",
+        "page_no": "334"
+    },
+    {
+        "name": "05200 - Shellino Education Society's Arunamai College of Pharmacy, Mamurabad, Jalgaon.",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0520082310",
+        "course_name": "Pharmacy",
+        "page_no": "335"
+    },
+    {
+        "name": "05204 - Nagaon Education Society Gangamai College of Pharmacy, Nagaon,Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0520482310",
+        "course_name": "Pharmacy",
+        "page_no": "336"
+    },
+    {
+        "name": "05206 - Kisan Vidya Prasarak's K.V.P.S. Institute of Pharmaceutical Education, Boradi, Shirpur, Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0520682310",
+        "course_name": "Pharmacy",
+        "page_no": "337"
+    },
+    {
+        "name": "05278 - The Shirpur Education Society's R.C.Patel Institute Of Pharmacy, Shirpur",
+        "status": "Un-Aided Linguistic Minority - Gujarathi",
+        "cap_seats": 100,
+        "choice_code": "0527882310",
+        "course_name": "Pharmacy",
+        "page_no": "338"
+    },
+    {
+        "name": "05282 - Jamia Isalamia Isha-atul Uloom's Ali-Allana College of Pharmacy, Akkalkuwa",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 100,
+        "choice_code": "0528282310",
+        "course_name": "Pharmacy",
+        "page_no": "339"
+    },
+    {
+        "name": "05407 - J.E.S.S. College of Pharmacy, Nandurbar",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0540782310",
+        "course_name": "Pharmacy",
+        "page_no": "340"
+    },
+    {
+        "name": "05435 - Prof. Ravindra Nikam College of Pharmacy, Gondur, Dhule",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0543582310",
+        "course_name": "Pharmacy",
+        "page_no": "341"
+    },
+    {
+        "name": "05437 - Trimurti Institute of Pharmacy, Paldhi (BK), Jalgaon",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0543782310",
+        "course_name": "Pharmacy",
+        "page_no": "342"
+    },
+    {
+        "name": "03005 - Government College of Pharmacy, Ratnagiri",
+        "status": "Government",
+        "cap_seats": 40,
+        "choice_code": "0300582310",
+        "course_name": "Pharmacy",
+        "page_no": "343"
+    },
+    {
+        "name": "03015 - Prin. K.M. Kundnani College of Pharmacy, Mumbai",
+        "status": "Government-Aided Linguistic Minority - Sindhi",
+        "cap_seats": 60,
+        "choice_code": "0301582310",
+        "course_name": "Pharmacy",
+        "page_no": "344"
+    },
+    {
+        "name": "03015 - Prin. K.M. Kundnani College of Pharmacy, Mumbai",
+        "status": "Un-Aided Linguistic Minority - Sindhi",
+        "cap_seats": 32,
+        "choice_code": "0301582370U",
+        "course_name": "Pharmacy",
+        "page_no": "345"
+    },
+    {
+        "name": "03205 - Bharati Vidyapeeth College of Pharmacy, Belapur, Navi Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0320582310",
+        "course_name": "Pharmacy",
+        "page_no": "346"
+    },
+    {
+        "name": "03225 - Saraswathi Vidya Bhavan's College of Pharmacy, Dombivli",
+        "status": "Un-Aided Linguistic Minority - Tamil",
+        "cap_seats": 80,
+        "choice_code": "0322582310",
+        "course_name": "Pharmacy",
+        "page_no": "347"
+    },
+    {
+        "name": "03226 - Mumbai Educational Trust's Institute of Pharmacy, Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0322682310",
+        "course_name": "Pharmacy",
+        "page_no": "348"
+    },
+    {
+        "name": "03229 - Dr. L. H. Hiranandani College of Pharmacy ,Ulhasnagar",
+        "status": "Un-Aided Linguistic Minority - Sindhi",
+        "cap_seats": 90,
+        "choice_code": "0322982310",
+        "course_name": "Pharmacy",
+        "page_no": "349"
+    },
+    {
+        "name": "03230 - NCRD's Sterling Institute of Pharmacy, Navi Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0323082310",
+        "course_name": "Pharmacy",
+        "page_no": "350"
+    },
+    {
+        "name": "03231 - Oriental College of Pharmacy , Navi Mumbai",
+        "status": "Un-Aided Linguistic Minority - Hindi",
+        "cap_seats": 80,
+        "choice_code": "0323182310",
+        "course_name": "Pharmacy",
+        "page_no": "351"
+    },
+    {
+        "name": "03232 - Yadavrao Tasgaonkar Institute of Pharmacy,Chandhai, Bhiv-puri Road Station, Tal-Karjat",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0323282310",
+        "course_name": "Pharmacy",
+        "page_no": "352"
+    },
+    {
+        "name": "03233 - Govindrao Nikam College Of Pharmacy, Sawarde",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0323382310",
+        "course_name": "Pharmacy",
+        "page_no": "353"
+    },
+    {
+        "name": "03234 - Maharashtra Education Society's H.K. College of Pharmacy, Jogeshwari, Mumbai",
+        "status": "Un-Aided Linguistic Minority - Hindi",
+        "cap_seats": 80,
+        "choice_code": "0323482310",
+        "course_name": "Pharmacy",
+        "page_no": "354"
+    },
+    {
+        "name": "03235 - Gahlot Institute of Pharmacy, Koparkhairane, Navi Mumbai",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0323582310",
+        "course_name": "Pharmacy",
+        "page_no": "355"
+    },
+    {
+        "name": "03236 - Konkan Gyanpeeth Rahul Dharkar College of Pharmacy & Research Institute, Karjat, Dahivali, Karjat Dist. Raigad",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0323682310",
+        "course_name": "Pharmacy",
+        "page_no": "356"
+    },
+    {
+        "name": "03238 - Adarsh Shikshan Mandal's Ideal College of Pharmacy & Research, Ambernath",
+        "status": "Un-Aided Linguistic Minority - Hindi",
+        "cap_seats": 80,
+        "choice_code": "0323882310",
+        "course_name": "Pharmacy",
+        "page_no": "357"
+    },
+    {
+        "name": "03239 - Prabhodhan Shikshan Prasarak Sanshta's Indira Institute of Pharmacy, Sadavali",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0323982310",
+        "course_name": "Pharmacy",
+        "page_no": "358"
+    },
+    {
+        "name": "03241 - Vighnarta Trust, Shivajirao Jondhale College of Pharmacy, Shahapur",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0324182310",
+        "course_name": "Pharmacy",
+        "page_no": "359"
+    },
+    {
+        "name": "03242 - Shri Rishikesh Shikshan Prasarak Mandal, D.D.Vispute College of Pharmacy & Research Center, (Devad),New Panvel",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0324282310",
+        "course_name": "Pharmacy",
+        "page_no": "360"
+    },
+    {
+        "name": "03464 - Viva Institute of Pharmacy, Virar(E)",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0346482310",
+        "course_name": "Pharmacy",
+        "page_no": "361"
+    },
+    {
+        "name": "03480 - Yashwantrao Bhonsale College of Pharmacy, A/P Charathe, Sawantwadi",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0348082310",
+        "course_name": "Pharmacy",
+        "page_no": "362"
+    },
+    {
+        "name": "03485 - St. Wilfred's Institute of Pharmacy, Panvel",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0348582310",
+        "course_name": "Pharmacy",
+        "page_no": "363"
+    },
+    {
+        "name": "03487 - Ideal Institute of Pharmacy, Wada",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0348782310",
+        "course_name": "Pharmacy",
+        "page_no": "364"
+    },
+    {
+        "name": "03499 - M.S. College Of Pharmacy, Devghar",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 48,
+        "choice_code": "0349982310",
+        "course_name": "Pharmacy",
+        "page_no": "365"
+    },
+    {
+        "name": "03506 - Shri. Pandit Baburao Chaughule College Of Pharmacy, Rahanal",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0350682310",
+        "course_name": "Pharmacy",
+        "page_no": "366"
+    },
+    {
+        "name": "03508 - B.K. Patil Institute of Pharmacy, Taloja, Panvel",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0350882310",
+        "course_name": "Pharmacy",
+        "page_no": "367"
+    },
+    {
+        "name": "03509 - Indala Institute of Pharmacy, Bapsai, Kalyan",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0350982310",
+        "course_name": "Pharmacy",
+        "page_no": "368"
+    },
+    {
+        "name": "03531 - B.R. Harne College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0353182310",
+        "course_name": "Pharmacy",
+        "page_no": "369"
+    },
+    {
+        "name": "03532 - Dnyandeep Shikshan Prasarak Mandal's Dnyandeep College of Pharmacy, At, Boraj, Khed",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0353282310",
+        "course_name": "Pharmacy",
+        "page_no": "370"
+    },
+    {
+        "name": "03537 - Vaishalitai Jondhale College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0353782310",
+        "course_name": "Pharmacy",
+        "page_no": "371"
+    },
+    {
+        "name": "03541 - AIMS College of Pharmacy, Vadavali, Kalyan",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0354182310",
+        "course_name": "Pharmacy",
+        "page_no": "372"
+    },
+    {
+        "name": "03542 - Bombay Institute of Pharmacy & Research ,Dombivli",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0354282310",
+        "course_name": "Pharmacy",
+        "page_no": "373"
+    },
+    {
+        "name": "03543 - St. Wilfred's Institute of Pharmaceutical Science & Research, Mira Road(E), Thane",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0354382310",
+        "course_name": "Pharmacy",
+        "page_no": "374"
+    },
+    {
+        "name": "03710 - SIES School of Pharmaceutical Science",
+        "status": "Un-Aided Linguistic Minority - Tamil",
+        "cap_seats": 80,
+        "choice_code": "0371082310",
+        "course_name": "Pharmacy",
+        "page_no": "375"
+    },
+    {
+        "name": "03716 - Theem College of Pharmacy & Research",
+        "status": "Un-Aided Religious Minority - Muslim",
+        "cap_seats": 60,
+        "choice_code": "0371682310",
+        "course_name": "Pharmacy",
+        "page_no": "376"
+    },
+    {
+        "name": "06397 - Shri. Vitthal Edu. & Research's College of Pharmacy, Gopalpur, Pandharpur",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0639782310",
+        "course_name": "Pharmacy",
+        "page_no": "377"
+    },
+    {
+        "name": "06399 - Shikshan Prasarak Mandal's College of Pharmacy, Akluj",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0639982310",
+        "course_name": "Pharmacy",
+        "page_no": "378"
+    },
+    {
+        "name": "06400 - D.S.T.S.Mandal's College of Pharmacy, Solapur",
+        "status": "Un-Aided Linguistic Minority - Kannada",
+        "cap_seats": 80,
+        "choice_code": "0640082310",
+        "course_name": "Pharmacy",
+        "page_no": "379"
+    },
+    {
+        "name": "04006 - Department of Pharmacutical Sciences, R. T. M. Nagpur University, Nagpur",
+        "status": "University Department",
+        "cap_seats": 30,
+        "choice_code": "0400682310",
+        "course_name": "Pharmacy",
+        "page_no": "380"
+    },
+    {
+        "name": "04160 - Institute of Pharmaceutical Education and Research, Borgaon (Meghe), Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0416082310",
+        "course_name": "Pharmacy",
+        "page_no": "381"
+    },
+    {
+        "name": "04161 - Jay Mahakali Shikshan Sanstha's Agnihotri College of Pharmacy, Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0416182310",
+        "course_name": "Pharmacy",
+        "page_no": "382"
+    },
+    {
+        "name": "04201 - Gondia Education Society Manohar Bhai Patel Institute of Pharmacy, Gondia",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0420182310",
+        "course_name": "Pharmacy",
+        "page_no": "383"
+    },
+    {
+        "name": "04202 - Guru Nanak College of Pharmacy, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0420282310",
+        "course_name": "Pharmacy",
+        "page_no": "384"
+    },
+    {
+        "name": "04204 - Bajiraoji Karanjakar College of Pharmacy, Sakoli , Bhandara",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0420482310",
+        "course_name": "Pharmacy",
+        "page_no": "385"
+    },
+    {
+        "name": "04205 - Ravi bahu Uddeshiya Shaikshanik Sanstha's Sonekar College of Pharmacy, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0420582310",
+        "course_name": "Pharmacy",
+        "page_no": "386"
+    },
+    {
+        "name": "04206 - Amar Seva Mandal's, Kamla Nehru College of Pharmacy, Butibori, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0420682310",
+        "course_name": "Pharmacy",
+        "page_no": "387"
+    },
+    {
+        "name": "04207 - DADASAHEB BALPANDE COLLEGE OF PHARMACY",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0420782310",
+        "course_name": "Pharmacy",
+        "page_no": "388"
+    },
+    {
+        "name": "04208 - Shri Sachhidanand Shikshan Sanstha Taywade College of Pharmacy, Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0420882310",
+        "course_name": "Pharmacy",
+        "page_no": "389"
+    },
+    {
+        "name": "04209 - Late Meghraj Ojha Smriti Shikshan Sanstha's, Shree Sainath College of Pharmacy,Nagpur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0420982310",
+        "course_name": "Pharmacy",
+        "page_no": "390"
+    },
+    {
+        "name": "04213 - Mahila Vikas Sanstha, Dr. R.G. Bhoyar Institute of Pharmaceutical Education & Research, Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0421382310",
+        "course_name": "Pharmacy",
+        "page_no": "391"
+    },
+    {
+        "name": "04269 - Shri.Sadashivrao Patil Shikshan Sanstha's Anurag College Of Pharmacy , Warathi, Bhandara",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0426982310",
+        "course_name": "Pharmacy",
+        "page_no": "392"
+    },
+    {
+        "name": "04650 - P.R.Patil Institute of Pharmacy, Talegaon(SP),Wardha",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0465082310",
+        "course_name": "Pharmacy",
+        "page_no": "393"
+    },
+    {
+        "name": "01003 - Government College of Pharmacy, Amravati",
+        "status": "Government",
+        "cap_seats": 60,
+        "choice_code": "0100382310",
+        "course_name": "Pharmacy",
+        "page_no": "394"
+    },
+    {
+        "name": "01003 - Government College of Pharmacy, Amravati",
+        "status": "Government",
+        "cap_seats": 30,
+        "choice_code": "0100310010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "395"
+    },
+    {
+        "name": "01115 - J.S.P Mandal's Sudhakarrao Naik Institute of Pharmacy, Pusad Dist. Yavatmal",
+        "status": "Un-Aided",
+        "cap_seats": 51,
+        "choice_code": "0111582310",
+        "course_name": "Pharmacy",
+        "page_no": "396"
+    },
+    {
+        "name": "01131 - Vidya Bharati College of Pharmacy, Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0113182310",
+        "course_name": "Pharmacy",
+        "page_no": "397"
+    },
+    {
+        "name": "01133 - Anuradha College Of Pharmacy, Chikhli",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0113382310",
+        "course_name": "Pharmacy",
+        "page_no": "398"
+    },
+    {
+        "name": "01134 - Yavatmal Zilla Vikas Samitee's Pataldhamal Wadhwani College of Pharmacy, Yavatmal",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0113482310",
+        "course_name": "Pharmacy",
+        "page_no": "399"
+    },
+    {
+        "name": "01135 - Shri Gurudatta Shikshan Prasarak Sanstha's Institute of Pharmacy, Kaulkhad, Akola",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0113582310",
+        "course_name": "Pharmacy",
+        "page_no": "400"
+    },
+    {
+        "name": "01136 - Dr. Rajendra Gode College of Pharmacy,Malkapur",
+        "status": "Un-Aided",
+        "cap_seats": 99,
+        "choice_code": "0113682310",
+        "course_name": "Pharmacy",
+        "page_no": "401"
+    },
+    {
+        "name": "01158 - Paramhansa Ramkrishna Maunibaba Shikshan Santha's Anuradha College of Pharmacy, Chikhali",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0115882310",
+        "course_name": "Pharmacy",
+        "page_no": "402"
+    },
+    {
+        "name": "01160 - Shri.Durgamata Bahuudeshiya Krida and Shaikshanik Sanstha,Ishwar Deshmukh Institute Of Pharmacy, Digras",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0116082310",
+        "course_name": "Pharmacy",
+        "page_no": "403"
+    },
+    {
+        "name": "01270 - MUP's College of Pharmacy (B. Pharm), Degaon Tq. Risod Dist. Washim",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0127082310",
+        "course_name": "Pharmacy",
+        "page_no": "404"
+    },
+    {
+        "name": "01271 - Rajarshi Shahu College of Pharmacy, Buldhana",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0127182310",
+        "course_name": "Pharmacy",
+        "page_no": "405"
+    },
+    {
+        "name": "01280 - Gawande College of Pharmacy, Sakharkherda",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0128082310",
+        "course_name": "Pharmacy",
+        "page_no": "406"
+    },
+    {
+        "name": "01282 - Laddhad College of Pharmacy, Yelgaon, Buldhana",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0128282310",
+        "course_name": "Pharmacy",
+        "page_no": "407"
+    },
+    {
+        "name": "01283 - P R Pote Patil College of Pharmacy, Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0128382310",
+        "course_name": "Pharmacy",
+        "page_no": "408"
+    },
+    {
+        "name": "01284 - Dr. Rajendra Gode Institute of Pharmacy, Amravati",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0128482310",
+        "course_name": "Pharmacy",
+        "page_no": "409"
+    },
+    {
+        "name": "01285 - MES College of Pharmacy, Mehkar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0128582310",
+        "course_name": "Pharmacy",
+        "page_no": "410"
+    },
+    {
+        "name": "01286 - Institute of Pharmacy & Research, Badnera",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0128682310",
+        "course_name": "Pharmacy",
+        "page_no": "411"
+    },
+    {
+        "name": "01291 - Shri. Sant Gajanan Maharaj College Of Pharmacy, Buldhana",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0129182310",
+        "course_name": "Pharmacy",
+        "page_no": "412"
+    },
+    {
+        "name": "01292 - Dr.R.N.Lahoti Institute Of Pharmaceutical Education And Research Center, Sultanpur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0129282310",
+        "course_name": "Pharmacy",
+        "page_no": "413"
+    },
+    {
+        "name": "01293 - Shraddha Institute Of Pharmacy, Washim",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0129382310",
+        "course_name": "Pharmacy",
+        "page_no": "414"
+    },
+    {
+        "name": "01294 - Samarth College Of Pharmacy, Deulgaon Raja",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0129482310",
+        "course_name": "Pharmacy",
+        "page_no": "415"
+    },
+    {
+        "name": "01295 - Karmayogi Tatyasaheb Bondre Institute Of Pharmacy, Chikhli",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0129582310",
+        "course_name": "Pharmacy",
+        "page_no": "416"
+    },
+    {
+        "name": "01299 - NK College of Pharmacy, Antraj Khamgaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0129982310",
+        "course_name": "Pharmacy",
+        "page_no": "417"
+    },
+    {
+        "name": "01303 - Satpuda Institute of Pharmacy, Shegaon",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0130382310",
+        "course_name": "Pharmacy",
+        "page_no": "418"
+    },
+    {
+        "name": "01304 - Mahatma Phule Pharmacy College, Babhulgaon Dist. Akola",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0130482310",
+        "course_name": "Pharmacy",
+        "page_no": "419"
+    },
+    {
+        "name": "01306 - Rajashri College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0130682310",
+        "course_name": "Pharmacy",
+        "page_no": "420"
+    },
+    {
+        "name": "05005 - NDMVP Samaj's College of Pharmacy, Nashik",
+        "status": "Government-Aided",
+        "cap_seats": 60,
+        "choice_code": "0500582310",
+        "course_name": "Pharmacy",
+        "page_no": "421"
+    },
+    {
+        "name": "05005 - NDMVP Samaj's College of Pharmacy, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 32,
+        "choice_code": "0500582370U",
+        "course_name": "Pharmacy",
+        "page_no": "422"
+    },
+    {
+        "name": "05185 - Pravara Rural Education Society's Pravara Rural College of Pharmacy,Pravararanagar",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0518582310",
+        "course_name": "Pharmacy",
+        "page_no": "423"
+    },
+    {
+        "name": "05185 - Pravara Rural Education Society's Pravara Rural College of Pharmacy,Pravararanagar",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0518510010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "424"
+    },
+    {
+        "name": "05191 - Dr. Vithalrao Vikhe Patil Foundation's College of Pharmacy, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0519182310",
+        "course_name": "Pharmacy",
+        "page_no": "425"
+    },
+    {
+        "name": "05191 - Dr. Vithalrao Vikhe Patil Foundation's College of Pharmacy, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 27,
+        "choice_code": "0519110010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "426"
+    },
+    {
+        "name": "05192 - SNJB's Shriman Sureshdada Jain College of Pharmacy, Neminagar, Chandwad, Nashik",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 100,
+        "choice_code": "0519282310",
+        "course_name": "Pharmacy",
+        "page_no": "427"
+    },
+    {
+        "name": "05193 - Mula Education Society's College of Pharmacy.Sonai",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0519382310",
+        "course_name": "Pharmacy",
+        "page_no": "428"
+    },
+    {
+        "name": "05197 - Jagdamba Education Soceity,S.N.D. College of Pharmacy Babhulgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0519782310",
+        "course_name": "Pharmacy",
+        "page_no": "429"
+    },
+    {
+        "name": "05197 - Jagdamba Education Soceity,S.N.D. College of Pharmacy Babhulgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0519710010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "430"
+    },
+    {
+        "name": "05198 - S.M.B.T. College Of Pharmacy Nandi Hills,Dhamangaon, Nashik.",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0519882310",
+        "course_name": "Pharmacy",
+        "page_no": "431"
+    },
+    {
+        "name": "05201 - Pravara Rural Education Society's College of Pharmacy (For Women) Chincholi Dist Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0520182350F",
+        "course_name": "Pharmacy",
+        "page_no": "432"
+    },
+    {
+        "name": "05202 - Nasik Gramin Shikshan Prasarak Mandal's College of Pharmacy, Anjneri , Nashik-Trimbak Road, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0520282310",
+        "course_name": "Pharmacy",
+        "page_no": "433"
+    },
+    {
+        "name": "05203 - K.B.H.S.S. Trust's Institute of Pharmacy, Malegaon Camp, Malegaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0520382310",
+        "course_name": "Pharmacy",
+        "page_no": "434"
+    },
+    {
+        "name": "05205 - MGVM's Samajshri Prashantdada Hiray College of Pharmacy, Malegaon Camp, Malegaon",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0520582310",
+        "course_name": "Pharmacy",
+        "page_no": "435"
+    },
+    {
+        "name": "05207 - MET's, Institute of Pharmacy,Bhujbal Knowledge City, Metleague Colleges, Adgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0520782310",
+        "course_name": "Pharmacy",
+        "page_no": "436"
+    },
+    {
+        "name": "05207 - MET's, Institute of Pharmacy,Bhujbal Knowledge City, Metleague Colleges, Adgaon, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0520710010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "437"
+    },
+    {
+        "name": "05208 - Royal College of Pharmacetical Education & Research, Sione, Khrud, Malegaon",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0520882310",
+        "course_name": "Pharmacy",
+        "page_no": "438"
+    },
+    {
+        "name": "05210 - Kalyani Charitable Trust, Ravindra Gambhirrao Sapkal College of Pharmacy, Anjaneri Tal. Trimbakeshwar Dist. Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0521082310",
+        "course_name": "Pharmacy",
+        "page_no": "439"
+    },
+    {
+        "name": "05211 - Shri. Vivekanand Nursing Home Trust, College of Pharmacy, Rahuri Factory, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0521182310",
+        "course_name": "Pharmacy",
+        "page_no": "440"
+    },
+    {
+        "name": "05212 - Shri. Gurudatta Shikshan Sansthas Loknete Dr. J.D. Pawar College of Pharmacy, Manur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0521282310",
+        "course_name": "Pharmacy",
+        "page_no": "441"
+    },
+    {
+        "name": "05303 - Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0530382310",
+        "course_name": "Pharmacy",
+        "page_no": "442"
+    },
+    {
+        "name": "05391 - Sandip Institute of Pharmaceutical Science, Nashik.",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0539182310",
+        "course_name": "Pharmacy",
+        "page_no": "443"
+    },
+    {
+        "name": "05405 - Matoshri College of Pharmacy, Eklahare, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0540582310",
+        "course_name": "Pharmacy",
+        "page_no": "444"
+    },
+    {
+        "name": "05405 - Matoshri College of Pharmacy, Eklahare, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0540510010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "445"
+    },
+    {
+        "name": "05410 - Gokhale Education Society's Sir Dr. M.S.Gosavi College of Pharmaceutical Education & Research, Nashik",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0541082310",
+        "course_name": "Pharmacy",
+        "page_no": "446"
+    },
+    {
+        "name": "05416 - Abasaheb Kakade College of B Pharmacy, At.Bodhegaon, Shevgaon, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0541682310",
+        "course_name": "Pharmacy",
+        "page_no": "447"
+    },
+    {
+        "name": "05443 - Divine College of Pharmacy, Satana",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0544382310",
+        "course_name": "Pharmacy",
+        "page_no": "448"
+    },
+    {
+        "name": "05451 - Dr. N.J. Paulbudhe College of Pharmacy, Ahmednagar",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0545182310",
+        "course_name": "Pharmacy",
+        "page_no": "449"
+    },
+    {
+        "name": "06257 - Rajgad Dnyanpeeth's College of Pharmacy, Bhor",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0625782310",
+        "course_name": "Pharmacy",
+        "page_no": "450"
+    },
+    {
+        "name": "06258 - Siddhant College of Pharmacy, Sudumbre",
+        "status": "Un-Aided Linguistic Minority - Hindi",
+        "cap_seats": 90,
+        "choice_code": "0625882310",
+        "course_name": "Pharmacy",
+        "page_no": "451"
+    },
+    {
+        "name": "06358 - Sinhgad College of Pharmacy, Vadgaon, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0635882310",
+        "course_name": "Pharmacy",
+        "page_no": "452"
+    },
+    {
+        "name": "06361 - Vishal Institute of Pharmaceutical Education & Research, Ale, (Alephata), Dist. Pune",
+        "status": "Un-Aided",
+        "cap_seats": 51,
+        "choice_code": "0636182310",
+        "course_name": "Pharmacy",
+        "page_no": "453"
+    },
+    {
+        "name": "06362 - Sinhgad Technical Education Society, Smt. Kashibai Navale College of Pharmacy, Kondhwa,(Bk.), Pune",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0636282310",
+        "course_name": "Pharmacy",
+        "page_no": "454"
+    },
+    {
+        "name": "06363 - Sinhgad Institute of Pharmacy, Narhe(Ambegaon), Pune",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0636382310",
+        "course_name": "Pharmacy",
+        "page_no": "455"
+    },
+    {
+        "name": "06364 - Progressive Education Society's Modern College of Pharmacy, Moshi, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0636482310",
+        "course_name": "Pharmacy",
+        "page_no": "456"
+    },
+    {
+        "name": "06364 - Progressive Education Society's Modern College of Pharmacy, Moshi, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0636410010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "457"
+    },
+    {
+        "name": "06365 - Shree Gajanan Maharaj Shikshan Prasarak Mandal Sharadchandra Pawar College of Pharmacy, At Dumbaarwadi (Otur)",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0636582310",
+        "course_name": "Pharmacy",
+        "page_no": "458"
+    },
+    {
+        "name": "06367 - Rajarshi Shahu College of Pharmacy & Research, Tathawade, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0636782310",
+        "course_name": "Pharmacy",
+        "page_no": "459"
+    },
+    {
+        "name": "06368 - Shri Chatrapati Sambhaji Shikshan Sanstha's Sitabai Thite College of Pharmarcy, Shirur, (Ghodnadi). Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0636882310",
+        "course_name": "Pharmacy",
+        "page_no": "460"
+    },
+    {
+        "name": "06369 - Rameshwar Maulee Pratishthan's Bhalchandra College of Pharmacy, Gorhe (KD), Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0636982310",
+        "course_name": "Pharmacy",
+        "page_no": "461"
+    },
+    {
+        "name": "06371 - Dr. D.Y. Patil College of Pharmacy , Akurdi, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0637182310",
+        "course_name": "Pharmacy",
+        "page_no": "462"
+    },
+    {
+        "name": "06371 - Dr. D.Y. Patil College of Pharmacy , Akurdi, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0637110010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "463"
+    },
+    {
+        "name": "06372 - Poona District Education Association's Seth Govind Raghunath Sable College of Pharmacy , Saswad, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0637282310",
+        "course_name": "Pharmacy",
+        "page_no": "464"
+    },
+    {
+        "name": "06376 - All India Shri Shivaji Memorial Society's College of Pharmacy, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0637682310",
+        "course_name": "Pharmacy",
+        "page_no": "465"
+    },
+    {
+        "name": "06377 - SVPM'S College of Pharmacy, Malegaon(BK) Baramati, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0637782310",
+        "course_name": "Pharmacy",
+        "page_no": "466"
+    },
+    {
+        "name": "06378 - Sinhgad Technical Education Society's Sinhgad Institute of Pharmaceutical Sciences , Lonavala",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0637882310",
+        "course_name": "Pharmacy",
+        "page_no": "467"
+    },
+    {
+        "name": "06380 - Marathwada Mitra Mandal's College of Pharmacy,Thergaon( Kalewadi) ,Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0638082310",
+        "course_name": "Pharmacy",
+        "page_no": "468"
+    },
+    {
+        "name": "06380 - Marathwada Mitra Mandal's College of Pharmacy,Thergaon( Kalewadi) ,Pune",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0638010010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "469"
+    },
+    {
+        "name": "06382 - Rajamata Jijau Shiksan Prasark Mandal College of Pharmacy, Dudul Gaon, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0638282310",
+        "course_name": "Pharmacy",
+        "page_no": "470"
+    },
+    {
+        "name": "06384 - Genba Education Trust, Genba Sopanrao Moze College of Pharmacy, Wagholi",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0638482310",
+        "course_name": "Pharmacy",
+        "page_no": "471"
+    },
+    {
+        "name": "06385 - Poona District Education Association, Shankarrao Ursal College of Pharmaceutical Sciences & Research Centre, Kharadi, Tal: Haveli",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0638582310",
+        "course_name": "Pharmacy",
+        "page_no": "472"
+    },
+    {
+        "name": "06387 - Jayawantrao Sawant College of Pharmacy & Research, Hadapsar, Pune",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0638782310",
+        "course_name": "Pharmacy",
+        "page_no": "473"
+    },
+    {
+        "name": "06396 - Swargeeya Sanjibhai Rupjibhai Memorial Trust S.S.R. College of Pharmacy, Silvassa",
+        "status": "Un-Aided",
+        "cap_seats": 18,
+        "choice_code": "0639682310",
+        "course_name": "Pharmacy",
+        "page_no": "474"
+    },
+    {
+        "name": "06823 - Shri.Jain Vidyaparasark Mandal's Rasiklal M. Dhariwal Institute of Pharmceutical Education & Research, Pune.",
+        "status": "Un-Aided Religious Minority - Jain",
+        "cap_seats": 95,
+        "choice_code": "0682382310",
+        "course_name": "Pharmacy",
+        "page_no": "475"
+    },
+    {
+        "name": "06833 - Dattakala College of Pharmacy, Chincholi, Daund",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0683382310",
+        "course_name": "Pharmacy",
+        "page_no": "476"
+    },
+    {
+        "name": "06879 - Loknete Shri. Dadapatil Pharate College of Pharmacy, At Post Manadavgan Pharata, Tal.Shirur, Dist. Pune",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0687982310",
+        "course_name": "Pharmacy",
+        "page_no": "477"
+    },
+    {
+        "name": "06008 - Government College of Pharmacy, Karad",
+        "status": "Government",
+        "cap_seats": 60,
+        "choice_code": "0600882310",
+        "course_name": "Pharmacy",
+        "page_no": "478"
+    },
+    {
+        "name": "06256 - Bharati Vidyapeeth's College of Pharmacy, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0625682310",
+        "course_name": "Pharmacy",
+        "page_no": "479"
+    },
+    {
+        "name": "06355 - Shri Balasaheb Mane Shikshan Prasarak Mandal's Ashokrao Mane College of Pharmacy,Peth Vadgaon, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 98,
+        "choice_code": "0635582310",
+        "course_name": "Pharmacy",
+        "page_no": "480"
+    },
+    {
+        "name": "06388 - Shri Appasaheb Birnale College of Pharmacy, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0638882310",
+        "course_name": "Pharmacy",
+        "page_no": "481"
+    },
+    {
+        "name": "06389 - K.E. Socities. Rajarambapu College of Pharmacy, Kasegaon, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0638982310",
+        "course_name": "Pharmacy",
+        "page_no": "482"
+    },
+    {
+        "name": "06393 - Samarth Education Trust Arvind Gavali college of Pharmacy, Satara",
+        "status": "Un-Aided",
+        "cap_seats": 90,
+        "choice_code": "0639382310",
+        "course_name": "Pharmacy",
+        "page_no": "483"
+    },
+    {
+        "name": "06394 - Shree Santkrupa College of Pharmacy, Ghogaon,Satara",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0639482310",
+        "course_name": "Pharmacy",
+        "page_no": "484"
+    },
+    {
+        "name": "06491 - Shri Y.S.P.Mandal's Vasantidevi Patil Institute of Pharmacy , Kodoli, Dist.Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0649182310",
+        "course_name": "Pharmacy",
+        "page_no": "485"
+    },
+    {
+        "name": "06491 - Shri Y.S.P.Mandal's Vasantidevi Patil Institute of Pharmacy , Kodoli, Dist.Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0649110010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "486"
+    },
+    {
+        "name": "06616 - Sant Gajanan Maharaj College of Pharmacy, Gadhinglaj",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0661682310",
+        "course_name": "Pharmacy",
+        "page_no": "487"
+    },
+    {
+        "name": "06616 - Sant Gajanan Maharaj College of Pharmacy, Gadhinglaj",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0661610010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "488"
+    },
+    {
+        "name": "06890 - Teerthankar Education Society's Dr. Shivajirao Kadam College of B.Pharmacy, Kasbe Digraj Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 93,
+        "choice_code": "0689082310",
+        "course_name": "Pharmacy",
+        "page_no": "489"
+    },
+    {
+        "name": "06893 - Sant Dnyaneshwar Shikshan Sanstha, Annasaheb Dange College of B.Pharmacy, Ashta, Sangli",
+        "status": "Un-Aided",
+        "cap_seats": 84,
+        "choice_code": "0689382310",
+        "course_name": "Pharmacy",
+        "page_no": "490"
+    },
+    {
+        "name": "06904 - Anandi Pharmacy College, Kalambe Tarf Kale",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0690482310",
+        "course_name": "Pharmacy",
+        "page_no": "491"
+    },
+    {
+        "name": "06907 - Sarogini College of Pharmacy, Kolhapur",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0690782310",
+        "course_name": "Pharmacy",
+        "page_no": "492"
+    },
+    {
+        "name": "03017 - C U Shah College of Pharmacy for Women, Mumbai",
+        "status": "Government-Aided",
+        "cap_seats": 30,
+        "choice_code": "0301782350F",
+        "course_name": "Pharmacy",
+        "page_no": "493"
+    },
+    {
+        "name": "02029 - School of Pharmacy,Swami Ramanand Teerth,Marathwada University,Nanded",
+        "status": "University Department",
+        "cap_seats": 60,
+        "choice_code": "0202982310",
+        "course_name": "Pharmacy",
+        "page_no": "494"
+    },
+    {
+        "name": "02147 - Maharashtra College of Pharmacy, Nilanga",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0214782310",
+        "course_name": "Pharmacy",
+        "page_no": "495"
+    },
+    {
+        "name": "02149 - Sharda Bhavan Education Society's Nanded Pharmacy College, Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 32,
+        "choice_code": "0214982310",
+        "course_name": "Pharmacy",
+        "page_no": "496"
+    },
+    {
+        "name": "02152 - Shivlingeshwar College of Pharmacy, Almala, Dist. Latur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0215282310",
+        "course_name": "Pharmacy",
+        "page_no": "497"
+    },
+    {
+        "name": "02152 - Shivlingeshwar College of Pharmacy, Almala, Dist. Latur",
+        "status": "Un-Aided",
+        "cap_seats": 30,
+        "choice_code": "0215210010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "498"
+    },
+    {
+        "name": "02156 - Dayanand Education Society's Dayanand College of Pharmacy, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0215682310",
+        "course_name": "Pharmacy",
+        "page_no": "499"
+    },
+    {
+        "name": "02157 - Sahyog Sewabhavi Sanstha's Indira College of Pharmacy, Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0215782310",
+        "course_name": "Pharmacy",
+        "page_no": "500"
+    },
+    {
+        "name": "02157 - Sahyog Sewabhavi Sanstha's Indira College of Pharmacy, Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 24,
+        "choice_code": "0215710010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "501"
+    },
+    {
+        "name": "02253 - Channabasweshwar Pharmacy College ( Degree), Latur",
+        "status": "Un-Aided",
+        "cap_seats": 80,
+        "choice_code": "0225382310",
+        "course_name": "Pharmacy",
+        "page_no": "502"
+    },
+    {
+        "name": "02253 - Channabasweshwar Pharmacy College ( Degree), Latur",
+        "status": "Un-Aided",
+        "cap_seats": 27,
+        "choice_code": "0225310010",
+        "course_name": "Pharm D ( Doctor of Pharmacy)",
+        "page_no": "503"
+    },
+    {
+        "name": "02538 - Latur College of Pharmacy, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0253882310",
+        "course_name": "Pharmacy",
+        "page_no": "504"
+    },
+    {
+        "name": "02541 - Sarswati Institute of Pharmacy, Kurtadi, Hingoli",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0254182310",
+        "course_name": "Pharmacy",
+        "page_no": "505"
+    },
+    {
+        "name": "02548 - Swargiya Lilawati Satish Awhad D.Pharmacy College(Minority), Kharab Khandgaon.",
+        "status": "Un-Aided Religious Minority - Buddhist",
+        "cap_seats": 100,
+        "choice_code": "0254882310",
+        "course_name": "Pharmacy",
+        "page_no": "506"
+    },
+    {
+        "name": "02550 - Prerana Institute of Pharmacy(D.Pharmacy), Parbhani",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0255082310",
+        "course_name": "Pharmacy",
+        "page_no": "507"
+    },
+    {
+        "name": "02553 - Latur College of Pharmacy, Gurunathappa Bavage Knowledge City",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0255382310",
+        "course_name": "Pharmacy",
+        "page_no": "508"
+    },
+    {
+        "name": "02556 - Rajashri Shahu College of Pharmacy, Markhel",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0255682310",
+        "course_name": "Pharmacy",
+        "page_no": "509"
+    },
+    {
+        "name": "02574 - Durgamata Institute of Pharmacy, Darmapuri, Parbhani",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0257482310",
+        "course_name": "Pharmacy",
+        "page_no": "510"
+    },
+    {
+        "name": "02577 - Dayanand Education Society's Dayanand Institute of Pharmacy, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0257782310",
+        "course_name": "Pharmacy",
+        "page_no": "511"
+    },
+    {
+        "name": "02579 - D.K. Patil Institute of Pharmacy, Loha, Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0257982310",
+        "course_name": "Pharmacy",
+        "page_no": "512"
+    },
+    {
+        "name": "02583 - Swami Vivekanand College of Pharmacy, Udgir",
+        "status": "Un-Aided",
+        "cap_seats": 54,
+        "choice_code": "0258382310",
+        "course_name": "Pharmacy",
+        "page_no": "513"
+    },
+    {
+        "name": "02585 - Balwantrao Chavan College of Pharmacy Naigaon(BZ), Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0258582310",
+        "course_name": "Pharmacy",
+        "page_no": "514"
+    },
+    {
+        "name": "02593 - S.R. Institute of Diploma in Pharmacy, Udgir",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0259382310",
+        "course_name": "Pharmacy",
+        "page_no": "515"
+    },
+    {
+        "name": "02610 - Shivprasad College Of Pharmacy, mukhed",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0261082310",
+        "course_name": "Pharmacy",
+        "page_no": "516"
+    },
+    {
+        "name": "02612 - Shrimati Latatai Baburao Patil Institute Of Pharmacy, Khandgaon, Bendri",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0261282310",
+        "course_name": "Pharmacy",
+        "page_no": "517"
+    },
+    {
+        "name": "02618 - Shri Sambhaji College Of Pharmacy, Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 95,
+        "choice_code": "0261882310",
+        "course_name": "Pharmacy",
+        "page_no": "518"
+    },
+    {
+        "name": "02628 - Saraswati Institute of Pharmacy, Pangri, Dist.Nanded",
+        "status": "Un-Aided",
+        "cap_seats": 100,
+        "choice_code": "0262882310",
+        "course_name": "Pharmacy",
+        "page_no": "519"
+    },
+    {
+        "name": "02630 - Ramesh Patil Institute of Pharmacy, Khandgaon(Bendri)",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0263082310",
+        "course_name": "Pharmacy",
+        "page_no": "520"
+    },
+    {
+        "name": "02639 - Mahatma Basweshwar College of Pharmacy, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0263982310",
+        "course_name": "Pharmacy",
+        "page_no": "521"
+    },
+    {
+        "name": "02640 - Shriram Pratishtan Aditya Institute of Pharmacy, Sailu",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0264082310",
+        "course_name": "Pharmacy",
+        "page_no": "522"
+    },
+    {
+        "name": "02645 - Dr. Narayanrao Chate College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0264582310",
+        "course_name": "Pharmacy",
+        "page_no": "523"
+    },
+    {
+        "name": "02649 - Radhai College of Pharmacy",
+        "status": "Un-Aided",
+        "cap_seats": 48,
+        "choice_code": "0264982310",
+        "course_name": "Pharmacy",
+        "page_no": "524"
+    },
+    {
+        "name": "02661 - MAEER Pune's Maharashtra Institute of Pharmaceutical sciences, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 57,
+        "choice_code": "0266182310",
+        "course_name": "Pharmacy",
+        "page_no": "525"
+    },
+    {
+        "name": "02761 - JSPM's Shivajirao Patil Kavekar College of Pharmacy, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0276182310",
+        "course_name": "Pharmacy",
+        "page_no": "526"
+    },
+    {
+        "name": "02763 - Siddheshwar College of Pharmacy, Latur",
+        "status": "Un-Aided",
+        "cap_seats": 60,
+        "choice_code": "0276382310",
+        "course_name": "Pharmacy",
+        "page_no": "527"
+    }
+]
